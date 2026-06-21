@@ -1,0 +1,1852 @@
+Club,Name,League,Count
+Manchester_City_F.C.,Manchester City F.C.,Premier League,40
+FC_Bayern_Munich,FC Bayern Munich,Bundesliga,35
+Chelsea_F.C.,Chelsea F.C.,Premier League,35
+PSV_Eindhoven,PSV Eindhoven,Eredivisie,32
+Manchester_United_F.C.,Manchester United F.C.,Premier League,31
+S.L._Benfica,S.L. Benfica,Primeira Liga,29
+Real_Madrid_CF,Real Madrid CF,La Liga,28
+Arsenal_F.C.,Arsenal F.C.,Premier League,28
+Borussia_Dortmund,Borussia Dortmund,Bundesliga,28
+AFC_Ajax,AFC Ajax,Eredivisie,27
+FC_Barcelona,FC Barcelona,La Liga,27
+TSG_1899_Hoffenheim,TSG 1899 Hoffenheim,Bundesliga,26
+AS_Roma,AS Roma,Serie A,26
+Atl%C3%A9tico_Madrid,Atlético Madrid,La Liga,26
+Olympique_de_Marseille,Olympique de Marseille,Ligue 1,26
+RB_Leipzig,RB Leipzig,Bundesliga,25
+AC_Milan,AC Milan,Serie A,25
+Villarreal_CF,Villarreal CF,La Liga,24
+Bayer_04_Leverkusen,Bayer 04 Leverkusen,Bundesliga,23
+Club_Brugge_KV,Club Brugge KV,Belgian Pro League,23
+Nottingham_Forest_F.C.,Nottingham Forest F.C.,Premier League,23
+Brighton_%26_Hove_Albion_F.C.,Brighton & Hove Albion F.C.,Premier League,23
+Wolverhampton_Wanderers_F.C.,Wolverhampton Wanderers F.C.,EFL Championship,22
+FC_Schalke_04,FC Schalke 04,Bundesliga,22
+Lille_OSC,Lille OSC,Ligue 1,22
+Eintracht_Frankfurt,Eintracht Frankfurt,Bundesliga,22
+FC_Porto,FC Porto,Primeira Liga,21
+Fenerbah%C3%A7e_S.K._(football),Fenerbahçe S.K. (football),Süper Lig,21
+Feyenoord,Feyenoord,Eredivisie,21
+FC_Red_Bull_Salzburg,FC Red Bull Salzburg,Austrian Bundesliga,21
+Paris_Saint-Germain_FC,Paris Saint-Germain FC,Ligue 1,21
+Crystal_Palace_F.C.,Crystal Palace F.C.,Premier League,21
+Aston_Villa_F.C.,Aston Villa F.C.,Premier League,21
+Olympique_Lyonnais,Olympique Lyonnais,Ligue 1,20
+VfB_Stuttgart,VfB Stuttgart,Bundesliga,20
+VfL_Wolfsburg,VfL Wolfsburg,2. Bundesliga,20
+Juventus_FC,Juventus FC,Serie A,20
+Sporting_CP,Sporting CP,Primeira Liga,20
+Liverpool_F.C.,Liverpool F.C.,Premier League,19
+Al_Hilal_SFC,Al Hilal SFC,Saudi Pro League,19
+RC_Lens,RC Lens,Ligue 1,19
+Celtic_F.C.,Celtic F.C.,Scottish Premiership,18
+Sunderland_A.F.C.,Sunderland A.F.C.,Premier League,18
+Galatasaray_S.K._(football),Galatasaray S.K. (football),Süper Lig,18
+SK_Slavia_Prague,SK Slavia Prague,Czech First League,17
+AS_Monaco_FC,AS Monaco FC,Ligue 1,17
+Newcastle_United_F.C.,Newcastle United F.C.,Premier League,17
+Tottenham_Hotspur_F.C.,Tottenham Hotspur F.C.,Premier League,17
+Atalanta_BC,Atalanta BC,Serie A,17
+Inter_Milan,Inter Milan,Serie A,17
+Jong_Ajax,Jong Ajax,Eerste Divisie,17
+Jong_PSV,Jong PSV,Eerste Divisie,16
+GNK_Dinamo_Zagreb,GNK Dinamo Zagreb,Croatian Football League,16
+Stade_Rennais_FC,Stade Rennais FC,Ligue 1,16
+OGC_Nice,OGC Nice,Ligue 1,16
+West_Ham_United_F.C.,West Ham United F.C.,EFL Championship,15
+Everton_F.C.,Everton F.C.,Premier League,15
+FC_Liefering,FC Liefering,2. Liga,15
+Borussia_M%C3%B6nchengladbach,Borussia Mönchengladbach,Bundesliga,15
+BSC_Young_Boys,BSC Young Boys,Swiss Super League,15
+Stade_de_Reims,Stade de Reims,Ligue 2,15
+RC_Strasbourg_Alsace,RC Strasbourg Alsace,Ligue 1,15
+Leicester_City_F.C.,Leicester City F.C.,EFL League One,15
+S.L._Benfica_B,S.L. Benfica B,Liga Portugal 2,15
+SC_Freiburg,SC Freiburg,Bundesliga,14
+Real_Betis,Real Betis,La Liga,14
+Fulham_F.C.,Fulham F.C.,Premier League,14
+KRC_Genk,KRC Genk,Belgian Pro League,14
+FC_Augsburg,FC Augsburg,Bundesliga,14
+Watford_F.C.,Watford F.C.,EFL Championship,14
+FC_Basel,FC Basel,Unknown,14
+Le_Havre_AC,Le Havre AC,Ligue 1,14
+Real_Sociedad,Real Sociedad,La Liga,14
+FC_Groningen,FC Groningen,Eredivisie,14
+Wellington_Phoenix_FC,Wellington Phoenix FC,A-League Men,14
+Persepolis_F.C.,Persepolis F.C.,Persian Gulf Pro League,14
+Al-Hussein_SC_(Irbid),Al-Hussein SC (Irbid),Jordanian Pro League,14
+FC_Viktoria_Plze%C5%88,FC Viktoria Plzeň,Czech First League,13
+Real_Madrid_Castilla,Real Madrid Castilla,Primera Federación,13
+Birmingham_City_F.C.,Birmingham City F.C.,EFL Championship,13
+Rangers_F.C.,Rangers F.C.,Scottish Premiership,13
+FC_Bayern_Munich_II,FC Bayern Munich II,Regionalliga Bayern,13
+AFC_Bournemouth,AFC Bournemouth,Premier League,13
+Esteghlal_F.C.,Esteghlal F.C.,Persian Gulf Pro League,13
+Toulouse_FC,Toulouse FC,Ligue 1,13
+Al_Ahly_SC,Al Ahly SC,Egyptian Premier League,13
+Girona_FC,Girona FC,Segunda División,12
+AZ_Alkmaar,AZ Alkmaar,Eredivisie,12
+Burnley_F.C.,Burnley F.C.,EFL Championship,12
+Olympiacos_F.C.,Olympiacos F.C.,Super League Greece,12
+FC_St._Pauli,FC St. Pauli,2. Bundesliga,12
+Southampton_F.C.,Southampton F.C.,EFL Championship,12
+Bologna_FC_1909,Bologna FC 1909,Serie A,12
+Brentford_F.C.,Brentford F.C.,Premier League,12
+Angers_SCO,Angers SCO,Ligue 1,12
+Wellington_Phoenix_FC_Reserves,Wellington Phoenix FC Reserves,Central League,12
+Hertha_BSC,Hertha BSC,2. Bundesliga,11
+FC_Midtjylland,FC Midtjylland,Superliga,11
+C.D._Guadalajara,C.D. Guadalajara,Liga MX,11
+Club_Am%C3%A9rica,Club América,Liga MX,11
+SSC_Napoli,SSC Napoli,Serie A,11
+Vancouver_Whitecaps_FC,Vancouver Whitecaps FC,Major League Soccer,11
+Hamburger_SV,Hamburger SV,Bundesliga,11
+Al-Duhail_SC,Al Duhail SC,Qatar Stars League,11
+RCD_Mallorca,RCD Mallorca,Segunda División,11
+FC_Sochaux-Montb%C3%A9liard,FC Sochaux-Montbéliard,Ligue 2,11
+Norwich_City_F.C.,Norwich City F.C.,EFL Championship,11
+Udinese_Calcio,Udinese Calcio,Serie A,11
+Sevilla_FC,Sevilla FC,La Liga,11
+CR_Flamengo,CR Flamengo,Campeonato Brasileiro Série A,11
+SE_Palmeiras,SE Palmeiras,Campeonato Brasileiro Série A,11
+R.S.C._Anderlecht,R.S.C. Anderlecht,Unknown,11
+%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_F.K.,İstanbul Başakşehir F.K.,Süper Lig,11
+Club_Atl%C3%A9tico_River_Plate,Club Atlético River Plate,Liga Profesional,11
+Trabzonspor,Trabzonspor,Süper Lig,11
+SC_Heerenveen,SC Heerenveen,Eredivisie,11
+Al-Shorta_SC,Al-Shorta SC,Iraq Stars League,11
+AC_Sparta_Prague,AC Sparta Prague,Czech First League,10
+Be%C5%9Fikta%C5%9F_J.K.,Beşiktaş J.K.,Süper Lig,10
+FC_Twente,FC Twente,Eredivisie,10
+Granada_CF,Granada CF,Segunda División,10
+SuperSport_United_F.C.,SuperSport United F.C.,South African Premiership,10
+Valencia_CF,Valencia CF,La Liga,10
+US_Sassuolo_Calcio,US Sassuolo Calcio,Serie A,10
+Al-Arabi_SC_(Qatar),Al-Arabi SC (Qatar),Qatar Stars League,10
+Al-Gharafa_SC,Al-Gharafa SC,Qatar Stars League,10
+Leeds_United_F.C.,Leeds United F.C.,Premier League,10
+FC_Metz,FC Metz,Ligue 2,10
+Sporting_CP_B,Sporting CP B,Liga Portugal 2,10
+Reading_F.C.,Reading F.C.,EFL League One,10
+Kas%C4%B1mpa%C5%9Fa_S.K.,Kasımpaşa S.K.,Süper Lig,10
+C.S.D._Independiente_del_Valle,C.S.D. Independiente del Valle,Unknown,10
+Al_Nassr_FC,Al Nassr FC,Unknown,10
+K.A.A._Gent,K.A.A. Gent,Unknown,10
+Pyramids_FC,Pyramids FC,Egyptian Premier League,10
+Cruz_Azul,Cruz Azul,Liga MX,9
+UD_Almer%C3%ADa,UD Almería,Segunda División,9
+Genoa_CFC,Genoa CFC,Serie A,9
+Jeonbuk_Hyundai_Motors,Jeonbuk Hyundai Motors,K League 1,9
+1._FSV_Mainz_05,1. FSV Mainz 05,Bundesliga,9
+Swansea_City_A.F.C.,Swansea City A.F.C.,EFL Championship,9
+FC_Schalke_04_II,FC Schalke 04 II,Regionalliga West,9
+Royale_Union_Saint-Gilloise,Royale Union Saint-Gilloise,Belgian Pro League,9
+Al-Rayyan_SC,Al-Rayyan SC,Qatar Stars League,9
+Sint-Truidense_V.V.,Sint-Truidense VV,Belgian Pro League,9
+FC_Lorient,FC Lorient,Ligue 1,9
+FC_Nantes,FC Nantes,Ligue 2,9
+Coventry_City_F.C.,Coventry City F.C.,Premier League,9
+Sheffield_United_F.C.,Sheffield United F.C.,EFL Championship,9
+Ipswich_Town_F.C.,Ipswich Town F.C.,Premier League,9
+Al-Ahli_Saudi_FC,Al-Ahli Saudi FC,Unknown,9
+FC_Porto_B,FC Porto B,Liga Portugal 2,9
+FC_Nordsj%C3%A6lland,FC Nordsjælland,Superliga,9
+Olympique_Lyonnais_Reserves_and_Academy,Olympique Lyonnais Reserves and Academy,Championnat National 3,9
+Al-Quwa_Al-Jawiya,Al-Quwa Al-Jawiya,Iraq Stars League,9
+Al-Wehdat_SC,Al-Wehdat SC,Jordanian Pro League,9
+FC_Nasaf,FC Nasaf,Uzbekistan Super League,9
+FC_Slovan_Liberec,FC Slovan Liberec,Czech First League,8
+S.C._Braga,S.C. Braga,Primeira Liga,8
+Standard_Li%C3%A8ge,Standard Liège,Belgian Pro League,8
+Mamelodi_Sundowns_F.C.,Mamelodi Sundowns F.C.,Unknown,8
+Orlando_Pirates_F.C.,Orlando Pirates F.C.,South African Premiership,8
+FC_Barcelona_B,FC Barcelona Atlètic,Segunda Federación,8
+Stoke_City_F.C.,Stoke City F.C.,EFL Championship,8
+ACF_Fiorentina,ACF Fiorentina,Serie A,8
+Hull_City_A.F.C.,Hull City A.F.C.,Premier League,8
+Stade_Rennais_F.C.,Stade Rennais F.C.,Unknown,8
+AJ_Auxerre,AJ Auxerre,Ligue 1,8
+SBV_Vitesse,SBV Vitesse,Eerste Divisie,8
+Columbus_Crew,Columbus Crew,Major League Soccer,8
+TSG_1899_Hoffenheim_II,TSG 1899 Hoffenheim II,3. Liga,8
+K.R.C._Genk,K.R.C. Genk,Unknown,8
+Melbourne_City_FC,Melbourne City FC,A-League Men,8
+Talleres_de_C%C3%B3rdoba,Talleres de Córdoba,Primera División,8
+Pe%C3%B1arol,Peñarol,Liga AUF Uruguaya,8
+Paris_Saint-Germain_F.C.,Paris Saint-Germain F.C.,Unknown,8
+SV_Werder_Bremen,SV Werder Bremen,Bundesliga,8
+Sepahan_S.C.,Sepahan S.C.,Persian Gulf Pro League,8
+Auckland_FC,Auckland FC,A-League Men,8
+Pumas_UNAM,Pumas UNAM,Liga MX,7
+RSC_Anderlecht,RSC Anderlecht,Belgian Pro League,7
+Philadelphia_Union,Philadelphia Union,Major League Soccer,7
+Red_Star_Belgrade,Red Star Belgrade,Serbian SuperLiga,7
+Los_Angeles_FC,Los Angeles FC,Major League Soccer,7
+HNK_Hajduk_Split,HNK Hajduk Split,Croatian Football League,7
+Br%C3%B8ndby_IF,Brøndby IF,Superliga,7
+Real_Zaragoza,Real Zaragoza,Segunda División,7
+VfB_Stuttgart_II,VfB Stuttgart II,3. Liga,7
+Middlesbrough_F.C.,Middlesbrough F.C.,EFL Championship,7
+Orlando_City_SC,Orlando City SC,Major League Soccer,7
+Al_Sadd_SC,Al Sadd SC,Qatar Stars League,7
+Torino_FC,Torino FC,Unknown,7
+Clube_Atl%C3%A9tico_Mineiro,Clube Atlético Mineiro,Campeonato Brasileiro Série A,7
+Al-Ittihad_Club_(Jeddah),Al-Ittihad Club (Jeddah),Saudi Pro League,7
+L.D.U._Quito,LDU Quito,Ecuadorian Serie A,7
+G.D._Estoril_Praia,G.D. Estoril Praia,Primeira Liga,7
+Montpellier_HSC,Montpellier HSC,Ligue 2,7
+Dundee_United_F.C.,Dundee United F.C.,Scottish Premiership,7
+Blackburn_Rovers_F.C.,Blackburn Rovers F.C.,EFL Championship,7
+Wigan_Athletic_F.C.,Wigan Athletic F.C.,EFL League One,7
+F.C._Copenhagen,F.C. Copenhagen,Superliga,7
+Cerro_Porte%C3%B1o,Cerro Porteño,División de Honor,7
+Boca_Juniors,Boca Juniors,Primera División,7
+1._FC_Union_Berlin,1. FC Union Berlin,Bundesliga,7
+Sparta_Rotterdam,Sparta Rotterdam,Eredivisie,7
+IF_Brommapojkarna,IF Brommapojkarna,Allsvenskan,7
+Zamalek_SC,Zamalek SC,Egyptian Premier League,7
+Club_Nacional_de_Football,Club Nacional de Football,Liga AUF Uruguaya,7
+F.C._Famalic%C3%A3o,F.C. Famalicão,Primeira Liga,7
+Al-Zawraa_SC,Al-Zawraa SC,Unknown,7
+Atl%C3%A9tico_Nacional,Atlético Nacional,Categoría Primera A,7
+Pakhtakor_Tashkent_FK,Pakhtakor Tashkent FK,Unknown,7
+C.F._Monterrey,C.F. Monterrey,Liga MX,6
+FC_Dynamo_Moscow,FC Dynamo Moscow,Russian Premier League,6
+Vit%C3%B3ria_S.C.,Vitória S.C.,Primeira Liga,6
+Molde_FK,Molde FK,Eliteserien,6
+1._FC_N%C3%BCrnberg,1. FC Nürnberg,2. Bundesliga,6
+Deportivo_Alav%C3%A9s,Deportivo Alavés,La Liga,6
+%C3%87aykur_Rizespor,Çaykur Rizespor,Süper Lig,6
+FC_Z%C3%BCrich,FC Zürich,Swiss Super League,6
+HNK_Rijeka,HNK Rijeka,Croatian Football League,6
+SK_Sturm_Graz,SK Sturm Graz,Austrian Bundesliga,6
+CF_Montr%C3%A9al,CF Montréal,Major League Soccer,6
+St_Mirren_F.C.,St Mirren F.C.,Scottish Premiership,6
+Real_Valladolid,Real Valladolid,Segunda División,6
+KAA_Gent,KAA Gent,Belgian Pro League,6
+Whitecaps_FC_2,Whitecaps FC 2,MLS Next Pro,6
+Al-Wakrah_SC,Al-Wakrah SC,Qatar Stars League,6
+K.A.S._Eupen,KAS Eupen,Challenger Pro League,6
+Grasshopper_Club_Z%C3%BCrich,Grasshopper Club Z%C3%BCrich,Unknown,6
+FC_Lausanne-Sport,FC Lausanne-Sport,Swiss Super League,6
+Fortuna_D%C3%BCsseldorf,Fortuna Düsseldorf,2. Bundesliga,6
+RKC_Waalwijk,RKC Waalwijk,Eerste Divisie,6
+FC_Dallas,FC Dallas,Major League Soccer,6
+New_York_Red_Bulls,New York Red Bulls,Major League Soccer,6
+Atl%C3%A9tico_Madrid_B,Atlético Madrileño,Primera Federación,6
+Club_NXT,Club NXT,Challenger Pro League,6
+Heart_of_Midlothian_F.C.,Heart of Midlothian F.C.,Scottish Premiership,6
+Melbourne_Victory_FC,Melbourne Victory FC,A-League Men,6
+Racing_Club_de_Avellaneda,Racing Club de Avellaneda,Liga Profesional,6
+Getafe_CF,Getafe CF,La Liga,6
+Club_Olimpia,Club Olimpia,División de Honor,6
+Hammarby_Fotboll,Hammarby Fotboll,Allsvenskan,6
+Adana_Demirspor,Adana Demirspor,TFF 2. Lig,6
+NEC_Nijmegen,NEC Nijmegen,Eredivisie,6
+R._Charleroi_S.C.,R. Charleroi S.C.,Unknown,6
+Tractor_S.C.,Tractor S.C.,Persian Gulf Pro League,6
+Viking_FK,Viking FK,Eliteserien,6
+Al-Nassr_FC,Al-Nassr FC,Unknown,6
+Centro_Atl%C3%A9tico_F%C3%A9nix,Centro Atlético Fénix,Segunda División,6
+Rayo_Vallecano,Rayo Vallecano,La Liga,6
+Al-Faisaly_SC,Al-Faisaly SC,Unknown,6
+Al-Jazeera_Club_(Jordan),Al-Jazeera Club (Jordan),Unknown,6
+FC_Neftchi_Fergana,FC Neftchi Fergana,Uzbekistan Super League,6
+FC_Bunyodkor,FC Bunyodkor,Uzbekistan Super League,6
+San_Francisco_F.C.,San Francisco F.C.,Liga Panameña de Fútbol,6
+UC_Sampdoria,UC Sampdoria,Serie B,5
+S.V._Zulte_Waregem,SV Zulte Waregem,Belgian Pro League,5
+RCD_Espanyol,RCD Espanyol,La Liga,5
+US_Salernitana_1919,US Salernitana 1919,Serie C,5
+RC_Celta_de_Vigo,RC Celta de Vigo,La Liga,5
+Chicago_Fire_FC,Chicago Fire FC,Major League Soccer,5
+Gil_Vicente_F.C.,Gil Vicente F.C.,Primeira Liga,5
+FC_Seoul,FC Seoul,K League 1,5
+Holstein_Kiel,Holstein Kiel,2. Bundesliga,5
+FC_Rostov,FC Rostov,Russian Premier League,5
+Wolfsberger_AC,Wolfsberger AC,Austrian Bundesliga,5
+Minnesota_United_FC,Minnesota United FC,Major League Soccer,5
+Inter_Miami_CF,Inter Miami CF,Major League Soccer,5
+Kilmarnock_F.C.,Kilmarnock F.C.,Scottish Premiership,5
+Toronto_FC,Toronto FC,Major League Soccer,5
+Sporting_de_Gij%C3%B3n,Sporting de Gijón,Segunda División,5
+LASK,LASK,Unknown,5
+FC_Winterthur,FC Winterthur,Swiss Super League,5
+FC_Luzern,FC Luzern,Swiss Super League,5
+Borussia_M%C3%B6nchengladbach_II,Borussia Mönchengladbach II,Regionalliga West,5
+FC_Lugano,FC Lugano,Swiss Super League,5
+SpVgg_Greuther_F%C3%BCrth,SpVgg Greuther Fürth,2. Bundesliga,5
+Club_Athletico_Paranaense,Club Athletico Paranaense,Campeonato Brasileiro Série A,5
+FC_Zenit_Saint_Petersburg,FC Zenit Saint Petersburg,Russian Premier League,5
+Fluminense_FC,Fluminense FC,Campeonato Brasileiro Série A,5
+Rio_Ave_F.C.,Rio Ave F.C.,Primeira Liga,5
+Atlanta_United_FC,Atlanta United FC,Major League Soccer,5
+Kayserispor,Kayserispor,TFF 1. Lig,5
+Almere_City_FC,Almere City FC,Eerste Divisie,5
+FC_Utrecht,FC Utrecht,Eredivisie,5
+Panathinaikos_F.C.,Panathinaikos F.C.,Super League Greece,5
+Aberdeen_F.C.,Aberdeen F.C.,Scottish Premiership,5
+Yokohama_F._Marinos,Yokohama F. Marinos,J1 League,5
+Bursaspor,Bursaspor,TFF 1. Lig,5
+Club_Atl%C3%A9tico_Lan%C3%BAs,Club Atlético Lanús,Primera División,5
+Club_Libertad,Club Libertad,División de Honor,5
+Defensa_y_Justicia,Defensa y Justicia,Primera División,5
+1._FC_K%C3%B6ln,1. FC Köln,Bundesliga,5
+PEC_Zwolle,PEC Zwolle,Eredivisie,5
+Boavista_F.C.,Boavista F.C.,AF Porto Liga Pro,5
+Maccabi_Tel_Aviv_F.C.,Maccabi Tel Aviv F.C.,Israeli Premier League,5
+FC_Dordrecht,FC Dordrecht,Eerste Divisie,5
+C.D._Universidad_Cat%C3%B3lica_del_Ecuador,C.D. Universidad Católica (Ecuador),Ecuadorian Serie A,5
+Independiente_del_Valle,Independiente del Valle,Ecuadorian Serie A,5
+CA_Osasuna,CA Osasuna,La Liga,5
+Al-Fayha_FC,Al-Fayha Club,Saudi Pro League,5
+LB_Ch%C3%A2teauroux,LB Châteauroux,Championnat National 1,5
+Stade_Malherbe_Caen,Stade Malherbe Caen,Ligue 3,5
+SS_Lazio,SS Lazio,Serie A,5
+Djurg%C3%A5rdens_IF_Fotboll,Djurgårdens IF Fotboll,Allsvenskan,5
+Esp%C3%A9rance_Sportive_de_Tunis,Espérance Sportive de Tunis,Tunisian Ligue Professionnelle 1,5
+FK_Bod%C3%B8/Glimt,FK Bodø/Glimt,Eliteserien,5
+West_Bromwich_Albion_F.C.,West Bromwich Albion F.C.,EFL Championship,5
+Malavan_F.C.,Malavan F.C.,Persian Gulf Pro League,5
+Al-Sailiya_SC,Al-Sailiya SC,Qatar Stars League,5
+Eastern_Suburbs_AFC,Eastern Suburbs AFC,Northern League,5
+Western_Suburbs_FC_(New_Zealand),Western Suburbs FC,Central League,5
+AS_Saint-%C3%89tienne,AS Saint-Étienne,Ligue 2,5
+Elche_CF,Elche CF,La Liga,5
+Al-Shabab_FC_(Riyadh),Al-Shabab FC (Riyadh),Unknown,5
+Al-Qadsiah_FC,Al-Qadsiah FC,Unknown,5
+Pakhtakor_FC,Pakhtakor FC,Uzbekistan Super League,5
+Al-Karma_SC,Al-Karma SC,Iraq Stars League,5
+Como_1907,Como 1907,Serie A,5
+Paradou_AC,Paradou AC,League 2,5
+Al-Ramtha_SC,Al-Ramtha SC,Jordanian Pro League,5
+Selangor_F.C.,Selangor F.C.,Malaysia Super League,5
+PFC_Navbahor_Namangan,PFC Navbahor Namangan,Unknown,5
+C.A._Independiente_de_La_Chorrera,C.A. Independiente de La Chorrera,Liga Panameña de Fútbol,5
+Sporting_San_Miguelito,Sporting San Miguelito,Liga Panameña de Fútbol,5
+Tauro_F.C.,Tauro FC,Liga Panameña de Fútbol,5
+Burton_Albion_F.C.,Burton Albion F.C.,EFL League One,4
+FC_Hradec_Kr%C3%A1lov%C3%A9,FC Hradec Králové,Czech First League,4
+FK_Pardubice,FK Pardubice,Czech First League,4
+S.C._Braga_B,S.C. Braga B,Liga 3,4
+C.D._Tapat%C3%ADo,C.D. Tapatío,Liga de Expansión MX,4
+PAOK_FC,PAOK FC,Super League Greece,4
+US_Cremonese,US Cremonese,Serie B,4
+Club_Necaxa,Club Necaxa,Liga MX,4
+Quer%C3%A9taro_F.C.,Querétaro F.C.,Liga MX,4
+CD_Castell%C3%B3n,CD Castellón,Segunda División,4
+AEL_Limassol,AEL Limassol,First Division,4
+Atlas_F.C.,Atlas F.C.,Liga MX,4
+Tigres_UANL,Tigres UANL,Liga MX,4
+Venados_F.C.,Venados F.C.,Liga de Expansión MX,4
+Lobos_BUAP,Lobos BUAP,Liga MX,4
+AEK_Athens_F.C.,AEK Athens F.C.,Super League Greece,4
+Club_Tijuana,Club Tijuana,Liga MX,4
+C.F._Pachuca,C.F. Pachuca,Liga MX,4
+Vit%C3%B3ria_S.C._B,Vitória S.C. B,Liga 3,4
+K.V.C._Westerlo,KVC Westerlo,Belgian Pro League,4
+Hannover_96,Hannover 96,2. Bundesliga,4
+Philadelphia_Union_II,Philadelphia Union II,MLS Next Pro,4
+FC_Tokyo,FC Tokyo,J1 League,4
+Kashima_Antlers,Kashima Antlers,J1 League,4
+FC_Rubin_Kazan,FC Rubin Kazan,Russian Premier League,4
+Gimcheon_Sangmu_FC,Gimcheon Sangmu FC,K League 1,4
+FK_Austria_Wien,FK Austria Wien,Austrian Bundesliga,4
+1._FC_N%C3%BCrnberg_II,1. FC Nürnberg II,Regionalliga Bayern,4
+H%C5%A0K_Zrinjski_Mostar,HŠK Zrinjski Mostar,Premier League BH,4
+MKE_Ankarag%C3%BCc%C3%BC,MKE Ankaragücü,TFF 2. Lig,4
+Malm%C3%B6_FF,Malmö FF,Allsvenskan,4
+FC_St._Gallen,FC St. Gallen,Swiss Super League,4
+GNK_Dinamo_Zagreb_Academy,GNK Dinamo Zagreb Academy,Druga HNL,4
+Pafos_FC,Pafos FC,First Division,4
+Borussia_Dortmund_II,Borussia Dortmund II,Regionalliga West,4
+Karlsruher_SC,Karlsruher SC,2. Bundesliga,4
+Nashville_SC,Nashville SC,Major League Soccer,4
+G.D._Chaves,G.D. Chaves,Liga Portugal 2,4
+F.C._Pa%C3%A7os_de_Ferreira,F.C. Paços de Ferreira,Liga 3,4
+Colorado_Rapids,Colorado Rapids,Major League Soccer,4
+Barnsley_F.C.,Barnsley F.C.,EFL League One,4
+Rosenborg_BK,Rosenborg BK,Eliteserien,4
+Cultural_y_Deportiva_Leonesa,Cultural y Deportiva Leonesa,Segunda División,4
+SC_Freiburg_II,SC Freiburg II,Regionalliga Südwest,4
+FC_Sion,FC Sion,Swiss Super League,4
+Santos_FC,Santos FC,Campeonato Brasileiro Série A,4
+Sport_Club_Corinthians_Paulista,Sport Club Corinthians Paulista,Unknown,4
+Oldham_Athletic_A.F.C.,Oldham Athletic A.F.C.,EFL League Two,4
+Cercle_Brugge_KSV,Cercle Brugge KSV,Unknown,4
+New_York_Red_Bulls_II,New York Red Bulls II,MLS Next Pro,4
+FC_Cincinnati,FC Cincinnati,Major League Soccer,4
+Stade_Lavallois,Stade Lavallois,Ligue 2,4
+Grenoble_Foot_38,Grenoble Foot 38,Ligue 2,4
+Maccabi_Haifa_F.C.,Maccabi Haifa F.C.,Israeli Premier League,4
+Hellas_Verona_FC,Hellas Verona FC,Serie B,4
+Raja_CA,Raja CA,Botola Pro,4
+FC_Barcelona_Atl%C3%A8tic,FC Barcelona Atl%C3%A8tic,Unknown,4
+Livingston_F.C.,Livingston F.C.,Scottish Championship,4
+Milton_Keynes_Dons_F.C.,Milton Keynes Dons F.C.,EFL League One,4
+Ross_County_F.C.,Ross County F.C.,Scottish League One,4
+Central_Coast_Mariners_FC,Central Coast Mariners FC,A-League Men,4
+FC_Ingolstadt_04,FC Ingolstadt 04,3. Liga,4
+Adelaide_United_FC,Adelaide United FC,Unknown,4
+Paris_FC,Paris FC,Ligue 1,4
+Heracles_Almelo,Heracles Almelo,Eerste Divisie,4
+Brisbane_Roar_FC,Brisbane Roar FC,A-League Men,4
+New_York_City_FC,New York City FC,Major League Soccer,4
+Club_Nacional,Club Nacional,División de Honor,4
+Newell%27s_Old_Boys,Newell's Old Boys,Primera División,4
+Club_Atl%C3%A9tico_Hurac%C3%A1n,Club Atlético Huracán,Primera División,4
+FC_Krasnodar,FC Krasnodar,Russian Premier League,4
+Argentinos_Juniors,Argentinos Juniors,Liga Profesional de Fútbol,4
+Bolton_Wanderers_F.C.,Bolton Wanderers F.C.,EFL Championship,4
+Paris_Saint-Germain_Academy,Paris Saint-Germain FC Youth Academy,Championnat National 3,4
+ADO_Den_Haag,ADO Den Haag,Eredivisie,4
+Al_Jazira_Club,Al Jazira Club,UAE Pro League,4
+Rosario_Central,Rosario Central,Primera División,4
+Club_Le%C3%B3n,Club León,Liga MX,4
+Royal_Antwerp_F.C.,Royal Antwerp FC,Belgian Pro League,4
+Willem_II_(football_club),Willem II (football club),Unknown,4
+Sivasspor,Sivasspor,TFF 1. Lig,4
+RSCA_Futures,RSCA Futures,Challenger Pro League,4
+ASEC_Mimosas,ASEC Mimosas,Ligue 1,4
+FC_Girondins_de_Bordeaux,FC Girondins de Bordeaux,Championnat National 2,4
+Al-Ettifaq_FC,Al-Ettifaq FC,Unknown,4
+US_Monastir_(football),US Monastir (football),Tunisian Ligue Professionnelle 1,4
+Arminia_Bielefeld,Arminia Bielefeld,2. Bundesliga,4
+C.S._Mar%C3%ADtimo,C.S. Marítimo,Primeira Liga,4
+FC_Spartak_Moscow,FC Spartak Moscow,Russian Premier League,4
+AIK_Fotboll,AIK Fotboll,Allsvenskan,4
+IF_Elfsborg,IF Elfsborg,Allsvenskan,4
+IFK_G%C3%B6teborg,IFK Göteborg,Allsvenskan,4
+IFK_Norrk%C3%B6ping,IFK Norrköping,Superettan,4
+%C3%89toile_Sportive_du_Sahel,Étoile Sportive du Sahel,Tunisian Ligue Professionnelle 1,4
+CS_Sfaxien,CS Sfaxien,Tunisian Ligue Professionnelle 1,4
+Al-Muharraq_SC,Al-Muharraq SC,Premier League,4
+Smouha_SC,Smouha SC,Egyptian Premier League,4
+Villarreal_CF_B,Villarreal CF B,Primera Federación,4
+Real_Oviedo,Real Oviedo,Segunda División,4
+Foolad_F.C.,Foolad F.C.,Persian Gulf Pro League,4
+C.D._Santa_Clara,C.D. Santa Clara,Primeira Liga,4
+Auckland_City_FC,Auckland City FC,Northern League,4
+Al-Fateh_SC,Al-Fateh SC,Unknown,4
+CD_Basconia,CD Basconia,Segunda Federación,4
+Athletic_Bilbao_B,Athletic Bilbao B,Primera Federación,4
+Athletic_Bilbao,Athletic Bilbao,La Liga,4
+Atl%C3%A9tico_Junior,Atlético Junior,Categoría Primera A,4
+Al-Zawraa,Al-Zawraa SC,Iraq Stars League,4
+Al-Khor_SC,Al-Khor SC,Qatar Stars League,4
+Erbil_SC,Erbil SC,Iraq Stars League,4
+Al-Karkh_SC,Al-Karkh SC,Iraq Stars League,4
+Sarpsborg_08_FF,Sarpsborg 08 FF,Eliteserien,4
+Diambars_FC,Diambars FC,Senegal Premier League,4
+HNK_Gorica,HNK Gorica,Croatian Football League,4
+Millonarios_F.C.,Millonarios F.C.,Categoría Primera A,4
+Am%C3%A9rica_de_Cali,América de Cali,Categoría Primera A,4
+PFC_Lokomotiv_Tashkent,PFC Lokomotiv Tashkent,Uzbekistan Super League,4
+C.D._Plaza_Amador,C.D. Plaza Amador,Liga Panameña de Fútbol,4
+SK_Sigma_Olomouc,SK Sigma Olomouc,Czech First League,3
+FK_Jablonec,FK Jablonec,Czech First League,3
+FK_Teplice,FK Teplice,Czech First League,3
+FK_Viktoria_%C5%BDi%C5%BEkov,FK Viktoria Žižkov,Czech National Football League,3
+FC_Lokomotiv_Moscow,FC Lokomotiv Moscow,Russian Premier League,3
+FK_Mlad%C3%A1_Boleslav,FK Mladá Boleslav,Czech First League,3
+SK_Dynamo_%C4%8Cesk%C3%A9_Bud%C4%9Bjovice,SK Dynamo České Budějovice,Bohemian Football League,3
+Santos_Laguna,Santos Laguna,Liga MX,3
+AC_Ajaccio,AC Ajaccio,Régional 1,3
+Club_Puebla,Club Puebla,Liga MX,3
+Mazatl%C3%A1n_F.C.,Mazatlán F.C.,Liga MX,3
+TS_Galaxy_F.C.,TS Galaxy F.C.,South African Premiership,3
+Stellenbosch_F.C.,Stellenbosch F.C.,South African Premiership,3
+Lamontville_Golden_Arrows_F.C.,Lamontville Golden Arrows F.C.,South African Premiership,3
+Al_Shabab_FC_(Riyadh),Al Shabab Club,Saudi Pro League,3
+Gangwon_FC,Gangwon FC,K League 1,3
+CF_Peralada,CF Peralada,Tercera Federación,3
+Shonan_Bellmare,Shonan Bellmare,J2 League,3
+Busan_IPark,Busan IPark,K League 2,3
+Daejeon_Hana_Citizen,Daejeon Hana Citizen,Unknown,3
+Ulsan_HD_FC,Ulsan HD FC,Unknown,3
+1._FC_K%C3%B6ln_II,1. FC Köln II,Regionalliga West,3
+FK_Partizan,FK Partizan,Serbian SuperLiga,3
+Gaziantep_F.K.,Gaziantep F.K.,Süper Lig,3
+Juventus_Next_Gen,Juventus Next Gen,Serie C,3
+NK_Lokomotiva_Zagreb,NK Lokomotiva Zagreb,Croatian Football League,3
+Konyaspor,Konyaspor,Süper Lig,3
+Plymouth_Argyle_F.C.,Plymouth Argyle F.C.,EFL League One,3
+New_England_Revolution,New England Revolution,Major League Soccer,3
+Grasshopper_Club_Zurich,Grasshopper Club Zurich,Swiss Super League,3
+S.C.U._Torreense,S.C.U. Torreense,Liga Portugal 2,3
+Sigma_FC,Sigma FC,Ontario Premier League,3
+Charlton_Athletic_F.C.,Charlton Athletic F.C.,EFL Championship,3
+Preston_North_End_F.C.,Preston North End F.C.,EFL Championship,3
+Huddersfield_Town_A.F.C.,Huddersfield Town A.F.C.,EFL League One,3
+Orlando_City_B,Orlando City B,MLS Next Pro,3
+Al_Ahli_SC_(Doha),Al Ahli SC (Doha),Qatar Stars League,3
+Al-Shamal_SC,Al-Shamal SC,Qatar Stars League,3
+AS_Nancy_Lorraine,AS Nancy Lorraine,Ligue 2,3
+Al_Duhail_SC,Al Duhail SC,Unknown,3
+Servette_FC,Servette FC,Swiss Super League,3
+SC_Internacional,SC Internacional,Campeonato Brasileiro Série A,3
+ES_Troyes_AC,ES Troyes AC,Ligue 1,3
+S%C3%A3o_Paulo_FC,São Paulo FC,Campeonato Brasileiro Série A,3
+Gr%C3%AAmio_FBPA,Grêmio FBPA,Campeonato Brasileiro Série A,3
+Botafogo_FR,Botafogo FR,Campeonato Brasileiro Série A,3
+Cruzeiro_Esporte_Clube,Cruzeiro Esporte Clube,Unknown,3
+CR_Vasco_da_Gama,CR Vasco da Gama,Campeonato Brasileiro Série A,3
+En_Avant_Guingamp,En Avant Guingamp,Ligue 2,3
+SC_Bastia,SC Bastia,Ligue 2,3
+Phoenix_Rising_FC,Phoenix Rising FC,USL Championship,3
+Royal_Excel_Mouscron,Royal Excel Mouscron,Belgian Pro League,3
+Wydad_AC,Wydad AC,Botola Pro,3
+Al_Fateh_SC,Al Fateh SC,Saudi Pro League,3
+Al_Ain_FC,Al Ain FC,UAE Pro League,3
+RS_Berkane,RS Berkane,Botola Pro,3
+K.V._Mechelen,KV Mechelen,Belgian Pro League,3
+Queen%27s_Park_F.C.,Queen's Park F.C.,Scottish Championship,3
+Hibernian_F.C.,Hibernian F.C.,Scottish Premiership,3
+Queens_Park_Rangers_F.C.,Queens Park Rangers F.C.,EFL Championship,3
+Motherwell_F.C.,Motherwell F.C.,Scottish Premiership,3
+Shrewsbury_Town_F.C.,Shrewsbury Town F.C.,EFL League Two,3
+Portsmouth_F.C.,Portsmouth F.C.,EFL Championship,3
+Sheffield_Wednesday_F.C.,Sheffield Wednesday F.C.,EFL League One,3
+Rotherham_United_F.C.,Rotherham United F.C.,EFL League Two,3
+K_Beerschot_VA,K Beerschot VA,Challenger Pro League,3
+Levante_UD,Levante UD,La Liga,3
+Parma_Calcio_1913,Parma Calcio 1913,Serie A,3
+Melbourne_City_FC_Youth,Melbourne City FC Youth,Victoria Premier League 1,3
+Hertha_BSC_II,Hertha BSC II,Regionalliga Nordost,3
+Sydney_FC,Sydney FC,A-League Men,3
+Newcastle_Jets_FC,Newcastle Jets FC,A-League Men,3
+Giresunspor,Giresunspor,Turkish Regional Amateur League,3
+Salford_City_F.C.,Salford City F.C.,EFL League Two,3
+Accrington_Stanley_F.C.,Accrington Stanley F.C.,EFL League Two,3
+Northampton_Town_F.C.,Northampton Town F.C.,EFL League Two,3
+Estudiantes_de_La_Plata,Estudiantes de La Plata,Primera División,3
+San_Lorenzo_de_Almagro,San Lorenzo de Almagro,Primera División,3
+Godoy_Cruz_Antonio_Tomba,Godoy Cruz Antonio Tomba,Primera Nacional,3
+Real_Salt_Lake,Real Salt Lake,Major League Soccer,3
+Club_Atl%C3%A9tico_Independiente,Club Atlético Independiente,Primera División,3
+Alanyaspor,Alanyaspor,Süper Lig,3
+Gen%C3%A7lerbirli%C4%9Fi_S.K.,Gençlerbirliği S.K.,Süper Lig,3
+SK_Rapid_Wien,SK Rapid Wien,Austrian Bundesliga,3
+Charlotte_FC,Charlotte FC,Major League Soccer,3
+VVV-Venlo,VVV-Venlo,Eerste Divisie,3
+Antalyaspor,Antalyaspor,TFF 1. Lig,3
+Jong_FC_Twente,Jong FC Twente,Eerste Divisie,3
+FC_Volendam,FC Volendam,Eerste Divisie,3
+VfL_Bochum,VfL Bochum,2. Bundesliga,3
+SC_Telstar,SC Telstar,Eredivisie,3
+C.D._Nacional,C.D. Nacional,Primeira Liga,3
+Umm_Salal_SC,Umm Salal SC,Qatar Stars League,3
+Luton_Town_F.C.,Luton Town F.C.,EFL League One,3
+C.D._Independiente_Juniors,C.D. Independiente Juniors,Serie B,3
+Real_Sociedad_B,Real Sociedad B,Segunda División,3
+CD_Legan%C3%A9s,CD Leganés,Segunda División,3
+SV_Werder_Bremen_II,SV Werder Bremen II,Regionalliga Nord,3
+C.D._Mafra,C.D. Mafra,Liga 3,3
+Kawasaki_Frontale,Kawasaki Frontale,J1 League,3
+J%C3%BAbilo_Iwata,Júbilo Iwata,J2 League,3
+Jong_AZ,Jong AZ,Eerste Divisie,3
+Derby_County_F.C.,Derby County F.C.,EFL Championship,3
+Halmstads_BK,Halmstads BK,Allsvenskan,3
+Mj%C3%A4llby_AIF,Mjällby AIF,Allsvenskan,3
+Troms%C3%B8_IL,Tromsø IL,Eliteserien,3
+Silkeborg_IF,Silkeborg IF,Superliga,3
+Vejle_Boldklub,Vejle Boldklub,Superliga,3
+Club_Africain,Club Africain,Tunisian Ligue Professionnelle 1,3
+Stade_Tunisien,Stade Tunisien,Tunisian Ligue Professionnelle 1,3
+Ranheim_Fotball,Ranheim Fotball,1. divisjon,3
+Haras_El_Hodoud_SC,Haras El Hodoud SC,Egyptian Premier League,3
+ZED_FC,ZED FC,Egyptian Premier League,3
+Lierse_S.K._(1906),Lierse SK (1906),Proximus League,3
+Al_Ittihad_Alexandria_Club,Al Ittihad Alexandria Club,Egyptian Premier League,3
+Kalba_FC,Kalba FC,UAE Pro League,3
+Al-Nasr_SC_(Dubai),Al-Nasr SC (Dubai),Unknown,3
+Portimonense_S.C.,Portimonense S.C.,Liga Portugal 2,3
+S.C._Beira-Mar,S.C. Beira-Mar,Campeonato de Portugal,3
+Saipa_F.C.,Saipa F.C.,Azadegan League,3
+Celta_de_Vigo_B,RC Celta Fortuna,Primera Federación,3
+Millwall_F.C.,Millwall F.C.,EFL Championship,3
+FC_Helsing%C3%B8r,FC Helsingør,2nd Division,3
+Lower_Hutt_City_AFC,Lower Hutt City AFC,Central League 2,3
+AS_Tren%C4%8D%C3%ADn,AS Trenčín,Slovak First Football League,3
+C.D._Feirense,C.D. Feirense,Liga Portugal 2,3
+Anadia_F.C.,Anadia F.C.,Campeonato de Portugal,3
+San_Jose_Earthquakes,San Jose Earthquakes,Major League Soccer,3
+Fortuna_Sittard,Fortuna Sittard,Eredivisie,3
+Al-Faisaly_FC,Al Faisaly FC,First Division League,3
+Fatih_Karag%C3%BCmr%C3%BCk_S.K.,Fatih Karagümrük S.K.,TFF 1. Lig,3
+Valenciennes_FC,Valenciennes FC,Ligue 3,3
+Al-Wehda_Club_(Mecca),Al-Wehda Club (Mecca),Unknown,3
+Villarreal_CF_C,Villarreal CF C,Tercera Federación,3
+Liverpool_F.C._(Montevideo),Liverpool F.C. (Montevideo),Liga AUF Uruguaya,3
+Defensor_Sporting,Defensor Sporting,Liga AUF Uruguaya,3
+Naft_Al-Wasat,Naft Al-Wasat SC,Iraqi Premier Division League,3
+Al-Naft_SC,Al-Naft SC,Iraq Stars League,3
+Dibba_FC,Dibba FC,UAE Pro League,3
+Spezia_Calcio,Spezia Calcio,Serie C,3
+Rodez_AF,Rodez AF,Ligue 2,3
+USM_Alger,USM Alger,Ligue 1,3
+Club_Atl%C3%A9tico_V%C3%A9lez_Sarsfield,Club Atlético Vélez Sarsfield,Primera División,3
+FC_Augsburg_II,FC Augsburg II,Regionalliga Bayern,3
+Al-Faisaly_SC_(Amman),Al-Faisaly SC,Jordanian Pro League,3
+Al-Ahli_SC_(Amman),Al Ahli SC (Amman),Jordanian First Division League,3
+Deportivo_Cali,Deportivo Cali,Categoría Primera A,3
+PFC_CSKA_Moscow,PFC CSKA Moscow,Russian Premier League,3
+Independiente_Santa_Fe,Independiente Santa Fe,Categoría Primera A,3
+Bunyodkor,Bunyodkor,Unknown,3
+FC_AGMK,FC AGMK,Uzbekistan Super League,3
+NK_Istra_1961,NK Istra 1961,Croatian Football League,3
+NK_Inter_Zapre%C5%A1i%C4%87,NK Inter Zaprešić,Croatian Football League,3
+Monagas_S.C.,Monagas S.C.,Liga FUTVE,3
+SFC_Opava,SFC Opava,Czech National Football League,2
+SK_Slavia_Prague_B,SK Slavia Prague B,Czech National Football League,2
+FC_Zbrojovka_Brno,FC Zbrojovka Brno,Czech National Football League,2
+FK_Ban%C3%ADk_Sokolov,FK Baník Sokolov,Czech Fourth Division,2
+Aris_Thessaloniki_F.C.,Aris Thessaloniki F.C.,Super League Greece,2
+Bohemians_1905,Bohemians 1905,Czech First League,2
+1._FC_Slov%C3%A1cko,1. FC Slovácko,Czech First League,2
+FC_Vyso%C4%8Dina_Jihlava,FC Vysočina Jihlava,Czech National Football League,2
+Hyde_United_F.C.,Hyde United F.C.,Northern Premier League,2
+MFK_Karvin%C3%A1,MFK Karviná,Czech First League,2
+Toluca_FC,Toluca FC,Liga MX,2
+M%C3%A1laga_CF,Málaga CF,Segunda División,2
+Al_Qadsiah_FC,Al Qadsiah FC,Saudi Pro League,2
+Seattle_Sounders_FC,Seattle Sounders FC,Major League Soccer,2
+Atl%C3%A9tico_Zacatepec,Zacatepec F.C.,Liga Premier,2
+Mineros_de_Zacatecas,Mineros de Zacatecas,Liga de Expansión MX,2
+Celaya_F.C.,Celaya F.C.,Liga Premier,2
+Mamelodi_Sundowns,Mamelodi Sundowns F.C.,South African Premiership,2
+Polokwane_City_F.C.,Polokwane City F.C.,South African Premiership,2
+Mpumalanga_Black_Aces_F.C.,Mpumalanga Black Aces F.C.,National First Division,2
+JDR_Stars_F.C.,JDR Stars F.C.,National First Division,2
+Orlando_Pirates,Orlando Pirates,Unknown,2
+C.D._Tondela,C.D. Tondela,Liga Portugal 2,2
+Ulsan_Hyundai_FC,Ulsan HD FC,K League 1,2
+Kashiwa_Reysol,Kashiwa Reysol,J1 League,2
+Beijing_Guoan_F.C.,Beijing Guoan F.C.,Chinese Super League,2
+Vegalta_Sendai,Vegalta Sendai,J2 League,2
+Sagan_Tosu,Sagan Tosu,J2 League,2
+Hamburger_SV_II,Hamburger SV II,Regionalliga Nord,2
+FC_Anyang,FC Anyang,K League 1,2
+Valencia_CF_Mestalla,Valencia CF Mestalla,Segunda Federación,2
+Gwangju_FC,Gwangju FC,K League 1,2
+FC_Hansa_Rostock,FC Hansa Rostock,3. Liga,2
+SK_Beveren,SK Beveren,Belgian Pro League,2
+Ey%C3%BCpspor,Eyüpspor,Süper Lig,2
+Trelleborgs_FF,Trelleborgs FF,Ettan,2
+Vasalunds_IF,Vasalund IF,Ettan Norra,2
+Helsingborgs_IF,Helsingborgs IF,Superettan,2
+Odense_Boldklub,Odense Boldklub,Superliga,2
+FK_%C5%BDeljezni%C4%8Dar_Sarajevo,FK Željezničar Sarajevo,Premier League BH,2
+FK_Borac_Banja_Luka,FK Borac Banja Luka,Premier League BH,2
+FC_Orenburg,FC Orenburg,Russian Premier League,2
+NK_Lokomotiva,NK Lokomotiva,Unknown,2
+1._FC_Heidenheim,1. FC Heidenheim,2. Bundesliga,2
+NK_%C5%A0iroki_Brijeg,NK Široki Brijeg,Premier League BH,2
+FC_Sheriff_Tiraspol,FC Sheriff Tiraspol,Liga,2
+FC_Wil,FC Wil,Swiss Challenge League,2
+Vaughan_Azzurri,Vaughan Azzurri,Ontario Premier League,2
+Forward_Madison_FC,Forward Madison FC,USL League One,2
+San_Antonio_FC,San Antonio FC,USL Championship,2
+F.C.V._Dender_E.H.,FCV Dender EH,Challenger Pro League,2
+Minnesota_United_FC_2,Minnesota United FC 2,MLS Next Pro,2
+Toronto_FC_III,Toronto FC Academy,MLS Next,2
+Toronto_FC_II,Toronto FC II,MLS Next Pro,2
+CS_St-Hubert,CS St-Hubert,Ligue1 Québec,2
+Vancouver_Whitecaps,Vancouver Whitecaps,Unknown,2
+Portland_Timbers,Portland Timbers,Major League Soccer,2
+Colchester_United_F.C.,Colchester United F.C.,EFL League Two,2
+AFC_Wimbledon,AFC Wimbledon,EFL League One,2
+Austin_FC,Austin FC,Major League Soccer,2
+S.C._Farense,S.C. Farense,Liga Portugal 2,2
+Coritiba_Foot_Ball_Club,Coritiba Foot Ball Club,Campeonato Brasileiro Série A,2
+El_Jaish_SC,El Jaish SC,Qatar Stars League,2
+LASK_Linz,LASK,Austrian Bundesliga,2
+FC_Pasching,FC Juniors OÖ,Regionalliga Central,2
+AD_Alcorc%C3%B3n_B,AD Alcorcón B,Tercera Federación,2
+Al-Markhiya_SC,Al-Markhiya SC,Qatari Second Division,2
+FC_Stade_Lausanne_Ouchy,FC Stade Lausanne Ouchy,Swiss Challenge League,2
+Desportivo_Brasil,Desportivo Brasil,Campeonato Paulista Série A3,2
+SC_Corinthians_Paulista,SC Corinthians Paulista,Campeonato Brasileiro Série A,2
+Deportivo_Maldonado,Deportivo Maldonado,Liga AUF Uruguaya,2
+Clube_N%C3%A1utico_Capibaribe,Clube Náutico Capibaribe,Campeonato Brasileiro Série B,2
+Al_Ahli_Saudi_FC,Al-Ahli Saudi FC,Saudi Pro League,2
+PFC_Ludogorets_Razgrad,PFC Ludogorets Razgrad,First League,2
+Don_Bosco_FC,Don Bosco FC,Ligue Haïtienne,2
+S.D._Aucas,S.D. Aucas,Ecuadorian Serie A,2
+Violette_AC,Violette AC,Ligue Haïtienne,2
+North_Texas_SC,North Texas SC,MLS Next Pro,2
+Atlanta_United_2,Atlanta United 2,MLS Next Pro,2
+US_Avranches,US Avranches,Championnat National 2,2
+SO_Cholet,SO Cholet,Régional 3,2
+PFC_CSKA_Sofia,PFC CSKA Sofia,First League,2
+Hobro_IK,Hobro IK,Danish 1st Division,2
+Colorado_Springs_Switchbacks_FC,Colorado Springs Switchbacks FC,USL Championship,2
+US_Boulogne,US Boulogne,Ligue 2,2
+F.C._Vizela,F.C. Vizela,Liga Portugal 2,2
+K.V._Kortrijk,K.V. Kortrijk,Unknown,2
+SKN_St._P%C3%B6lten,SKN St. Pölten,2. Liga,2
+UD_Melilla,UD Melilla,Segunda Federación,2
+Hatayspor,Hatayspor,TFF 2. Lig,2
+Al_Wehda_FC,Al Wehda FC,First Division League,2
+USL_Dunkerque,USL Dunkerque,Ligue 2,2
+Bologna_F.C._1909,Bologna F.C. 1909,Unknown,2
+Alloa_Athletic_F.C.,Alloa Athletic F.C.,Scottish League One,2
+Sunderland_A.F.C,Sunderland A.F.C,Unknown,2
+Wrexham_A.F.C.,Wrexham A.F.C.,EFL Championship,2
+Oud-Heverlee_Leuven,Oud-Heverlee Leuven,Belgian Pro League,2
+Ayr_United_F.C.,Ayr United F.C.,Scottish Championship,2
+UD_Las_Palmas,UD Las Palmas,Segunda División,2
+TSV_1860_Munich,TSV 1860 Munich,3. Liga,2
+Al-Hilal_FC,Al-Hilal FC,Unknown,2
+FK_TSC,FK TSC,Serbian First League,2
+APOEL_FC,APOEL FC,First Division,2
+FFA_Centre_of_Excellence,FFA Centre of Excellence,National Youth League,2
+Perth_Glory_FC,Perth Glory FC,A-League Men,2
+Grazer_AK,Grazer AK,Austrian Bundesliga,2
+FSV_Frankfurt,FSV Frankfurt,Regionalliga Südwest,2
+Adelaide_United_FC_Youth,Adelaide United FC Youth,NPL South Australia,2
+Randers_FC,Randers FC,Superliga,2
+Hellas_Verona_F.C.,Hellas Verona F.C.,Unknown,2
+C%C3%A1diz_CF,Cádiz CF,Segunda División,2
+Xanthi_F.C.,Xanthi F.C.,Gamma Ethniki,2
+Fleetwood_Town_F.C.,Fleetwood Town F.C.,EFL League Two,2
+Central_Coast_Mariners_Academy,Central Coast Mariners Academy,NSW League One,2
+Scunthorpe_United_F.C.,Scunthorpe United F.C.,National League,2
+FC_Machida_Zelvia,FC Machida Zelvia,J1 League,2
+Esporte_Clube_Vit%C3%B3ria,Esporte Clube Vitória,Campeonato Brasileiro Série A,2
+Botafogo_de_Futebol_e_Regatas,Botafogo de Futebol e Regatas,Unknown,2
+Sportivo_Luque%C3%B1o,Sportivo Luqueño,División de Honor,2
+Club_Sol_de_Am%C3%A9rica,Club Sol de América,División Intermedia,2
+FC_Ju%C3%A1rez,FC Juárez,Liga MX,2
+Club_de_Gimnasia_y_Esgrima_La_Plata,Club de Gimnasia y Esgrima La Plata,Primera División,2
+Club_Rubio_%C3%91u,Club Rubio Ñu,Primera División,2
+Celta_de_Vigo,Celta de Vigo,Unknown,2
+Sociedade_Esportiva_Palmeiras,Sociedade Esportiva Palmeiras,Unknown,2
+Sport_Club_Internacional,Sport Club Internacional,Unknown,2
+Delfino_Pescara_1936,Delfino Pescara 1936,Serie C,2
+Sportivo_Ameliano,Sportivo Ameliano,División de Honor,2
+Club_Atl%C3%A9tico_River_Plate_(Montevideo),Club Atlético River Plate (Montevideo),Uruguayan Segunda División,2
+SD_Huesca,SD Huesca,Segunda División,2
+Red_Bull_Bragantino,Red Bull Bragantino,Campeonato Brasileiro Série A,2
+Karacabey_Belediyespor,Karacabey Belediyespor,Unknown,2
+Samsunspor,Samsunspor,Süper Lig,2
+Charleston_Battery,Charleston Battery,USL Championship,2
+Miami_FC,Miami FC,USL Championship,2
+Al-Hazem_F.C.,Al-Hazem FC,Saudi Pro League,2
+Abha_Club,Abha Club,Saudi First Division League,2
+Roda_JC_Kerkrade,Roda JC Kerkrade,Eerste Divisie,2
+TOP_Oss,TOP Oss,Eerste Divisie,2
+SD_Amorebieta,SD Amorebieta,Segunda Federación,2
+I%C4%9Fd%C4%B1r_F.K.,Iğdır F.K.,TFF 1. Lig,2
+FC_Emmen,FC Emmen,Eerste Divisie,2
+Moreirense_F.C.,Moreirense F.C.,Primeira Liga,2
+A.E._Kifisia_F.C.,A.E. Kifisia F.C.,Super League Greece,2
+Al-Nasr_Dubai_SC,Al-Nasr SC (Dubai),UAE Pro League,2
+1._FC_Kaiserslautern,1. FC Kaiserslautern,2. Bundesliga,2
+NAC_Breda,NAC Breda,Eerste Divisie,2
+Persib_Bandung,Persib Bandung,Super League,2
+Jong_FC_Utrecht,Jong FC Utrecht,Eerste Divisie,2
+SC_Cambuur,SC Cambuur,Eredivisie,2
+Royal_Antwerp_FC,Royal Antwerp FC,Unknown,2
+VfL_Wolfsburg_II,VfL Wolfsburg II,Regionalliga Nord,2
+MSV_Duisburg,MSV Duisburg,3. Liga,2
+Venezia_FC,Venezia FC,Serie A,2
+Racing_de_Santander,Racing de Santander,Segunda División,2
+SV_Elversberg,SV Elversberg,Bundesliga,2
+SpVgg_Greuther_F%C3%BCrth_II,SpVgg Greuther Fürth II,Regionalliga Bayern,2
+Al-Orobah_FC,Al-Orobah FC,Saudi First Division,2
+NK_Maribor,NK Maribor,Slovenian PrvaLiga,2
+AC_Cesena,AC Cesena,Serie A,2
+Atalanta_B.C.,Atalanta B.C.,Unknown,2
+Royal_Charleroi_S.C.,Royal Charleroi SC,Belgian Pro League,2
+Nagoya_Grampus,Nagoya Grampus,J1 League,2
+Sint-Truidense_VV,Sint-Truidense VV,Unknown,2
+J.League_U-22_Selection,J.League U-22 Selection,J3 League,2
+FC_Tokyo_U-23,FC Tokyo U-23,J3 League,2
+Gamba_Osaka,Gamba Osaka,J1 League,2
+Mito_HollyHock,Mito HollyHock,J1 League,2
+FC_Juniors_O%C3%96,FC Juniors O%C3%96,Unknown,2
+Ventforet_Kofu,Ventforet Kofu,J2 League,2
+Sollentuna_FK,Sollentuna FK,Ettan,2
+V%C3%A4ster%C3%A5s_SK_Fotboll,Västerås SK Fotboll,Allsvenskan,2
+Alfreton_Town_F.C.,Alfreton Town F.C.,Northern Premier League,2
+IF_Sylvia,IF Sylvia,Division 2,2
+Ljungskile_SK,Ljungskile SK,Superettan,2
+%C3%96stersunds_FK,Östersunds FK,Superettan,2
+IK_Frej,IK Frej,Division 3,2
+BK_H%C3%A4cken,BK Häcken,Allsvenskan,2
+%C3%96rebro_SK,Örebro SK,Superettan,2
+ES_M%C3%A9tlaoui,ES Métlaoui,Tunisian Ligue Professionnelle 1,2
+Viborg_FF,Viborg FF,Danish Superliga,2
+FC_St._Pauli_II,FC St. Pauli II,Unknown,2
+Ismaily_SC,Ismaily SC,Egyptian Premier League,2
+FK_Haugesund,FK Haugesund,1. divisjon,2
+KV_Oostende,KV Oostende,Unknown,2
+Lommel_S.K.,Lommel SK,Belgian Pro League,2
+Empoli_FC,Empoli FC,Serie B,2
+Tala%27ea_El_Gaish_SC,Tala'ea El Gaish SC,Egyptian Premier League,2
+Ghazl_El_Mahalla_SC,Ghazl El Mahalla SC,Egyptian Premier League,2
+Al_Mokawloon_Al_Arab_SC,Al Mokawloon Al Arab SC,Egyptian Premier League,2
+CD_Mirand%C3%A9s,CD Mirandés,Segunda División,2
+ENPPI_Club,ENPPI Club,Unknown,2
+Petrojet_FC,Petrojet FC,Unknown,2
+AC_Omonia,AC Omonia,First Division,2
+Wadi_Degla_SC,Wadi Degla SC,Egyptian Premier League,2
+Al-Najma_SC_(Saudi_Arabia),Al-Najma SC (Saudi Arabia),Saudi Pro League,2
+Rah_Ahan_Tehran_F.C.,Rah Ahan Tehran F.C.,Tehran Province league,2
+FC_Anzhi_Makhachkala,FC Anzhi Makhachkala,Russian Premier League,2
+Shabab_Al_Ahli_Club,Shabab Al Ahli Club,UAE Pro League,2
+Shahin_Bushehr_F.C.,Shahin Bushehr F.C.,League 2 (Iran),2
+F.C._Iranjavan_Bushehr,F.C. Iranjavan Bushehr,League 2,2
+F.C._Nassaji_Mazandaran,F.C. Nassaji Mazandaran,Azadegan League,2
+Paykan_F.C.,Paykan F.C.,Persian Gulf Pro League,2
+Syrianska_FC,Syrianska FC,Division 2,2
+Amiens_SC,Amiens SC,Ligue 3,2
+Saba_Qom_F.C.,Saba Qom F.C.,Persian Gulf Pro League,2
+Oxford_United_F.C.,Oxford United F.C.,EFL League One,2
+Southport_F.C.,Southport F.C.,National League North,2
+Carlisle_United_F.C.,Carlisle United F.C.,National League,2
+Grimsby_Town_F.C.,Grimsby Town F.C.,EFL League Two,2
+FC_Noah,FC Noah,Armenian Premier League,2
+Team_Wellington,Team Wellington FC,New Zealand Football Championship,2
+HB_K%C3%B8ge,HB Køge,1st Division,2
+Bristol_City_F.C.,Bristol City F.C.,EFL Championship,2
+Empoli_F.C.,Empoli F.C.,Unknown,2
+Tasman_United,Tasman United,ISPS Handa Premiership,2
+Almere_City,Almere City,Unknown,2
+Stevenage_F.C.,Stevenage F.C.,EFL League One,2
+Batuque_FC,Batuque FC,São Vicente Island League,2
+Sporting_Clube_da_Praia,Sporting Clube da Praia,Santiago Island League (South),2
+Al_Bataeh_Club,Al Bataeh Club,UAE Pro League,2
+C.F._Estrela_da_Amadora,C.F. Estrela da Amadora,Primeira Liga,2
+FC_Akron_Tolyatti,FC Akron Tolyatti,Russian Premier League,2
+PFC_Levski_Sofia,PFC Levski Sofia,First League,2
+FC_Viktoria_K%C3%B6ln,FC Viktoria Köln,3. Liga,2
+C.S._Mar%C3%ADtimo_B,C.S. Marítimo B,AF Madeira 1ª Divisão,2
+C.F._Uni%C3%A3o,C.F. União,Primeira Liga,2
+K.S.V._Roeselare,KSV Roeselare,Belgian First Division B,2
+Sharjah_FC,Sharjah FC,UAE Pro League,2
+San_Diego_FC,San Diego FC,Major League Soccer,2
+S.U._Sintrense,S.U. Sintrense,Campeonato de Portugal,2
+Khaleej_FC,Al-Khaleej FC,Saudi Pro League,2
+Al-Raed_FC,Al Raed S.FC,Saudi First Division,2
+Al-Ittihad_(Jeddah),Al-Ittihad (Jeddah),Unknown,2
+Al-Taawoun_FC,Al-Taawoun FC,Unknown,2
+Najran_SC,Najran S.FC,Second Division,2
+Ettifaq_FC,Ettifaq FC,Unknown,2
+SD_Eibar,SD Eibar,Segunda División,2
+Club_Plaza_Colonia_de_Deportes,Club Plaza Colonia de Deportes,Uruguayan Segunda División,2
+Montevideo_Wanderers_F.C.,Montevideo Wanderers F.C.,Liga AUF Uruguaya,2
+AS_Monaco,AS Monaco,Unknown,2
+Dijon_FCO,Dijon FCO,Ligue 2,2
+Sanat_Naft_Abadan_F.C.,Sanat Naft Abadan F.C.,Azadegan League,2
+FC_Schaffhausen,FC Schaffhausen,Promotion League,2
+Port_F.C.,Port F.C.,Thai League,2
+Al-Najaf_SC,Al-Najaf SC,Unknown,2
+Al-Talaba,Al-Talaba,Unknown,2
+Wycombe_Wanderers_F.C.,Wycombe Wanderers F.C.,EFL League One,2
+Al-Kahrabaa_SC,Al-Kahrabaa SC,Unknown,2
+Aarhus_Gymnastikforening,Aarhus Gymnastikforening,Superliga,2
+Str%C3%B8msgodset_Toppfotball,Strømsgodset Toppfotball,1. divisjon,2
+Newroz_SC,Newroz SC,Iraq Stars League,2
+IL_H%C3%B8dd,IL Hødd,OBOS-ligaen,2
+Stab%C3%A6k_Fotball,Stabæk Fotball,Norwegian First Division,2
+Sandnes_Ulf,Sandnes Ulf,1. divisjon,2
+Sandefjord_Fotball,Sandefjord Fotball,Eliteserien,2
+R.W.D._Molenbeek_(2015),R.W.D. Molenbeek (2015),Unknown,2
+Casa_Sports,Casa Sports,Senegal Premier League,2
+Betis_Deportivo_Balompi%C3%A9,Betis Deportivo Balompi%C3%A9,Unknown,2
+Shanghai_Port_F.C.,Shanghai Port F.C.,Chinese Super League,2
+Clermont_Foot,Clermont Foot 63,Ligue 2,2
+NA_Hussein_Dey,NA Hussein Dey,Ligue 2,2
+JS_Kabylie,JS Kabylie,Ligue 1,2
+Club_Atl%C3%A9tico_Banfield,Club Atlético Banfield,Primera División,2
+FC_Admira_Wacker_M%C3%B6dling,Admira Wacker,2. Liga,2
+Al-Baqa%27a_SC,Al-Baqa'a SC,Jordanian Pro League,2
+Al-Salt_SC,Al-Salt SC,Jordanian Pro League,2
+Al-Jazeera_SC_(Amman),Al-Jazeera SC (Amman),Unknown,2
+Sahab_SC,Sahab SC,Jordanian Third Division League,2
+Shabab_Al-Ordon_SC,Shabab Al-Ordon SC,Unknown,2
+Al-Khaldiya_SC,Al-Khaldiya SC,Premier League,2
+%C3%81guilas_Doradas,Águilas Doradas,Categoría Primera A,2
+La_Equidad,La Equidad,Categoría Primera A,2
+Barranquilla_F.C.,Barranquilla F.C.,Categoría Primera B,2
+Envigado_F.C.,Envigado F.C.,Categoría Primera B,2
+Llaneros_F.C.,Llaneros F.C.,Categoría Primera A,2
+Cagliari_Calcio,Cagliari Calcio,Serie A,2
+Independiente_Medell%C3%ADn,Independiente Medellín,Categoría Primera A,2
+Deportes_Tolima,Deportes Tolima,Categoría Primera A,2
+Athlitiki_Enosi_Larissa_F.C.,Athlitiki Enosi Larissa F.C.,Super League Greece 2,2
+F.C._Arouca,F.C. Arouca,Primeira Liga,2
+Hatta_Club,Hatta Club,UAE Division One,2
+Baniyas_Club,Baniyas Club,UAE Pro League,2
+FK_Mash%27al_Mubarek,FK Mash%27al Mubarek,Unknown,2
+Shabab_Al-Ahli_Club,Shabab Al-Ahli Club,Unknown,2
+FK_Olympic_Tashkent,FC Olympic Tashkent,Uzbekistan Super League,2
+FC_Pari_Nizhny_Novgorod,FC Pari Nizhny Novgorod,Russian First League,2
+Khor_Fakkan_Club,Khor Fakkan Club,UAE Pro League,2
+FC_Bukhara,FC Bukhara,Unknown,2
+NK_Zagreb,NK Zagreb,4. NL Središte Zagreb podskupina A,2
+RNK_Split,RNK Split,1. ŽNL,2
+Darlington_F.C.,Darlington F.C.,National League North,2
+Bristol_Rovers_F.C.,Bristol Rovers F.C.,EFL League Two,2
+West_African_Football_Academy,West African Football Academy,Ghana Premier League,2
+Chorrillo_F.C.,Club Deportivo Universitario,Liga Panameña de Fútbol,2
+FC_DAC_1904_Dunajsk%C3%A1_Streda,FC DAC 1904 Dunajská Streda,Slovak First Football League,2
+Deportivo_Saprissa,Deportivo Saprissa,Liga Promerica,2
+Club_Deportivo_Universitario,Club Deportivo Universitario,Unknown,2
+Uni%C3%B3n_Deportivo_Universitario,Uni%C3%B3n Deportivo Universitario,Unknown,2
+FC_Cartagena,FC Cartagena,Primera Federación,2
+Alianza_F.C._(Panama),Alianza F.C. (Panama),Liga Panameña de Fútbol,2
+Chepo_F.C.,Chepo F.C.,Liga Panameña de Fútbol,2
+Deportivo_La_Guaira_F.C.,Deportivo La Guaira F.C.,Liga FUTVE,2
+Club_Alianza_Lima,Alianza Lima,Liga 1,2
+D.C._United,D.C. United,Major League Soccer,2
+C.D._Cobresal,Cobresal,Liga de Primera,2
+Swindon_Town_F.C.,Swindon Town F.C.,EFL League Two,1
+Torino_F.C.,Torino FC,Serie A,1
+MFK_Tatran_Liptovsk%C3%BD_Mikul%C3%A1%C5%A1,MFK Tatran Liptovský Mikuláš,2. Liga,1
+FC_Hlu%C4%8D%C3%ADn,FC Hlučín,Moravian-Silesian Football League,1
+SK_Slavia_Praha,SK Slavia Praha,Unknown,1
+1._SK_Prost%C4%9Bjov,1. SK Prostějov,Czech National Football League,1
+HFK_T%C5%99eb%C3%AD%C4%8D,HFK Třebíč,Czech National Football League,1
+FK_Dukla_Prague,FK Dukla Prague,Czech First League,1
+FC_Silon_T%C3%A1borsko,FC Silon Táborsko,Czech National Football League,1
+AC_Sparta_Prague_B,AC Sparta Prague B,Czech National Football League,1
+FC_Sellier_%26_Bellot_Vla%C5%A1im,FC Sellier & Bellot Vlašim,Czech National Football League,1
+Cimarrones_de_Sonora,Cimarrones de Sonora,Liga Premier,1
+Quer%C3%A9taro_F.C._Premier,Querétaro F.C. Premier,Liga Premier,1
+CF_Rayo_Majadahonda,CF Rayo Majadahonda,Segunda Federación,1
+Tigres_UANL_Premier,Tigres UANL Premier,Liga Premier,1
+San_Luis_F.C.,San Luis F.C.,Liga MX,1
+AVS_Futebol_SAD,AVS Futebol SAD,Liga Portugal 2,1
+Tacoma_Defiance,Tacoma Defiance,MLS Next Pro,1
+Monarcas_Morelia,Atlético Morelia,Liga de Expansión MX,1
+Coras_de_Nayarit_F.C.,Coras FC,Liga Premier,1
+Cafetaleros_de_Chiapas,Cafetaleros de Chiapas,Liga Premier,1
+Highlands_Park_F.C.,Highlands Park F.C.,SAFA Second Division Gauteng Stream,1
+Cape_Town_City_F.C._(2016),Cape Town City F.C. (2016),National First Division,1
+University_of_Pretoria_F.C.,University of Pretoria F.C.,National First Division,1
+Pretoria_Callies_F.C.,Pretoria Callies F.C.,National First Division,1
+Bizana_Pondo_Chiefs_F.C.,Bizana Pondo Chiefs F.C.,SAFA Second Division,1
+AmaZulu_F.C.,AmaZulu F.C.,South African Premiership,1
+Cercle_Brugge,Cercle Brugge KSV,Belgian Pro League,1
+B-SAD,B-SAD,Liga Portugal 2,1
+Santos_F.C._(South_Africa),Santos F.C. (South Africa),ABC Motsepe League,1
+Bloemfontein_Celtic_F.C.,Bloemfontein Celtic F.C.,SAFA Second Division,1
+Royal_AM_F.C.,Royal AM F.C.,Premiership,1
+Chippa_United_F.C.,Chippa United F.C.,South African Premiership,1
+Baroka_F.C.,Baroka F.C.,First Division,1
+Magesi_F.C.,Magesi F.C.,South African Premiership,1
+Black_Leopards_F.C.,Black Leopards F.C.,National First Division,1
+Real_Kings_F.C.,Real Kings F.C.,Unknown,1
+Bidvest_Wits_F.C.,Bidvest Wits F.C.,Premiership,1
+Maritzburg_United_F.C.,Durban City F.C. (2024),South African Premiership,1
+Kaizer_Chiefs_F.C.,Kaizer Chiefs F.C.,South African Premiership,1
+Vissel_Kobe,Vissel Kobe,J1 League,1
+Suwon_FC,Suwon FC,K League 2,1
+Jeju_United_FC,Jeju SK FC,K League 1,1
+Gyeongju_Korea_Hydro_%26_Nuclear_Power_FC,Gyeongju Korea Hydro & Nuclear Power FC,K3 League,1
+Daejeon_Citizen_FC,Daejeon Hana Citizen,K League 1,1
+Seoul_E-Land_FC,Seoul E-Land FC,K League 2,1
+Daejeon_Citizen,Daejeon Citizen,Unknown,1
+Asan_Mugunghwa,Asan Mugunghwa FC,K League 2,1
+SV_Darmstadt_98,SV Darmstadt 98,2. Bundesliga,1
+Pohang_Steelers,Pohang Steelers,K League 1,1
+Daejeon_Korail_FC,Daejeon Korail FC,K3 League,1
+Ansan_Greeners_FC,Ansan Greeners FC,K League 2,1
+Zhejiang_Professional_F.C.,Zhejiang Professional F.C.,Chinese Super League,1
+Suwon_Samsung_Bluewings,Suwon Samsung Bluewings,K League 2,1
+Daegu_FC,Daegu FC,K League 2,1
+FK_Igman_Konjic,FK Igman Konjic,First League of FBiH,1
+HNK_Branitelj,HNK Branitelj,League of Hercegovina-Neretva Canton,1
+FC_Zorya_Luhansk,FC Zorya Luhansk,Ukrainian Premier League,1
+FK_Sarajevo,FK Sarajevo,Premier League BH,1
+KV_Kortrijk,KV Kortrijk,Challenger Pro League,1
+Jagiellonia_Bia%C5%82ystok,Jagiellonia Białystok,Ekstraklasa,1
+Jagiellonia_Bia%C5%82ystok_II,Jagiellonia Białystok II,"III liga, group I",1
+RB_Leipzig_affiliated_teams#Reserve_team,RB Leipzig affiliated teams,Regionalliga Nordost,1
+FK_Viagem_%C3%9Ast%C3%AD_nad_Labem,FK Viagem Ústí nad Labem,Czech National Football League,1
+FC_Astana,FC Astana,Premier League,1
+FK_Radnik_Had%C5%BEi%C4%87i,FK Radnik Hadžići,First League of FBiH,1
+NK_Bravo,NK Bravo,Slovenian PrvaLiga,1
+Dynamo_Dresden,Dynamo Dresden,2. Bundesliga,1
+NK_Neretvanac_Opuzen,NK Neretvanac Opuzen,3. NL – South,1
+NK_Slaven_Belupo,NK Slaven Belupo,Croatian Football League,1
+New_England_Revolution_II,New England Revolution II,MLS Next Pro,1
+NK_Osijek,NK Osijek,Croatian Football League,1
+Debreceni_VSC,Debreceni VSC,NB I,1
+Di%C3%B3sgy%C5%91ri_VTK,Diósgyőri VTK,NB I,1
+SC_Austria_Lustenau,SC Austria Lustenau,2. Liga (Austria),1
+SV_Ried,SV Ried,Austrian Bundesliga,1
+FK_Sloga_Doboj,FK Sloga Doboj,Premier League BH,1
+FK_Krupa,FK Krupa,Premier League of Bosnia and Herzegovina,1
+NK_Zvijezda_Grada%C4%8Dac,NK Zvijezda Gradačac,Second League of FBiH,1
+CS_Universitatea_Craiova,CS Universitatea Craiova,Liga I,1
+FC_Universitatea_Cluj,FC Universitatea Cluj,Liga I,1
+SV_Lafnitz,SV Lafnitz,Regionalliga Central,1
+K-W_United_FC,K–W United FC,Premier Development League,1
+New_York_Red_Bulls_U-23,New York Red Bulls U-23,USL League Two,1
+Gillingham_F.C.,Gillingham F.C.,EFL League Two,1
+Kitsap_Pumas,Kitsap Pumas,USL League Two,1
+TSS_FC_Rovers,TSS FC Rovers,British Columbia Premier League,1
+Calgary_Foothills_FC,Calgary Foothills FC,Alberta Premier League,1
+Cavalry_FC,Cavalry FC,Canadian Premier League,1
+Leix%C3%B5es_S.C.,Leixões S.C.,Liga Portugal 2,1
+F.C._Basel,FC Basel,Swiss Super League,1
+Manhattan_SC,Manhattan SC,USL League Two,1
+New_York_Pancyprian-Freedoms,New York Pancyprian-Freedoms,Eastern Premier Soccer League,1
+VfB_L%C3%BCbeck,VfB Lübeck,Regionalliga Nord,1
+VfR_Neum%C3%BCnster,VfR Neumünster,Oberliga Schleswig-Holstein,1
+FK_Javor_Ivanjica,FK Javor Ivanjica,Serbian First League,1
+Panetolikos_F.C.,Panetolikos F.C.,Super League Greece,1
+Black_Rock_FC,Black Rock FC,USL League Two,1
+Seacoast_United_Phantoms,Seacoast United Phantoms,USL League Two,1
+Colorado_Rapids_2,Colorado Rapids 2,MLS Next Pro,1
+FC_Montreal,FC Montreal,USL Championship,1
+Ottawa_Fury_FC,Ottawa Fury FC,NASL,1
+Los_Angeles_FC_2,Los Angeles FC 2,MLS Next Pro,1
+SC_Toronto,SC Toronto,Canadian Soccer League,1
+NK_Trnje,NK Trnje,Second League,1
+Valletta_F.C.,Valletta F.C.,Maltese Premier League,1
+Sirens_F.C.,Sirens F.C.,Maltese Challenge League,1
+N%C3%B5mme_Kalju_FC_U21,Nõmme Kalju FC U21,Esiliiga,1
+N%C3%B5mme_Kalju_FC,Nõmme Kalju FC,Meistriliiga,1
+CF_Montr%C3%A9al_U23,CF Montréal U23,Ligue1 Québec,1
+SSV_Ulm_1846,SSV Ulm 1846,3. Liga,1
+S.C._Mineiro_Aljustrelense,S.C. Mineiro Aljustrelense,Beja FA,1
+Lusail_SC,Lusail SC,Qatari Stars League,1
+Al-Gharafa_Sports_Club,Al-Gharafa Sports Club,Unknown,1
+Al-Ahli_(Doha),Al-Ahli (Doha),Unknown,1
+Al-Sadd_Sports_Club,Al-Sadd Sports Club,Unknown,1
+Al-Sadd_SC,Al-Sadd SC,Unknown,1
+Al-Wakra_Sports_Club,Al-Wakra Sports Club,Unknown,1
+CD_Calahorra_B,CD Calahorra B,Regional Preferente,1
+FC_Aarau,FC Aarau,Swiss Challenge League,1
+FC_Tuggen,FC Tuggen,1. Liga Classic,1
+FC_Thun,FC Thun,Swiss Super League,1
+Pisa_SC,Pisa SC,Serie B,1
+%C3%89toile_Carouge_FC,Étoile Carouge FC,Swiss Challenge League,1
+Cruzeiro_EC,Cruzeiro EC,Campeonato Brasileiro Série A,1
+Fortaleza_EC,Fortaleza Esporte Clube,Campeonato Brasileiro Série B,1
+Ava%C3%AD_FC,Avaí FC,Campeonato Brasileiro Série B,1
+Gr%C3%AAmio_Osasco_Audax_Esporte_Clube,Grêmio Osasco Audax Esporte Clube,Campeonato Paulista Segunda Divisão,1
+Clube_do_Remo,Clube do Remo,Campeonato Brasileiro Série A,1
+Oeste_Futebol_Clube,Osasco Sporting,Campeonato Paulista Série A2,1
+Am%C3%A9rica_Futebol_Clube_(RN),América Futebol Clube (RN),Campeonato Brasileiro Série D,1
+Botafogo_Futebol_Clube_(SP),Botafogo Futebol Clube (SP),Campeonato Brasileiro Série B,1
+Associa%C3%A7%C3%A3o_Portuguesa_de_Desportos,Associação Portuguesa de Desportos,Campeonato Brasileiro Série D,1
+Am%C3%A9rica_Futebol_Clube_(MG),América Futebol Clube (MG),Campeonato Brasileiro Série B,1
+Clube_Atl%C3%A9tico_Paranaense,Clube Atl%C3%A9tico Paranaense,Unknown,1
+Guaratinguet%C3%A1_Futebol,Guaratinguetá Futebol,Campeonato Paulista Série A2,1
+Pitua%C3%A7u_Futebol_Clube_Cajazeiras,Jacobinense Esporte Clube,Campeonato Brasileiro Série D,1
+Ituano_FC,Ituano FC,Campeonato Brasileiro Série C,1
+G.D._Ribeir%C3%A3o,G.D. Ribeirão,Portuguese Second Division,1
+Club_Sportivo_Sergipe,Club Sportivo Sergipe,Campeonato Brasileiro Série D,1
+PFC_Ludogorets_Razgrad_II,PFC Ludogorets Razgrad II,Second League,1
+FC_Tsarsko_Selo_Sofia,FC Tsarsko Selo Sofia,First Professional Football League,1
+Racing_CH,Racing CH,Ligue Haïtienne,1
+Baltimore_SC,Baltimore SC,Ligue Haïtienne,1
+Miami_United,Miami United FC,United Premier Soccer League,1
+Santiago_Morning,Santiago Morning,Segunda División Profesional,1
+Deportes_Magallanes,Deportes Magallanes,Primera B,1
+Mushuc_Runa_S.C.,Mushuc Runa,Ecuadorian Serie A,1
+New_Mexico_United,New Mexico United,USL Championship,1
+El_Paso_Locomotive_FC,El Paso Locomotive FC,USL Championship,1
+US_Chang%C3%A9,US Changé,Régional 1,1
+Olympique_Saint-Quentin,Olympique Saint-Quentin,National 2,1
+Kerala_Blasters_FC,Kerala Blasters FC,Indian Super League,1
+US_Quevilly-Rouen,US Quevilly-Rouen Métropole,Ligue 3,1
+FC_Annecy,FC Annecy,Ligue 2,1
+Ocean_City_Nor%27easters,Ocean City Nor'easters,USL League Two,1
+Indy_Eleven,Indy Eleven,USL Championship,1
+Orange_County_SC,Orange County SC,USL Championship,1
+Reno_1868_FC,Reno 1868 FC,USL Championship,1
+Charlotte_Independence,Charlotte Independence,USL League One,1
+Sacramento_Republic_FC,Sacramento Republic FC,USL Championship,1
+CS_Fabrose,FC Laval,Ligue1 Québec,1
+AS_Blainville,A.S. Blainville,Ligue1 Québec,1
+Forge_FC,Forge FC,Canadian Premier League,1
+A.S._Roma,A.S. Roma,Unknown,1
+TSV_Hartberg,TSV Hartberg,Austrian Bundesliga,1
+Le_Puy_Foot_43_Auvergne,Le Puy Foot 43 Auvergne,Ligue 3,1
+Ferencv%C3%A1rosi_TC,Ferencvárosi TC,NB I,1
+FC_Bastia-Borgo,FC Borgo,Championnat National 1,1
+FC_Polissya_Zhytomyr,FC Polissya Zhytomyr,Ukrainian Premier League,1
+US_Quevilly-Rouen_M%C3%A9tropole,US Quevilly-Rouen M%C3%A9tropole,Unknown,1
+Reading_United_AC,Reading United AC,USL League Two,1
+Stade_Brestois_29,Stade Brestois 29,Ligue 1,1
+Vit%C3%B3ria_F.C.,Vitória F.C.,Liga Portugal 2,1
+Uni%C3%A3o_Santar%C3%A9m,União de Santarém,Liga 3,1
+FC_Cosmos_Koblenz,FC Cosmos Koblenz,Oberliga Rheinland-Pfalz/Saar,1
+Akritas_Chlorakas,Akritas Chlorakas,Second Division,1
+FK_Auda,FK Auda,Virslīga,1
+FCM_Aubervilliers,FCM Aubervilliers,National 1,1
+SD_Navarro_CF,SD Navarro CF,Tercera Federación,1
+Paide_Linnameeskond_U21,Paide Linnameeskond U21,II liiga,1
+Paide_Linnameeskond,Paide Linnameeskond,Meistriliiga,1
+FC_Dinamo_Tbilisi,FC Dinamo Tbilisi,Erovnuli Liga,1
+1._FC_Tatran_Pre%C5%A1ov,1. FC Tatran Prešov,2. Liga,1
+Real_Hope_FA,Real Hope FA,Ligue Haïtienne,1
+Paris_Saint-Germain,Paris Saint-Germain,Unknown,1
+FUS_de_Rabat,Fath Union Sport,Botola Pro,1
+Club_Brugge,Club Brugge,Unknown,1
+RC_Strasbourg_Alsace_Academy,RC Strasbourg Alsace Academy,Championnat National 3,1
+%C3%89toile_de_Casablanca,EJS Casablanca,Amateurs I,1
+AD_Ceuta_B,AD Ceuta B,Segunda Federación,1
+UD_Almer%C3%ADa_B,UD Almería B,Segunda Federación,1
+UD_Melilla_B,UD Melilla B,Tercera Federación,1
+CD_Numancia,CD Numancia,Segunda Federación,1
+RWDM47,RWDM Brussels,Belgian Division 1,1
+FC_Istres,Istres FC,National 1,1
+Olympique_Al%C3%A8s,Olympique Alès,National 3,1
+FC_S%C3%A8te_34,SC Sète,Régional 2,1
+CE_Sabadell_FC,CE Sabadell FC,Primera Federación,1
+Fath_Union_Sport,Fath Union Sport,Unknown,1
+Racing_de_Casablanca,Racing de Casablanca,Botola Pro 2,1
+Hebei_F.C.,Hebei F.C.,Chinese Super League,1
+SpVgg_Erkenschwick,SpVgg Erkenschwick,Oberliga Westfalen,1
+IR_Tanger,IR Tangier,Botola Pro,1
+Maghreb_de_F%C3%A8s,Maghreb of Fez,Botola Pro,1
+MA_T%C3%A9touan,MA Tétouan,Botola Pro 2,1
+AS_FAR,AS FAR,Botola Pro,1
+AS_Nancy-Lorraine,AS Nancy-Lorraine,Unknown,1
+Helmond_Sport,Helmond Sport,Eerste Divisie,1
+Mudgeeraba_S.C.,Mudgeeraba S.C.,Football Queensland Premier League,1
+Merrimac_FC,Merrimac F.C.,USL League Two,1
+Queen_of_the_South_F.C.,Queen of the South F.C.,Scottish League One,1
+Redlands_United_FC,Redlands United FC,FQPL,1
+Palm_Beach_SC,Palm Beach SC,FQPL 3 − South Coast,1
+Surfers_Paradise_Apollo_SC,Surfers Paradise Apollo S.C.,FQLD 3 – South Coast,1
+Oadby_Town_F.C.,GNG Oadby Town F.C.,Midland League,1
+Ilkeston_F.C.,Ilkeston F.C.,Northern Premier League,1
+Inverness_Caledonian_Thistle_F.C.,Inverness Caledonian Thistle F.C.,Scottish Championship,1
+Partick_Thistle_F.C.,Partick Thistle F.C.,Scottish Championship,1
+Dundee_F.C.,Dundee F.C.,Scottish Premiership,1
+K.V._Oostende,KV Oostende,Belgian Pro League,1
+U.S._Cremonese,U.S. Cremonese,Unknown,1
+Al-Ettifaq_Club,Al-Ettifaq Club,Saudi Pro League,1
+Ardeer_Thistle_F.C.,Ardeer Thistle F.C.,West of Scotland League Second Division,1
+Kilwinning_Rangers_F.C.,Kilwinning Rangers F.C.,Lowland League West,1
+Albion_Rovers_F.C.,Albion Rovers F.C.,Lowland League West,1
+Hemel_Hempstead_Town_F.C.,Hemel Hempstead Town F.C.,National League South,1
+Basingstoke_Town_F.C.,Basingstoke Town F.C.,Southern League,1
+Dagenham_%26_Redbridge_F.C.,Dagenham & Redbridge F.C.,National League South,1
+Aldershot_Town_F.C.,Aldershot Town F.C.,National League,1
+Hamilton_Academical_F.C.,Hamilton Academical F.C.,Scottish League One,1
+Dunfermline_Athletic_F.C.,Dunfermline Athletic F.C.,Scottish Championship,1
+Greenock_Morton_F.C.,Greenock Morton F.C.,Scottish Championship,1
+Cowdenbeath_F.C.,Cowdenbeath F.C.,Lowland League East,1
+Arbroath_F.C.,Arbroath F.C.,Scottish Championship,1
+St_Johnstone_F.C.,St Johnstone F.C.,Scottish Premiership,1
+Blacktown_City_FC,Blacktown City FC,NPL NSW,1
+Perth_Glory_FC_Youth,Perth Glory FC Youth,NPL Western Australia,1
+Perth_Glory_FC_NPL,Perth Glory FC NPL,Unknown,1
+JEF_United_Chiba,JEF United Chiba,J1 League,1
+Albirex_Niigata,Albirex Niigata,J2 League,1
+Bulleen_Lions,FC Bulleen Lions,Victoria Premier League 1,1
+Adelaide_United,Adelaide United FC,A-League Men,1
+FSV_Frankfurt_II,FSV Frankfurt II,Regionalliga Südwest,1
+Campbelltown_City_SC,Campbelltown City SC,NPL South Australia,1
+Esbjerg_fB,Esbjerg fB,1st Division,1
+Sutherland_Sharks_FC,Sutherland Sharks FC,NPL NSW,1
+Western_Sydney_Wanderers_FC_Youth,Western Sydney Wanderers FC Youth,National Premier Leagues NSW,1
+Sydney_FC_Youth,Sydney FC Youth,National Premier Leagues NSW,1
+Brisbane_Roar_FC_NPL,Brisbane Roar FC Youth,NPL Queensland,1
+Green_Gully,Green Gully SC,NPL Victoria,1
+Hume_City_FC,Hume City FC,NPL Victoria,1
+Al_Nassr,Al-Nassr FC,Saudi Pro League,1
+Cheltenham_Town_F.C.,Cheltenham Town F.C.,EFL League Two,1
+Bury_F.C.,Bury F.C.,Northern Premier League,1
+Frankston_Pines_FC,Frankston Pines SC,State League Division 4-South,1
+Melbourne_Victory_FC_Youth,Melbourne Victory FC Youth,NPL Victoria,1
+Brisbane_Roar_FC_Youth,Brisbane Roar FC Youth,Unknown,1
+Adelaide_Comets_FC,Adelaide Comets FC,NPL South Australia,1
+Newcastle_Jets_FC_NPL,Newcastle Jets FC Youth,NSW League One,1
+Vaasan_Palloseura,Vaasan Palloseura,Veikkausliiga,1
+Kuopion_Palloseura,Kuopion Palloseura,Veikkausliiga,1
+Figueirense_FC,Figueirense FC,Campeonato Brasileiro Série C,1
+Club_Cerro_Porte%C3%B1o_(Presidente_Franco),Club Cerro Porteño (Presidente Franco),Primera B Nacional,1
+Club_River_Plate_(Asunci%C3%B3n),Club River Plate (Asunción),Primera B Metropolitana,1
+Club_Sportivo_San_Lorenzo,Club Sportivo San Lorenzo,Primera División,1
+N%C3%AEmes_Olympique,Nîmes Olympique,Championnat National 1,1
+A.C._Milan,A.C. Milan,Unknown,1
+Al_Taawoun_FC,Al Taawoun FC,Saudi Pro League,1
+Independiente_Rivadavia,Independiente Rivadavia,Primera División,1
+LDU_Quito,LDU Quito,Unknown,1
+Club_Atl%C3%A9tico_Tembetary,Club Atlético Tembetary,División Intermedia,1
+Defensores_de_Cambaceres,Defensores de Cambaceres,Primera C,1
+Club_Atl%C3%A9tico_Tigre,Club Atlético Tigre,Primera División,1
+Gimnasia_y_Esgrima_de_La_Plata,Gimnasia y Esgrima de La Plata,Unknown,1
+Independiente_F.B.C.,Independiente F.B.C.,División Intermedia,1
+Club_General_D%C3%ADaz_(Luque),Club General Díaz (Luque),Primera B,1
+Deportes_Concepci%C3%B3n_(Chile),Deportes Concepción (Chile),Liga de Primera,1
+Crucero_del_Norte,Crucero del Norte,Torneo Federal A,1
+Club_Atl%C3%A9tico_Nueva_Chicago,Club Atlético Nueva Chicago,Primera Nacional,1
+Club_Atl%C3%A9tico_Patronato,Club Atlético Patronato,Primera Nacional,1
+Deportivo_Capiat%C3%A1,Club Deportivo Capiatá,División Intermedia,1
+G.D._Santa_Cruz_de_Alvarenga,G.D. Santa Cruz de Alvarenga,Portuguese District Championships,1
+Deportivo_Santan%C3%AD,Deportivo Santaní,División Intermedia,1
+Esporte_Clube_Juventude,Esporte Clube Juventude,Campeonato Brasileiro Série B,1
+Cuiab%C3%A1_Esporte_Clube,Cuiabá Esporte Clube,Campeonato Brasileiro Série B,1
+Club_Guaran%C3%AD,Club Guaraní,División de Honor,1
+Atyr%C3%A1_F.C.,Atyrá F.C.,Primera B Nacional,1
+Resistencia_S.C.,Resistencia S.C.,División Intermedia,1
+Karacabey_Birlikspor,Karacabey Belediyespor,TFF 2. Lig,1
+%C4%B0stanbulspor,İstanbulspor,TFF 1. Lig,1
+A.C._Alcanenense,A.C. Alcanenense,Portuguese District Championships,1
+Alt%C4%B1nordu_F.K.,Altınordu F.K.,TFF 2. Lig,1
+BB_Bodrumspor,Bodrum F.K.,TFF 1. Lig,1
+24_Erzincanspor,24 Erzincanspor,TFF 2. Lig,1
+Hammarby_Talang_FF,Hammarby Talang FF,Ettan,1
+Silivrispor,Silivrispor,TFF Third League,1
+1922_Konyaspor,1922 Konyaspor,TFF Third League,1
+Denizlispor,Denizlispor,Denizli Super Amateur League,1
+Altay_S.K.,Altay S.K.,TFF 3. Lig,1
+G%C3%B6lc%C3%BCkspor,Gölcükspor,TFF 3. Lig,1
+Bal%C4%B1kesirspor,Balıkesirspor,TFF Third League,1
+Hacettepe_S.K.,Hacettepe S.K.,Ankara Amateur First Division,1
+Ankara_Demirspor,Ankara Demirspor,TFF 2. Lig,1
+Ankara_Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC,Ankara Keçiörengücü S.K.,TFF 1. Lig,1
+U.S._Sassuolo_Calcio,U.S. Sassuolo Calcio,Unknown,1
+1461_Trabzon,1461 Trabzon,Turkish Regional Amateur League,1
+Bucaspor,Bucaspor,TFF 1. Lig,1
+Bucaspor_1928,Bucaspor 1928,TFF 3. Lig,1
+Arsinspor,Arsinspor,Regional Amateur League,1
+Sancaktepe_FK,Sancaktepe FK,Turkish Regional Amateur League,1
+%C5%9Eanl%C4%B1urfaspor,Şanlıurfaspor,TFF 2. Lig,1
+Ankara_Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC_S.K.,Ankara Ke%C3%A7i%C3%B6reng%C3%BCc%C3%BC S.K.,Unknown,1
+Jersey_Express_S.C.,Jersey Express S.C.,Premier Development League,1
+Richmond_Kickers,Richmond Kickers,USL League One,1
+Boston_Bolts_(USL),Boston Bolts (USL),USL League Two,1
+Chicago_Fire_Premier,Chicago Fire U-23,Premier Development League,1
+Washington_Crossfire,Crossfire Redmond,NPSL,1
+Seattle_Sounders_FC_2,Seattle Sounders FC 2,Unknown,1
+San_Jose_Earthquakes_II,San Jose Earthquakes II,MLS Next Pro,1
+Columbus_Crew_2,Columbus Crew 2,MLS Next Pro,1
+New_York_Cosmos_(2013%E2%80%932020),New York Cosmos (2013–2020),North American Soccer League (2011–2017),1
+SV_Sandhausen,SV Sandhausen,Regionalliga Südwest,1
+S%C3%B8nderjyske_Fodbold,Sønderjyske Fodbold,Superliga,1
+Bethlehem_Steel_FC,Bethlehem Steel FC,Unknown,1
+Chicago_Fire_FC_II,Chicago Fire FC II,MLS Next Pro,1
+Go_Ahead_Eagles,Go Ahead Eagles,Eredivisie,1
+VV_Smitshoek,VV Smitshoek,Vierde Divisie,1
+Kozakken_Boys,Kozakken Boys,Tweede Divisie,1
+SC_Preu%C3%9Fen_M%C3%BCnster,SC Preußen Münster,3. Liga,1
+Willem_II_Tilburg,Willem II Tilburg,Eredivisie,1
+Hapoel_Tel_Aviv_F.C.,Hapoel Tel Aviv F.C.,Israeli Premier League,1
+Al-Wehda_FC,Al-Wehda FC,Unknown,1
+Brighton_and_Hove_Albion_F.C.,Brighton and Hove Albion F.C.,Unknown,1
+Cangzhou_Mighty_Lions_F.C.,Cangzhou Mighty Lions F.C.,Chinese Super League,1
+CF_Intercity,CF Intercity,Segunda Federación,1
+Cardiff_City_F.C.,Cardiff City F.C.,EFL Championship,1
+Band%C4%B1rmaspor,Bandırmaspor,TFF 1. Lig,1
+Rotherham_United,Rotherham United,Unknown,1
+VV_Hoogeveen,VV Hoogeveen,Derde Divisie,1
+Sabah_FC_(Azerbaijan),Sabah FK (Azerbaijan),Azerbaijan Premier League,1
+SBV_Excelsior,Excelsior Rotterdam,Eredivisie,1
+FC_Eindhoven,FC Eindhoven,Eerste Divisie,1
+1._FC_Kaiserslautern_II,1. FC Kaiserslautern II,Regionalliga Südwest,1
+Persis_Solo,Persis Solo,Championship,1
+Terengganu_FC,Terengganu FC,Malaysia Super League,1
+FC_Den_Bosch,FC Den Bosch,Eerste Divisie,1
+USV_Hercules,USV Hercules,Derde Divisie,1
+IJsselmeervogels,IJsselmeervogels,Tweede Divisie,1
+Quilmes_Atl%C3%A9tico_Club,Quilmes Atlético Club,Primera Nacional,1
+Rangers_de_Talca,Rangers de Talca,Primera B,1
+Club_Universidad_de_Chile,Club Universidad de Chile,Liga de Primera,1
+LDU_Portoviejo,L.D.U. Portoviejo,Serie B,1
+Barcelona_S.C.,Barcelona S.C.,Ecuadorian Serie A,1
+Granada_CF_B,Recreativo Granada,Tercera Federación,1
+%C5%9Al%C4%85sk_Wroc%C5%82aw,Śląsk Wrocław,Ekstraklasa,1
+Rak%C3%B3w_Cz%C4%99stochowa,Raków Częstochowa,Ekstraklasa,1
+Imbabura_S.C.,Imbabura Sporting Club,Ecuadorian Serie A,1
+C.S._Emelec,Club Sport Emelec,Ecuadorian Serie A,1
+Cercle_Brugge_K.S.V.,Cercle Brugge K.S.V.,Unknown,1
+C.D._El_Nacional,Club Deportivo El Nacional,Serie B,1
+Alianza_Cotopaxi_S.C.,Alianza Cotopaxi S.C.,Unknown,1
+FC_Shakhtar_Donetsk,FC Shakhtar Donetsk,Ukrainian Premier League,1
+Guayaquil_City_F.C.,Guayaquil City F.C.,LigaPro Serie A,1
+Rayo_Cantabria,Rayo Cantabria,Segunda Federación,1
+Manta_F.C.,Manta F.C.,Serie A,1
+Hannover_96_II,Hannover 96 II,Regionalliga Nord,1
+Karlsruher_SC_II,Karlsruher SC II,Oberliga Baden-Württemberg,1
+FC_Ingolstadt_04_II,FC Ingolstadt 04 II,Bayernliga Nord,1
+SC_Paderborn_07,SC Paderborn 07,Bundesliga,1
+TSV_Havelse,TSV Havelse,3. Liga,1
+Eintracht_Braunschweig_II,Eintracht Braunschweig II,Landesliga Braunschweig,1
+SV_Meppen,SV Meppen,Regionalliga Nord,1
+Burgos_CF,Burgos CF,Segunda División,1
+F.C._Porto_B,F.C. Porto B,Unknown,1
+Stella_Club_d%27Adjam%C3%A9,Stella Club d'Adjamé,Ligue 1,1
+CD_Legan%C3%A9s_B,CD Leganés B,Tercera Federación,1
+Montpellier_HSC_II,Montpellier HSC II,Unknown,1
+Poitiers_FC,Stade Poitevin FC,National 3,1
+US_Orl%C3%A9ans,US Orléans,Ligue 3,1
+Africa_Sports_d%27Abidjan,Africa Sports d'Abidjan,Ligue 2,1
+Beitar_Tel_Aviv_Bat_Yam_F.C.,Beitar Tel Aviv Holon F.C.,Israeli Premier League,1
+Maccabi_Netanya_F.C.,Maccabi Netanya F.C.,Israeli Premier League,1
+Urawa_Red_Diamonds,Urawa Red Diamonds,J1 League,1
+Giravanz_Kitakyushu,Giravanz Kitakyushu,J3 League,1
+Matsumoto_Yamaga,Matsumoto Yamaga FC,J3 League,1
+Sanfrecce_Hiroshima,Sanfrecce Hiroshima,J1 League,1
+Gamba_Osaka_U-23,Gamba Osaka U-23,J3 League,1
+Shimizu_S-Pulse,Shimizu S-Pulse,J1 League,1
+Yokohama_FC,Yokohama FC,J2 League,1
+Cerezo_Osaka_U-23,Cerezo Osaka U-23,J3 League,1
+Cerezo_Osaka,Cerezo Osaka,J1 League,1
+Avispa_Fukuoka,Avispa Fukuoka,J1 League,1
+Excelsior_Rotterdam,Excelsior Rotterdam,Unknown,1
+Alemannia_Aachen,Alemannia Aachen,3. Liga,1
+IFK_Liding%C3%B6_Fotboll,IFK Lidingö Fotboll,Division 3,1
+Degerfors_IF,Degerfors IF,Allsvenskan,1
+Friska_Viljor_FC,Friska Viljor FC,Ettan Norra,1
+Sandvikens_IF,Sandvikens IF,Superettan,1
+Assyriska_FF,Assyriska FF,Ettan Fotboll,1
+IK_Sirius_Fotboll,IK Sirius Fotboll,Allsvenskan,1
+Lech_Pozna%C5%84,Lech Poznań,Ekstraklasa,1
+Jonsereds_IF,Jonsereds IF,Division 3,1
+S%C3%A4vedalens_IF,Sävedalens IF,Division 2 Norra Götaland,1
+%C3%96rgryte_IS,Örgryte IS,Allsvenskan,1
+IK_Oddevold,IK Oddevold,Superettan,1
+Falkenbergs_FF,Falkenbergs FF,Superettan,1
+SV_Wehen_Wiesbaden,SV Wehen Wiesbaden,3. Liga,1
+Sundbybergs_IK,Sundbybergs IK,Division 3 Norra Svealand,1
+IFK_Stocksund,IFK Stocksund,Ettan Fotboll,1
+V%C3%A4ster%C3%A5s_SK_FK,V%C3%A4ster%C3%A5s SK FK,Unknown,1
+CO_M%C3%A9denine,CO Médenine,Tunisian Ligue Professionnelle 1,1
+JS_Kairouan,JS Kairouan,Tunisian Ligue Professionnelle 1,1
+Benevento_Calcio,Benevento Calcio,Serie C,1
+AS_Cannes,AS Cannes,Ligue 1,1
+Chamois_Niortais_F.C.,Chamois Niortais FC,Ligue 1,1
+C.D._Trofense,C.D. Trofense,Liga 3,1
+HSV_Barmbek-Uhlenhorst,HSV Barmbek-Uhlenhorst,Landesliga Hamburg-Hammonia,1
+FC_Eintracht_Norderstedt_03,FC Eintracht Norderstedt 03,Regionalliga Nord,1
+Degache,Degache,Tunisian Ligue Professionnelle 2,1
+Tozeur,Tozeur,Tunisian Ligue Professionnelle 2,1
+Al-Najaf_FC,Al-Najaf SC,Iraqi Premier Division League,1
+FC_Dynamo_Makhachkala,FC Dynamo Makhachkala,Russian Premier League,1
+CA_Bizertin,CA Bizertin,Tunisian Ligue Professionnelle 1,1
+RB_Leipzig_II,RB Leipzig II,Unknown,1
+Whitecaps_FC_Academy,Whitecaps FC Academy,British Columbia Premier League,1
+Olympique_B%C3%A9ja,Olympique Béja,Tunisian Ligue Professionnelle 1,1
+AS_Soliman,AS Soliman,Tunisian Ligue Professionnelle 2,1
+CS_Hammam-Lif,CS Hammam-Lif,Ligue 2,1
+Knattspyrnuf%C3%A9lag_Reykjav%C3%ADkur,Knattspyrnufélag Reykjavíkur,Besta deild karla,1
+ES_Hammam_Sousse,ES Hammam Sousse,Ligue 2,1
+Akademisk_Boldklub,Akademisk Boldklub,Danish 2nd Division,1
+Tromsdalen_UIL,Tromsdalen UIL,2. divisjon,1
+Celtic_FC,Celtic FC,Unknown,1
+KVC_Westerlo,KVC Westerlo,Unknown,1
+Tianjin_Quanjian_F.C.,Tianjin Tianhai F.C.,Chinese Super League,1
+Jong_Genk,Jong Genk,Unknown,1
+Royal_Excelsior_Virton,Royal Excelsior Virton,Belgian Division 1,1
+Juventus_FC_Under-23,Juventus FC Under-23,Unknown,1
+Lommel_SK,Lommel SK,Unknown,1
+KSC_Lokeren_Oost-Vlaanderen,KSC Lokeren Oost-Vlaanderen,Belgian Pro League,1
+Petrojet_SC,Petrojet SC,Egyptian Premier League,1
+El_Mansoura_SC,El Mansoura SC,Egyptian Second Division B,1
+Sporting_Clube_de_Portugal,Sporting Clube de Portugal,Unknown,1
+Sporting_Clube_de_Portugal_B,Sporting Clube de Portugal B,Unknown,1
+Future_FC,Modern Sport FC,Egyptian Premier League,1
+Gomhoriat_Shebin_SC,Gomhoriat Shebin SC,Egyptian Second Division,1
+ENPPI_SC,ENPPI SC,Egyptian Premier League,1
+Ala%27ab_Damanhour_SC,Ala'ab Damanhour SC,Egyptian Third Division,1
+Yeni_Malatyaspor,Yeni Malatyaspor,TFF 3. Lig,1
+Smouha_Sporting_Club,Smouha Sporting Club,Unknown,1
+Modern_Future_FC,Modern Future FC,Unknown,1
+Nogoom_FC,Nogoom FC,Egyptian Third Division,1
+El_Qanah_FC,El Qanah FC,Egyptian Second Division A,1
+El_Gouna_FC,El Gouna FC,Egyptian Premier League,1
+Naft_Tehran,Naft Tehran F.C.,League 3,1
+Panionios_F.C.,Panionios F.C.,Super League Greece 2,1
+Mes_Rafsanjan_F.C.,Mes Rafsanjan F.C.,Persian Gulf Pro League,1
+Mes_Kerman_F.C.,Sanat Mes Kerman F.C.,Azadegan League,1
+Sepahan_Isfahan_F.C.,Sepahan Isfahan F.C.,Unknown,1
+FC_Akhmat_Grozny,FC Akhmat Grozny,Russian Premier League,1
+Atl%C3%A9tico_Madrid_C,Atlético Madrid C,Tercera Federación,1
+FC_Amkar_Perm,FC Amkar Perm,Russian Second League,1
+Damash_Tehran_F.C.,Damash Tehran,Tehran Province League,1
+S.C._Damash_Gilan,S.C. Damash Gilan,Azadegan League,1
+N.E.C._(football_club),N.E.C. (football club),Unknown,1
+Sang_Ahan_Bafq_F.C.,Yazd Louleh F.C.,Azadegan League,1
+Machine_Sazi_F.C.,Machine Sazi F.C.,League 3 (Iran),1
+IF_Limhamn_Bunkeflo_(men),IF Limhamn Bunkeflo (men),Division 2 Västra Götaland,1
+Sepahan_F.C.,Sepahan F.C.,Unknown,1
+Padideh_Khorasan_FC,Shahr Khodro F.C.,Persian Gulf Pro League,1
+Al_Wahda_FC,Al Wahda FC,UAE Pro League,1
+Bargh_Shiraz,Bargh Shiraz F.C.,League 2 (Iran),1
+Rah_Ahan_F.C.,Rah Ahan F.C.,Unknown,1
+Al-Shahania_SC,Al Shahaniya SC,Qatar Stars League,1
+S.B.V._Excelsior,S.B.V. Excelsior,Unknown,1
+Zob_Ahan_Esfahan_F.C.,Zob Ahan Esfahan F.C.,Persian Gulf Pro League,1
+KIA_Football_Academy,KIA Football Academy,League 2 (Iran),1
+Gol_Gohar_Sirjan_F.C.,Gol Gohar Sirjan F.C.,Persian Gulf Pro League,1
+Buckingham_Town_F.C.,Buckingham Town F.C.,Southern Football League,1
+Banbury_United_F.C.,Banbury United F.C.,Southern League,1
+Nuneaton_Borough_F.C.,Nuneaton Town F.C.,Northern Premier League,1
+Barnet_F.C.,Barnet F.C.,EFL League Two,1
+Brisbane_Roar_F.C.,Brisbane Roar F.C.,Unknown,1
+Waitakere_United,Waitakere United,ISPS Handa Premiership,1
+Portland_Timbers_2,Portland Timbers 2,MLS Next Pro,1
+Canterbury_United_FC,Canterbury United Dragons,ISPS Handa Premiership,1
+Michigan_Bucks,Flint City Bucks,USL League Two,1
+Nyk%C3%B6pings_BIS,Nyköpings BIS,Division 2,1
+IFK_V%C3%A4rnamo,IFK Värnamo,Superettan,1
+Ellerslie_AFC,Ellerslie AFC,NRFL Championship,1
+Central_United_F.C.,Central United F.C.,NRFL Northern Conference,1
+Vancouver_Whitecaps_FC_U-23,Vancouver Whitecaps FC U-23,Premier Development League,1
+Oakleigh_Cannons_FC,Oakleigh Cannons FC,NPL Victoria,1
+Charlottesville_Alliance_FC,Charlottesville Alliance FC,NPSL,1
+Wanderers_SC,Wanderers Special Club,ASB Premiership,1
+FC_Carl_Zeiss_Jena,FC Carl Zeiss Jena,Regionalliga Nordost,1
+Helsingin_Jalkapalloklubi,Helsingin Jalkapalloklubi,Veikkausliiga,1
+Klubi_04,Klubi 04,Ykkösliiga,1
+FC_Haka,FC Haka,Ykkösliiga,1
+Cambridge_FC,Cambridge FC,NRFL Championship,1
+Hamilton_Wanderers_AFC,Hamilton Wanderers AFC,NRFL Championship,1
+WaiBOP_United,WaiBOP United,ASB Premiership,1
+SSV_Jahn_Regensburg,SSV Jahn Regensburg,3. Liga,1
+U.D._Leiria,U.D. Leiria,Liga Portugal 2,1
+Wellington_Phoenix_F.C.,Wellington Phoenix F.C.,Unknown,1
+AC_Horsens,AC Horsens,Danish Superliga,1
+Wellington_United,Wellington United AFC,ASB Premiership,1
+Lechia_Gda%C5%84sk,Lechia Gdańsk,I liga,1
+YoungHeart_Manawatu,Manawatu United,ASB Premiership,1
+Wairarapa_United,Wairarapa United,ASB Premiership,1
+Ngongotaha_AFC,Ngongotaha AFC,NRFL Southern Conference,1
+Torslanda_IK,Torslanda IK,Ettan Södra,1
+Sligo_Rovers_F.C.,Sligo Rovers F.C.,League of Ireland Premier Division,1
+Auckland_FC_Reserves,Auckland FC Reserves,Northern League,1
+Selwyn_United,Selwyn United FC,Canterbury Premiership League,1
+Macarthur_Rams,Macarthur Rams FC,NSW League One,1
+Alania_Vladikavkaz,FC Alania Vladikavkaz (2019),Russian Second League,1
+Western_Sydney_Wanderers_FC,Western Sydney Wanderers FC,A-League Men,1
+Mansfield_Town_F.C.,Mansfield Town F.C.,EFL League One,1
+Port_Vale_F.C.,Port Vale F.C.,EFL League Two,1
+Island_Bay_United,Island Bay United AFC,Central League,1
+North_Wellington_AFC,North Wellington AFC,Central League 2,1
+Hawke%27s_Bay_United_FC,Hawke's Bay United FC,ISPS Handa Premiership,1
+Wellington_Olympic_AFC,Wellington Olympic AFC,Central League,1
+Kyoto_Sanga_FC,Kyoto Sanga FC,J1 League,1
+Melville_United,Melville United AFC,Northern League,1
+Waikato_FC,Waikato FC,Unknown,1
+Macarthur_FC,Macarthur FC,A-League Men,1
+Braintree_Town_F.C.,Braintree Town F.C.,National League South,1
+CS_Mindelense,CS Mindelense,Cape Verdean football Championships,1
+Progresso_Associa%C3%A7%C3%A3o_do_Sambizanga,Progresso Associação do Sambizanga,Segundona,1
+FC_Zimbru_Chi%C8%99in%C4%83u,FC Zimbru Chișinău,Liga,1
+Deportivo_de_La_Coru%C3%B1a_B,Deportivo Fabril,Segunda Federación,1
+Videoton_FC_Feh%C3%A9rv%C3%A1r,Videoton FC Fehérvár,NB II,1
+ASFAR_(football_club),ASFAR (football club),Unknown,1
+Bohemian_F.C.,Bohemian F.C.,League of Ireland Premier Division,1
+Shamrock_Rovers_F.C.,Shamrock Rovers F.C.,League of Ireland Premier Division,1
+Le_Mans_FC,Le Mans FC,Ligue 1,1
+U.D._Oliveirense,U.D. Oliveirense,Liga 3,1
+Sertanense_F.C.,Sertanense F.C.,Campeonato de Portugal,1
+SC_Maria_da_Fonte,SC Maria da Fonte,Terceira Divisão,1
+Le%C3%A7a_F.C.,Leça F.C.,Liga 3,1
+ASC_O%C8%9Belul_Gala%C8%9Bi,ASC Oțelul Galați,Liga I,1
+FCSB,FCSB,Liga I,1
+XerxesDZB,XerxesDZB,Vierde Divisie,1
+Apollon_Limassol_FC,Apollon Limassol FC,First Division,1
+C.D.C._Montalegre,C.D.C. Montalegre,Campeonato de Portugal,1
+C.D._Cova_da_Piedade,C.D. Cova da Piedade,Liga Portugal 2,1
+Real_S.C.,Real Sport Clube,Campeonato de Portugal,1
+U.D._Vilafranquense,U.D. Vilafranquense,Liga Portugal 2,1
+FC_Hebar_Pazardzhik,FC Hebar Pazardzhik,Second League,1
+PFC_Montana,PFC Montana,Second League,1
+FC_Rot-Wei%C3%9F_Erfurt,FC Rot-Weiß Erfurt,Regionalliga Nordost,1
+Pusk%C3%A1s_Akad%C3%A9mia_FC,Puskás Akadémia FC,NB I,1
+S.C._Salgueiros,S.C. Salgueiros,Campeonato de Portugal,1
+Vilaverdense_FC,Vilaverdense F.C.,Campeonato de Portugal,1
+Alki_Oroklini,Alki Oroklini,Cypriot First Division,1
+FC_Politehnica_Ia%C8%99i_(2010),FC Politehnica Iași (2010),Liga II,1
+MVV_Maastricht,MVV Maastricht,Eerste Divisie,1
+Casa_Pia_A.C.,Casa Pia A.C.,Primeira Liga,1
+Nottingham_Forest,Nottingham Forest,Unknown,1
+Kocaelispor,Kocaelispor,Süper Lig,1
+Aubagne_FC,SC Aubagne Air Bel,Ligue 3,1
+Inter_Miami_CF_II,Inter Miami CF II,MLS Next Pro,1
+C.F._Os_Belenenses,C.F. Os Belenenses,Liga 3,1
+Sein%C3%A4joen_Jalkapallokerho,Seinäjoen Jalkapallokerho,Veikkausliiga,1
+Amora_F.C.,Amora F.C.,Liga 3,1
+Al-Tai_FC,Al-Tai FC,First Division League,1
+Al_Faisaly_FC,Al Faisaly FC,Unknown,1
+Al_Hilal_FC,Al Hilal FC,Unknown,1
+Al-Ahli_(Jeddah),Al-Ahli (Jeddah),Unknown,1
+Neom_SC,Neom SC,Saudi Pro League,1
+Al-Ahli_SC_(Jeddah),Al-Ahli SC (Jeddah),Unknown,1
+Al-Ula_FC,Al-Ula FC,First Division League,1
+Atl%C3%A9tico_Levante_UD,Atlético Levante UD,Tercera Federación,1
+CA_Osasuna_B,CA Osasuna B,Primera Federación,1
+Real_Betis_B,Betis Deportivo,Primera Federación,1
+RCD_Espanyol_B,RCD Espanyol B,Segunda Federación,1
+Real_Sociedad_C,Real Sociedad C,Tercera Federación,1
+RSC_Internacional_FC,RSC Internacional FC,Categoría Primera A,1
+Danubio_F.C.,Danubio F.C.,Liga AUF Uruguaya,1
+C.A._Rentistas,C.A. Rentistas,Segunda División,1
+Boston_River,Boston River,Liga AUF Uruguaya,1
+Deportivo_La_Coru%C3%B1a,Deportivo de La Coruña,Segunda División,1
+Osmanl%C4%B1spor,Ankaraspor,TFF 2. Lig,1
+Lleida_Esportiu,Lleida CF,Tercera Federación,1
+Uni%C3%B3n_de_Santa_Fe,Unión de Santa Fe,Primera División,1
+Clube_de_Regatas_do_Flamengo,Clube de Regatas do Flamengo,Unknown,1
+Atenas_de_San_Carlos,Atenas de San Carlos,Segunda División,1
+Albacete_Balompi%C3%A9,Albacete Balompié,Segunda División,1
+A.C._Perugia_Calcio,AC Perugia Calcio,Serie C,1
+Club_America,Club America,Unknown,1
+Deportivo_Toluca_F.C.,Deportivo Toluca F.C.,Unknown,1
+Juventud_de_Las_Piedras,Juventud de Las Piedras,Liga AUF Uruguaya,1
+Atl%C3%A9tico_San_Luis,Atlético San Luis,Liga MX,1
+Atl%C3%A9tico_Malague%C3%B1o,Atlético Malagueño,Segunda Federación,1
+Korona_Kielce,Korona Kielce,Ekstraklasa,1
+Korona_Kielce_II,Korona Kielce II,"III liga, group IV",1
+AS_Nancy,AS Nancy,Unknown,1
+FC_Girondins_de_Bordeaux_II,FC Girondins de Bordeaux II,Unknown,1
+AS_Monaco_FC_II,AS Monaco FC II,Unknown,1
+Toulouse_FC_II,Toulouse FC II,Unknown,1
+FC_Sochaux-Montb%C3%A9liard_II,FC Sochaux-Montb%C3%A9liard II,Unknown,1
+Paris_Saint-Germain_B,Paris Saint-Germain B,Unknown,1
+Olympique_Lyonnais_II,Olympique Lyonnais II,Unknown,1
+RC_Strasbourg,RC Strasbourg,Unknown,1
+Red_Star_FC,Red Star FC,Ligue 2,1
+Al_Talaba_SC,Al-Talaba SC,Iraq Stars League,1
+Eskilstuna_City_FK,Eskilstuna City FK,Division 4 Sörmland,1
+Dalkurd_FF,Dalkurd FF,Allsvenskan,1
+AFC_United,AFC Eskilstuna,Ettan Norra,1
+Elverum_Fotball,Elverum Fotball,3. divisjon,1
+Al-Markhiya_Sports_Club,Al-Markhiya Sports Club,Unknown,1
+Al-Shahania_Sports_Club,Al-Shahania Sports Club,Unknown,1
+FK_Radni%C4%8Dki_Ni%C5%A1,FK Radnički Niš,Serbian SuperLiga,1
+FC_Arda_Kardzhali,FC Arda Kardzhali,First League,1
+Levski_Sofia,Levski Sofia,Unknown,1
+Buriram_United_F.C.,Buriram United F.C.,Thai League,1
+Brommapojkarna,Brommapojkarna,Unknown,1
+Pogo%C5%84_Szczecin,Pogoń Szczecin,Ekstraklasa,1
+Al_Quwa_Al_Jawiya,Al Quwa Al Jawiya,Unknown,1
+Salahaddin_FC,Salahaddin SC,Iraqi Third Division League,1
+Eintracht_Braunschweig,Eintracht Braunschweig,2. Bundesliga,1
+AEK_Larnaca_FC,AEK Larnaca FC,First Division,1
+Al-Sinaa_SC,Al-Sinaa SC,Iraqi First Division League,1
+Zakho_FC,Zakho SC,Iraq Stars League,1
+Al-Riyadh_SC,Al-Riyadh SC,Saudi Pro League,1
+Al_Dhafra_FC,Al Dhafra FC,UAE Pro League,1
+Bromley_F.C.,Bromley F.C.,EFL League One,1
+Al-Kahrabaa_FC,Al-Kahrabaa SC,Iraq Stars League,1
+Motala_AIF,Motala AIF,Division 1 Södra,1
+Karbalaa_FC,Karbala SC,Iraqi Premier Division League,1
+Amanat_Baghdad_SC,Amanat Baghdad SC,Iraq Stars League,1
+Al-Shorta,Al-Shorta,Unknown,1
+Naft_Al-Wasat_SC,Naft Al-Wasat SC,Unknown,1
+Baghdad_FC,Baghdad FC,Unknown,1
+Husqvarna_FF,Husqvarna FF,Ettan Södra,1
+J%C3%B6nk%C3%B6pings_S%C3%B6dra_IF,Jönköpings Södra IF,Ettan,1
+KS_Cracovia,KS Cracovia,Ekstraklasa,1
+Duhok_SC,Duhok SC,Iraq Stars League,1
+Utsiktens_BK,Utsiktens BK,Ettan,1
+FK_Jerv_2,Norwegian reserve football teams,Norwegian Second Division,1
+Str%C3%B8msgodset_Toppfotball_2,Str%C3%B8msgodset Toppfotball 2,Unknown,1
+Al-Taji_SC,Al-Taji SC,Iraqi First Division League,1
+Al-Oloom_wal-Technologia_SC,Al-Oloom wal-Technologia SC,Iraqi Third Division League,1
+1._FC_Germania_Egestorf/Langreder,1. FC Germania Egestorf/Langreder,Oberliga Niedersachsen,1
+FC_Wacker_Innsbruck_(2002),FC Wacker Innsbruck (2002),Austrian Regionalliga West,1
+Diyala_SC,Diyala SC,Iraq Stars League,1
+Al-Talaba_SC,Al-Talaba SC,Unknown,1
+FC_Fredericia,FC Fredericia,Superliga,1
+Lillestr%C3%B8m_SK,Lillestrøm SK,Eliteserien,1
+IK_Start,IK Start,Eliteserien,1
+Bergen_Nord_FK,FK Bergen Nord,Norwegian Third Division,1
+SK_Brann,SK Brann,Eliteserien,1
+%C3%85sane_Fotball,Åsane Fotball,1. divisjon,1
+Rosenborg_BK_2,Rosenborg BK 2,Unknown,1
+Asker_Fotball,Asker Fotball,2. divisjon,1
+V%C3%A5lerenga_Fotball,Vålerenga Fotball,Eliteserien,1
+Bryne_FK_2,Norwegian reserve football teams,Norwegian Third Division,1
+Bryne_FK,Bryne FK,1. divisjon,1
+Molde_FK_2,Molde FK 2,Norwegian Third Division,1
+Nest-Sotra_Fotball,Nest-Sotra Fotball,Norwegian First Division,1
+Odds_BK,Odds BK,1. divisjon,1
+Bologna_FC,Bologna FC,Unknown,1
+Aalesunds_FK,Aalesunds FK,Eliteserien,1
+Namsos_IL,Namsos IL,Norwegian Third Division,1
+IL_Stj%C3%B8rdals-Blink,IL Stjørdals-Blink,2. divisjon,1
+Sandefjord_Fotball_2,Sandefjord Fotball 2,Unknown,1
+FK_%C3%98rn_Horten,FK Ørn Horten,3. divisjon,1
+FK_%C3%98rn_Horten_2,FK %C3%98rn Horten 2,Unknown,1
+Egersunds_IK,Egersunds IK,OBOS-ligaen,1
+Troyes_AC,Troyes AC,Unknown,1
+Stade_de_Mbour,Stade de Mbour,Senegal Premier League,1
+Mbour_Petite-C%C3%B4te_FC,Mbour Petite-Côte FC,Senegal Premier League,1
+H%C3%B8nefoss_BK,Hønefoss BK,2. divisjon,1
+CF_Fuenlabrada,CF Fuenlabrada,Segunda Federación,1
+G%C3%A9n%C3%A9ration_Foot,Génération Foot,Senegal Premier League,1
+FC_Metz#Youth_academy,FC Metz#Youth academy,Unknown,1
+Waasland-Beveren,Waasland-Beveren,Unknown,1
+G%C3%B6ztepe_S.K.,Göztepe S.K.,Süper Lig,1
+AS_Cherbourg_Football,AS Cherbourg Football,Régional 3,1
+Olympique_de_Marseille_II,Olympique de Marseille II,Unknown,1
+PFC_Lokomotiv_Plovdiv,PFC Lokomotiv Plovdiv,First League,1
+FC_United_Z%C3%BCrich,FC United Zürich,2. Liga Interregional,1
+FC_Echichens,FC Echichens,2. Liga Interregional,1
+FC_Echallens,FC Echallens,1. Liga Classic,1
+FC_Biel-Bienne,FC Biel-Bienne,Promotion League,1
+FC_Stade_Nyonnais,FC Stade Nyonnais,Challenge League,1
+MC_El_Eulma,MC El Eulma,Interregional League,1
+ASO_Chlef,ASO Chlef,Ligue 1,1
+Quimper_Kerfeunteun_F.C.,Quimper Kerfeunteun FC,Brittany Football League,1
+Olympic_Charleroi,Olympic Charleroi,Challenger Pro League,1
+K._Patro_Eisden_Maasmechelen,Patro Eisden Maasmechelen,Challenger Pro League,1
+Gy%C5%91ri_ETO_FC,Győri ETO FC,NB I,1
+US_Chaouia,US Chaouia,Ligue 2,1
+USM_Bel_Abb%C3%A8s,USM Bel Abbès,Inter-Régions Division,1
+DRB_Tadjenanet,DRB Tadjenanet,Algerian Ligue Professionnelle 1,1
+AS_A%C3%AFn_M%27lila,AS Aïn M'lila,Interregional League,1
+ES_S%C3%A9tif,ES Sétif,Ligue 1,1
+Racing_Santander,Racing Santander,Unknown,1
+%C3%89vreux_FC_27,Évreux FC 27,Championnat National 3,1
+Vannes_OC,Vannes OC,National 3,1
+FC_Rouen,FC Rouen,Ligue 3,1
+Frosinone_Calcio,Frosinone Calcio,Serie A,1
+Real_Murcia,Real Murcia CF,Primera Federación,1
+AC_ChievoVerona,AC ChievoVerona,Serie C,1
+FC_Barcelona_C,FC Barcelona C,3ª – Group 5,1
+Manchester_City,Manchester City,Unknown,1
+Club_Atl%C3%A9tico_Belgrano,Club Atlético Belgrano,Primera División,1
+SV_Gr%C3%B6dig,SV Grödig,Regionalliga Salzburg,1
+Floridsdorfer_AC,Floridsdorfer AC,2. Liga,1
+FC_Admira_Wacker_M%C3%B6dling_Amateure,FCM Traiskirchen,Regionalliga East,1
+FK_Austria_Wien_II,FK Austria Wien II,Unknown,1
+SC_Braga,SC Braga,Unknown,1
+Kapfenberger_SV,Kapfenberger SV,2. Liga,1
+DSV_Leoben,DSV Leoben,Landesliga Steiermark,1
+SK_Rapid_Wien_II,SK Rapid Wien II,Unknown,1
+Real_Madrid_C,Real Madrid C,Segunda Federación,1
+SC_Wiener_Neustadt,1. Wiener Neustädter SC,1. Landesliga,1
+SV_Schwechat,SV Schwechat,Wiener Stadtliga,1
+WSG_Swarovski_Tirol,WSG Tirol,Austrian Bundesliga,1
+Venezia_F.C.,Venezia F.C.,Unknown,1
+Shabab_Al-Ordon,Shabab Al-Ordon SC,Jordanian Pro League,1
+Al-Jabalain_FC,Al-Jabalain Club,Saudi First Division League,1
+Al_Ahed_FC,Al Ahed FC,Lebanese Premier League,1
+Zakho_SC,Zakho SC,Unknown,1
+That_Ras_SC,That Ras SC,Yemeni Premier League,1
+Al-Jazeera_(Amman),Al-Jazeera SC (Amman),Jordanian Pro League,1
+Al-Wehdat,Al-Wehdat,Unknown,1
+Muaither_SC,Muaither SC,Qatari Second Division,1
+Al_Ahli_SC_(Tripoli),Al Ahli SC (Tripoli),Libyan Premier League,1
+Al_Wehdat_SC,Al Wehdat SC,Unknown,1
+Shabab_Al-Ordon_Club,Shabab Al-Ordon Club,Unknown,1
+OH_Leuven,OH Leuven,Unknown,1
+Amman_FC,Amman FC,Jordanian First Division League,1
+Shabab_Al-Aqaba_Club,Shabab Al-Aqaba SC,Jordanian First Division League,1
+Ittihad_Al-Zarqa,Ittihad Al-Zarqa SC,Jordanian Pro League,1
+Al-Sheikh_Hussein_FC,Al-Sheikh Hussein SC,Jordanian Third Division League,1
+Ittihad_Al-Ramtha,Ittihad Al-Ramtha SC,Jordanian First Division League,1
+Al-Arabi_SC_(Kuwait),Al-Arabi SC (Kuwait),Kuwait Premier League,1
+Oman_Club,Oman Club,Oman Elite League,1
+Al-Salt,As-Salt,Jordanian Pro League,1
+Kedah_Darul_Aman_F.C.,Kedah Darul Aman F.C.,Malaysia A2 Amateur League,1
+Qadsia_SC,Qadsia SC,Kuwait Premier League,1
+Ratchaburi_Mitr_Phol_F.C.,Ratchaburi F.C.,Thai League 1,1
+Mesaimeer_SC,Mesaimeer SC,Qatari Second Division,1
+Swope_Park_Rangers,Sporting Kansas City II,MLS Next Pro,1
+Sporting_Kansas_City_II,Sporting Kansas City II,Unknown,1
+Sporting_Kansas_City,Sporting Kansas City,Major League Soccer,1
+Al-Qasim_SC,Al-Qasim SC,Iraqi Premier Division League,1
+FC_Corvinul_Hunedoara,FC Corvinul Hunedoara,Liga I,1
+Al-Arabi_SC_(Irbid),Al-Arabi SC (Irbid),Jordanian Pro League,1
+Al-Sareeh_SC,Al-Sareeh SC,Jordanian First Division League,1
+Mansheyat_Bani_Hasan,Mansheyat Bani Hasan SC,Jordanian Pro League,1
+Ma%27an_SC,Ma'an SC,Jordanian First Division League,1
+Emirates_Club,Emirates Club,First Division League,1
+Qatar_SC,Qatar SC,Qatar Stars League,1
+Al-Ain_FC_(Saudi_Arabia),Al-Ain FC (Saudi Arabia),Saudi Second Division League,1
+Al-Arabi_(Irbid),Al-Arabi (Irbid),Unknown,1
+Kazma_SC,Kazma SC,Kuwait Premier League,1
+Al_Shabab_Club,Al Shabab Club,Unknown,1
+Hidd_SCC,Hidd SCC,Second Division,1
+Al_Ahli_SC_(Amman),Al Ahli SC (Amman),Unknown,1
+Shabab_Al-Aqaba_SC,Shabab Al-Aqaba SC,Unknown,1
+S.S.C._Napoli,S.S.C. Napoli,Unknown,1
+Esporte_Clube_Bahia,Esporte Clube Bahia,Campeonato Brasileiro Série A,1
+Guarani_FC,Guarani FC,Campeonato Brasileiro Série C,1
+Sevilla_Atl%C3%A9tico,Sevilla Atlético,Primera Federación,1
+FC_Karpaty_Lviv,FC Karpaty Lviv,Ukrainian Premier League,1
+Chiapas_F.C.,Jaguares F.C.,Liga Premier,1
+Dorados_de_Sinaloa,Dorados de Sinaloa,Liga de Expansión MX,1
+Patriotas_Boyac%C3%A1,Patriotas Boyacá,Categoría Primera B,1
+Deportivo_Pasto,Deportivo Pasto,Categoría Primera A,1
+Bogot%C3%A1_F.C.,Bogotá F.C.,Categoría Primera B,1
+Universitario_Popay%C3%A1n,Universitario Popayán,Categoría Primera B,1
+Jacksonville_Armada_FC,Jacksonville Armada FC,MLS Next Pro,1
+Deportes_Melipilla,Deportes Melipilla,Segunda División Profesional de Chile,1
+Alianza_Petrolera_F.C.,Alianza Petrolera F.C.,Categoría Primera A,1
+Atl%C3%A9tico_Huila,Atlético Huila,Categoría Primera B,1
+Academia_F.C.,Academia F.C.,Categoría Primera B,1
+Deportivo_Pereira,Deportivo Pereira,Categoría Primera A,1
+Envigado_F%C3%BAtbol_Club,Envigado F%C3%BAtbol Club,Unknown,1
+Shenzhen_F.C.,Shenzhen F.C.,Chinese Super League,1
+Alianza_Petrolera,Alianza Petrolera,Unknown,1
+Associa%C3%A7%C3%A3o_Desportiva_S%C3%A3o_Caetano,São Caetano Futebol,Campeonato Paulista Série A4,1
+C%C3%BAcuta_Deportivo,Cúcuta Deportivo,Categoría Primera A,1
+Leones_F.C._(Colombia),Itagüí Leones F.C.,Categoría Primera B,1
+Club_Recreativo_Granada,Club Recreativo Granada,Unknown,1
+Real_Valladolid_Promesas,Real Valladolid Promesas,Segunda Federación,1
+Gimn%C3%A0stic_de_Tarragona,Gimnàstic de Tarragona,Primera Federación,1
+FK_Inter_Bratislava,FK Inter Bratislava,2. Liga,1
+Wis%C5%82a_P%C5%82ock,Wisła Płock,Ekstraklasa,1
+Legia_Warsaw,Legia Warsaw,Ekstraklasa,1
+Legia_Warsaw_II,Legia Warsaw II,II liga,1
+Widzew_%C5%81%C3%B3d%C5%BA,Widzew Łódź,Ekstraklasa,1
+Atromitos_F.C.,Atromitos F.C.,Super League Greece,1
+S.C._Freamunde,S.C. Freamunde,District Championship,1
+S.C._Ideal,S.C. Ideal,Portuguese District Championships,1
+L%C3%A4nk_FC_Vilaverdense,L%C3%A4nk FC Vilaverdense,Unknown,1
+Hebei_China_Fortune,Hebei China Fortune,Unknown,1
+Deportivo_de_La_Coru%C3%B1a,Deportivo de La Coru%C3%B1a,Unknown,1
+Sakaryaspor,Sakaryaspor,TFF 2. Lig,1
+CS_Don_Bosco,CS Don Bosco,Linafoot,1
+TP_Mazembe,TP Mazembe,Linafoot,1
+Hartlepool_United_F.C.,Hartlepool United F.C.,National League,1
+Waasland_Beveren,Waasland Beveren,Unknown,1
+C.D._Aves,C.D. Aves,Primeira Liga,1
+PAS_Lamia_1964,PAS Lamia 1964,Gamma Ethniki,1
+Levadiakos_F.C.,Levadiakos F.C.,Super League Greece,1
+Beijing_Guoan,Beijing Guoan,Unknown,1
+Neuch%C3%A2tel_Xamax_FCS,Neuchâtel Xamax FCS,Swiss Challenge League,1
+AS_Simba,AS Simba,Ilicocash Ligue 1,1
+AS_Vita_Club,AS Vita Club,Linafoot,1
+Young_Africans_S.C.,Young Africans S.C.,Tanzanian Premier League,1
+AS_B%C3%A9ziers_(2007),AS Béziers (2007),Régional 1,1
+Union_Titus_P%C3%A9tange,Union Titus Pétange,BGL Ligue,1
+Football_Bourg-en-Bresse_P%C3%A9ronnas_01,Football Bourg-en-Bresse Péronnas 01,Ligue 3,1
+Aris_Limassol_FC,Aris Limassol FC,First Division,1
+C.D._F%C3%A1tima,C.D. Fátima,Campeonato de Portugal,1
+G.D.U._Ericeirense,G.D.U. Ericeirense,Lisbon FA 2nd Division,1
+Novara_Calcio,Novara FC,Serie C,1
+FC_Mash%27al,FC Mash'al,Uzbekistan Super League,1
+FC_Kokand_1912,FC Kokand 1912,Uzbekistan Pro League,1
+FC_Navbahor,PFC Navbahor Namangan,Uzbekistan Super League,1
+FC_Energetik-BGU_Minsk,FC SKA-1938 Minsk,Belarusian First League,1
+FC_Navbahor_Namangan,FC Navbahor Namangan,Unknown,1
+FK_Buxoro,FC Bukhara,Uzbekistan Pro League,1
+FK_Samarqand-Dinamo,FC Dinamo Samarqand,Uzbekistan Super League,1
+Seongnam_FC,Seongnam FC,K League 2,1
+Navbahor_Namangan,Navbahor Namangan,Unknown,1
+FC_Ufa,FC Ufa,Russian First League,1
+FC_Ural_Yekaterinburg,FC Ural Yekaterinburg,Russian First League,1
+FC_Shurtan_Guzar,FC Shurtan,Uzbekistan Super League,1
+FC_Pakhtakor_Tashkent,FC Pakhtakor Tashkent,Unknown,1
+FC_Dinamo_Samarqand,FC Dinamo Samarqand,Unknown,1
+FK_Kokand_1912,FK Kokand 1912,Unknown,1
+Sementchi,PFC Sementchi,Uzbekistan First League,1
+FC_Buxoro,FC Buxoro,Unknown,1
+Al_Dhafra_Club,Al Dhafra Club,Unknown,1
+FC_Aktobe,FC Aktobe,Kazakhstan Premier League,1
+FC_Tobol,FC Tobol,Kazakhstan Premier League,1
+BG_Pathum_United_F.C.,BG Pathum United F.C.,Thai League 1,1
+FK_Andijon,FC Andijon,Uzbekistan Super League,1
+FC_Dynamo_Brest,FC Dynamo Brest,Belarusian Premier League,1
+FC_Olympic_Tashkent,FC Olympic Tashkent,Unknown,1
+FC_Surkhon,FC Surkhon,Uzbekistan Super League,1
+Dinamo_Samarqand,Dinamo Samarqand,Unknown,1
+TSV_1860_Munich_II,TSV 1860 Munich II,Bayernliga Süd,1
+US_Lecce,US Lecce,Serie A,1
+HNK_%C5%A0ibenik,HNK Šibenik,Croatian Football League,1
+GNK_Dinamo_Zagreb_II,GNK Dinamo Zagreb II,Unknown,1
+FC_Crotone,FC Crotone,Serie C,1
+NK_Dubrava,NK Dubrava,First League,1
+Radomiak_Radom,Radomiak Radom,Ekstraklasa,1
+FC_S%C3%BCdtirol,FC Südtirol,Serie B,1
+Bradford_City_A.F.C.,Bradford City A.F.C.,EFL League One,1
+Leyton_Orient_F.C.,Leyton Orient F.C.,EFL League One,1
+Stockport_County_F.C.,Stockport County F.C.,EFL League One,1
+Yeovil_Town_F.C.,Yeovil Town F.C.,National League,1
+Lincoln_City_F.C.,Lincoln City F.C.,EFL Championship,1
+Blackpool_F.C.,Blackpool F.C.,EFL League One,1
+Exeter_City_F.C.,Exeter City F.C.,EFL League Two,1
+Weston-super-Mare_A.F.C.,Weston-super-Mare A.F.C.,National League South,1
+Peterborough_United_F.C.,Peterborough United F.C.,EFL League One,1
+Steadfast_F.C.,Steadfast F.C.,"Division One League, Ghana",1
+Dreams_F.C._(Ghana),Dreams F.C.,Ghana Premier League,1
+FC_Urartu,FC Urartu,Armenian Premier League,1
+KF_Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB,KF Skënderbeu,Kategoria Superiore,1
+UD_Ibiza,UD Ibiza,Primera Federación,1
+Sutton_United_F.C.,Sutton United F.C.,National League,1
+Oxford_City_F.C.,Oxford City F.C.,National League North,1
+Ebbsfleet_United_F.C.,Ebbsfleet United F.C.,National League South,1
+Highworth_Town_F.C.,Highworth Town F.C.,Hellenic League,1
+Bath_City_F.C.,Bath City F.C.,Southern League,1
+Newport_County_A.F.C.,Newport County A.F.C.,EFL League Two,1
+St_Patrick%27s_Athletic_F.C.,St Patrick's Athletic F.C.,League of Ireland Premier Division,1
+Accra_City_Stars_F.C.,Accra City Stars F.C.,Poly Tank Division One League,1
+Accra_Great_Olympics_F.C.,Accra Great Olympics F.C.,Ghana Premier League,1
+Accra_Hearts_of_Oak_S.C.,Accra Hearts of Oak S.C.,Ghana Premier League,1
+Asante_Kotoko_F.C.,Asante Kotoko S.C.,Ghana Premier League,1
+Attram_De_Visser_Soccer_Academy,Attram De Visser Soccer Academy,Ghana Division Two League,1
+GIF_Sundsvall,GIF Sundsvall,Superettan,1
+Bechem_United_F.C.,Bechem United F.C.,Premier League,1
+FC_Isloch_Minsk_Raion,FC Isloch Minsk Raion,Belarusian Premier League,1
+FC_Kryvbas_Kryvyi_Rih_(2020),FC Kryvbas Kryvyi Rih,Ukrainian Premier League,1
+Uni%C3%B3n_Espa%C3%B1ola,Unión Española,Primera B,1
+Racing_Club_de_Montevideo,Racing Club de Montevideo,Liga AUF Uruguaya,1
+%C5%A0K_Slovan_Bratislava,ŠK Slovan Bratislava,Slovak First Football League,1
+SFC_Etar_Veliko_Tarnovo,SFC Etar Veliko Tarnovo,Second League,1
+Correcaminos_UAT,Correcaminos UAT,Liga de Expansión MX,1
+C%C3%B3rdoba_CF,Córdoba CF,Segunda División,1
+AD_Alcorc%C3%B3n,AD Alcorcón,Primera Federación,1
+Cultural_Leonesa,Cultural Leonesa,Unknown,1
+S.D._Atl%C3%A9tico_Nacional,S.D. Atlético Nacional,Liga Panameña de Fútbol,1
+C.S.D._Municipal,C.S.D. Municipal,Liga Bantrab,1
+FC_Khimki,FC Khimki,Russian Premier League,1
+Pittsburgh_Riverhounds_SC,Pittsburgh Riverhounds SC,USL Championship,1
+FC_Cincinnati_(2016%E2%80%932018),FC Cincinnati (2016%E2%80%932018),Unknown,1
+Las_Vegas_Lights_FC,Las Vegas Lights FC,USL Championship,1
+C%C3%A1diz_CF_B,Cádiz CF Mirandilla,Tercera Federación,1
+Recreativo_de_Huelva,Recreativo de Huelva,Segunda Federación,1
+Al_Jandal_SC,Al-Jandal SC,FD League,1
+Hapoel_Ironi_Kiryat_Shmona_F.C.,Hapoel Ironi Kiryat Shmona F.C.,Israeli Premier League,1
+Deportivo_Alav%C3%A9s_B,Deportivo Alavés B,Segunda Federación,1
+CD_Lugo,CD Lugo,Primera Federación,1
+Houston_Dynamo_FC,Houston Dynamo FC,Major League Soccer,1
+Deportivo_Fabril,Deportivo Fabril,Unknown,1
+El_Tanque_Sisley,El Tanque Sisley,Liga AUF Uruguaya,1
+Acad%C3%A9mico_de_Viseu_F.C.,Académico de Viseu F.C.,Primeira Liga,1
+C.D._%C3%81rabe_Unido,C.D. Árabe Unido,Liga Panameña de Fútbol,1
+Cafetaleros_de_Tapachula,Cafetaleros de Tapachula,Unknown,1
+Atl%C3%A9tico_Verag%C3%BCense,Atlético Veragüense,Liga Panameña de Fútbol,1
+Club_Deportivo_del_Este,Potros del Este,Liga Panameña de Fútbol,1
+C.D._Marath%C3%B3n,C.D. Marathón,Liga Nacional,1
+Atl%C3%A9tico_Venezuela_C.F.,Atlético Venezuela C.F.,Liga FUTVE,1
+Deportivo_T%C3%A1chira_F.C.,Deportivo Táchira F.C.,Liga FUTVE,1
+Academia_Puerto_Cabello,Academia Puerto Cabello,Liga FUTVE,1
+LA_Galaxy_II,Ventura County FC,MLS Next Pro,1
+LA_Galaxy,LA Galaxy,Major League Soccer,1
+Club_Deportivo_%C3%81rabe_Unido,Club Deportivo %C3%81rabe Unido,Unknown,1
+FC_Ko%C5%A1ice_(2018),FC Košice,Slovak First Football League,1
+Vila_Nova_Futebol_Clube,Vila Nova Futebol Clube,Campeonato Brasileiro Série B,1
+Al-Kawkab_FC,Al-Kawkab FC,Saudi Second Division League,1
+Club_9_de_Octubre,9 de Octubre F.C.,Serie B,1
+Cusco_FC,Cusco FC,Liga 1,1
+CDUdeC,C.D. Universidad de Concepción,Liga de Primera,1
+Everton_de_Vi%C3%B1a_del_Mar,Everton de Viña del Mar,Liga de Primera,1
+Coquimbo_Unido,Coquimbo Unido,Liga de Primera,1
+Torrellano_Illice_CF,Torrellano Illice CF,Tercera Federación,1
+Ontinyent_CF,Ontinyent CF,Segunda División,1
+Club_Universitario_de_Deportes,Club Universitario de Deportes,Liga 1,1
+Cienciano,Cienciano,Liga 1,1
+Budapest_Honv%C3%A9d_FC,Kispest Honvéd FC,NB I,1
+Potros_del_Este,Potros del Este,Unknown,1
+Zamora_CF,Zamora CF,Primera Federación,1
+A.D._San_Carlos,A.D. San Carlos,Liga Promerica,1
+Boluspor,Boluspor,TFF 1. Lig,1
+Club_Always_Ready,Club Always Ready,División Profesional,1
+Carabobo_F.C.,Carabobo F.C.,Liga FUTVE,1
+O%26M_FC,O&M FC,Liga Dominicana de Fútbol,1
+Comunicaciones_F.C.,Comunicaciones FC,Liga Bantrab,1
+FC_Okzhetpes,FC Okzhetpes,Kazakhstan Premier League,1
+FC_Carlos_Stein,FC Carlos Stein,Liga 3,1
+Al-Minaa_SC,Al-Minaa SC,Iraq Stars League,1
+Turan_Tovuz,Turan Tovuz,Azerbaijan Premier League,1

@@ -1,0 +1,462 @@
+{
+  "SuperSport_United_F.C.": {
+    "league": "South African Premiership",
+    "country": "South Africa",
+    "year": "2025"
+  },
+  "Lobos_BUAP": {
+    "league": "Liga MX",
+    "country": "Mexico",
+    "year": "2019"
+  },
+  "Mazatl%C3%A1n_F.C.": {
+    "league": "Liga MX",
+    "country": "Mexico",
+    "year": "2026"
+  },
+  "Royal_Excel_Mouscron": {
+    "league": "Belgian Pro League",
+    "country": "Belgium",
+    "year": "2022"
+  },
+  "Lierse_S.K._(1906)": {
+    "league": "Proximus League",
+    "country": "Belgium",
+    "year": "2018"
+  },
+  "NK_Inter_Zapre%C5%A1i%C4%87": {
+    "league": "Croatian Football League",
+    "country": "Croatia",
+    "year": "2022"
+  },
+  "Mpumalanga_Black_Aces_F.C.": {
+    "league": "National First Division",
+    "country": "South Africa",
+    "year": "2016"
+  },
+  "El_Jaish_SC": {
+    "league": "Qatar Stars League",
+    "country": "Qatar",
+    "year": "2017"
+  },
+  "FFA_Centre_of_Excellence": {
+    "league": "National Youth League",
+    "country": "Australia",
+    "year": "2017"
+  },
+  "VfL_Wolfsburg_II": {
+    "league": "Regionalliga Nord",
+    "country": "Germany",
+    "year": "2021"
+  },
+  "AC_Cesena": {
+    "league": "Serie A",
+    "country": "Italy",
+    "year": "2018"
+  },
+  "J.League_U-22_Selection": {
+    "league": "J3 League",
+    "country": "Japan",
+    "year": "2015"
+  },
+  "FC_Tokyo_U-23": {
+    "league": "J3 League",
+    "country": "Japan",
+    "year": "2020"
+  },
+  "IF_Sylvia": {
+    "league": "Division 2",
+    "country": "Sweden",
+    "year": "2026"
+  },
+  "KV_Oostende": {
+    "league": "Belgian Pro League",
+    "country": "Belgium",
+    "year": "2024"
+  },
+  "Saba_Qom_F.C.": {
+    "league": "Persian Gulf Pro League",
+    "country": "Iran",
+    "year": "2018"
+  },
+  "Team_Wellington": {
+    "league": "New Zealand Football Championship",
+    "country": "New Zealand",
+    "year": "2021"
+  },
+  "Tasman_United": {
+    "league": "ISPS Handa Premiership",
+    "country": "New Zealand",
+    "year": "2020"
+  },
+  "C.F._Uni%C3%A3o": {
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "year": "2021"
+  },
+  "K.S.V._Roeselare": {
+    "league": "Belgian First Division B",
+    "country": "Belgium",
+    "year": "2020"
+  },
+  "La_Equidad": {
+    "league": "Categoría Primera A",
+    "country": "Colombia",
+    "year": "2025"
+  },
+  "FK_Olympic_Tashkent": {
+    "league": "Uzbekistan Super League",
+    "country": "Uzbekistan",
+    "year": "2025"
+  },
+  "Chepo_F.C.": {
+    "league": "Liga Panameña de Fútbol",
+    "country": "Panama",
+    "year": "2016"
+  },
+  "Quer%C3%A9taro_F.C._Premier": {
+    "league": "Liga Premier",
+    "country": "Mexico",
+    "year": "2018"
+  },
+  "Tigres_UANL_Premier": {
+    "league": "Liga Premier",
+    "country": "Mexico",
+    "year": "2018"
+  },
+  "San_Luis_F.C.": {
+    "league": "Liga MX",
+    "country": "Mexico",
+    "year": "2013"
+  },
+  "Coras_de_Nayarit_F.C.": {
+    "league": "Liga Premier",
+    "country": "Mexico",
+    "year": "2024"
+  },
+  "Cafetaleros_de_Chiapas": {
+    "league": "Liga Premier",
+    "country": "Mexico",
+    "year": "2024"
+  },
+  "B-SAD": {
+    "league": "Liga Portugal 2",
+    "country": "Portugal",
+    "year": "2024"
+  },
+  "Royal_AM_F.C.": {
+    "league": "Premiership",
+    "country": "South Africa",
+    "year": "2024"
+  },
+  "Real_Kings_F.C.": {
+    "league": "Premiership",
+    "country": "South Africa",
+    "year": "2024"
+  },
+  "Bidvest_Wits_F.C.": {
+    "league": "Premiership",
+    "country": "South Africa",
+    "year": "2020"
+  },
+  "Asan_Mugunghwa": {
+    "league": "K League 2",
+    "country": "South Korea",
+    "year": "2019"
+  },
+  "K-W_United_FC": {
+    "league": "Premier Development League",
+    "country": "United States",
+    "year": "2017"
+  },
+  "Kitsap_Pumas": {
+    "league": "USL League Two",
+    "country": "United States",
+    "year": "2018"
+  },
+  "FC_Montreal": {
+    "league": "USL Championship",
+    "country": "United States",
+    "year": "2016"
+  },
+  "Ottawa_Fury_FC": {
+    "league": "NASL",
+    "country": "United States",
+    "year": "2019"
+  },
+  "CF_Montr%C3%A9al_U23": {
+    "league": "Ligue1 Québec",
+    "country": "Canada",
+    "year": "2024"
+  },
+  "Guaratinguet%C3%A1_Futebol": {
+    "league": "Campeonato Paulista Série A2",
+    "country": "Brazil",
+    "year": "2017"
+  },
+  "FC_Tsarsko_Selo_Sofia": {
+    "league": "First Professional Football League",
+    "country": "Bulgaria",
+    "year": "2022"
+  },
+  "Reno_1868_FC": {
+    "league": "USL Championship",
+    "country": "United States",
+    "year": "2020"
+  },
+  "FC_Polissya_Zhytomyr": {
+    "league": "Ukrainian Premier League",
+    "country": "Ukraine",
+    "year": "2005"
+  },
+  "AD_Ceuta_B": {
+    "league": "Segunda Federación",
+    "country": "Spain",
+    "year": "2012"
+  },
+  "Hebei_F.C.": {
+    "league": "Chinese Super League",
+    "country": "China",
+    "year": "2023"
+  },
+  "Ilkeston_F.C.": {
+    "league": "Northern Premier League",
+    "country": "England",
+    "year": "2017"
+  },
+  "K.V._Oostende": {
+    "league": "Belgian Pro League",
+    "country": "Belgium",
+    "year": "2024"
+  },
+  "FSV_Frankfurt_II": {
+    "league": "Regionalliga Südwest",
+    "country": "Germany",
+    "year": "2014"
+  },
+  "Hacettepe_S.K.": {
+    "league": "Ankara Amateur First Division",
+    "country": "Turkey",
+    "year": "2023"
+  },
+  "Bucaspor": {
+    "league": "TFF 1. Lig",
+    "country": "Turkey",
+    "year": "2020"
+  },
+  "Jersey_Express_S.C.": {
+    "league": "Premier Development League",
+    "country": "United States",
+    "year": "2018"
+  },
+  "Chicago_Fire_Premier": {
+    "league": "Premier Development League",
+    "country": "United States",
+    "year": "2016"
+  },
+  "New_York_Cosmos_(2013%E2%80%932020)": {
+    "league": "North American Soccer League (2011–2017)",
+    "country": "United States",
+    "year": "2021"
+  },
+  "Cangzhou_Mighty_Lions_F.C.": {
+    "league": "Chinese Super League",
+    "country": "China",
+    "year": "2025"
+  },
+  "Gamba_Osaka_U-23": {
+    "league": "J3 League",
+    "country": "Japan",
+    "year": "2020"
+  },
+  "Cerezo_Osaka_U-23": {
+    "league": "J3 League",
+    "country": "Japan",
+    "year": "2020"
+  },
+  "Chamois_Niortais_F.C.": {
+    "league": "Ligue 1",
+    "country": "France",
+    "year": "2025"
+  },
+  "Tianjin_Quanjian_F.C.": {
+    "league": "Chinese Super League",
+    "country": "China",
+    "year": "2019"
+  },
+  "KSC_Lokeren_Oost-Vlaanderen": {
+    "league": "Belgian Pro League",
+    "country": "Belgium",
+    "year": "2020"
+  },
+  "Sang_Ahan_Bafq_F.C.": {
+    "league": "Azadegan League",
+    "country": "Iran",
+    "year": "2014"
+  },
+  "Machine_Sazi_F.C.": {
+    "league": "League 3 (Iran)",
+    "country": "Iran",
+    "year": "2022"
+  },
+  "Padideh_Khorasan_FC": {
+    "league": "Persian Gulf Pro League",
+    "country": "Iran",
+    "year": "2022"
+  },
+  "Bargh_Shiraz": {
+    "league": "League 2 (Iran)",
+    "country": "Iran",
+    "year": "2022"
+  },
+  "Buckingham_Town_F.C.": {
+    "league": "Southern Football League",
+    "country": "England",
+    "year": "2020"
+  },
+  "Waitakere_United": {
+    "league": "ISPS Handa Premiership",
+    "country": "New Zealand",
+    "year": "2021"
+  },
+  "Canterbury_United_FC": {
+    "league": "ISPS Handa Premiership",
+    "country": "New Zealand",
+    "year": "2021"
+  },
+  "Vancouver_Whitecaps_FC_U-23": {
+    "league": "Premier Development League",
+    "country": "United States",
+    "year": "2014"
+  },
+  "Wanderers_SC": {
+    "league": "ASB Premiership",
+    "country": "New Zealand",
+    "year": "2015"
+  },
+  "WaiBOP_United": {
+    "league": "ASB Premiership",
+    "country": "New Zealand",
+    "year": "2016"
+  },
+  "YoungHeart_Manawatu": {
+    "league": "ASB Premiership",
+    "country": "New Zealand",
+    "year": "2015"
+  },
+  "Hawke%27s_Bay_United_FC": {
+    "league": "ISPS Handa Premiership",
+    "country": "New Zealand",
+    "year": "2021"
+  },
+  "Waikato_FC": {
+    "league": "ASB Premiership",
+    "country": "New Zealand",
+    "year": "2016"
+  },
+  "Alki_Oroklini": {
+    "league": "Cypriot First Division",
+    "country": "Cyprus",
+    "year": "2023"
+  },
+  "RSC_Internacional_FC": {
+    "league": "Categoría Primera A",
+    "country": "Colombia",
+    "year": "2023"
+  },
+  "Dalkurd_FF": {
+    "league": "Allsvenskan",
+    "country": "Sweden",
+    "year": "2025"
+  },
+  "DRB_Tadjenanet": {
+    "league": "Algerian Ligue Professionnelle 1",
+    "country": "Algeria",
+    "year": "2021"
+  },
+  "AC_ChievoVerona": {
+    "league": "Serie C",
+    "country": "Italy",
+    "year": "2021"
+  },
+  "FC_Barcelona_C": {
+    "league": "3ª – Group 5",
+    "country": "Spain",
+    "year": "2007"
+  },
+  "Universitario_Popay%C3%A1n": {
+    "league": "Categoría Primera B",
+    "country": "Colombia",
+    "year": "2019"
+  },
+  "Alianza_Petrolera_F.C.": {
+    "league": "Categoría Primera A",
+    "country": "Colombia",
+    "year": "2024"
+  },
+  "Academia_F.C.": {
+    "league": "Categoría Primera B",
+    "country": "Colombia",
+    "year": "2012"
+  },
+  "Shenzhen_F.C.": {
+    "league": "Chinese Super League",
+    "country": "China",
+    "year": "2024"
+  },
+  "Alianza_Petrolera": {
+    "league": "Categoría Primera A",
+    "country": "Colombia",
+    "year": "2024"
+  },
+  "Hebei_China_Fortune": {
+    "league": "Chinese Super League",
+    "country": "China",
+    "year": "2023"
+  },
+  "C.D._Aves": {
+    "league": "Primeira Liga",
+    "country": "Portugal",
+    "year": "2020"
+  },
+  "FC_Olympic_Tashkent": {
+    "league": "Uzbekistan Super League",
+    "country": "Uzbekistan",
+    "year": "2025"
+  },
+  "HNK_%C5%A0ibenik": {
+    "league": "Croatian Football League",
+    "country": "Croatia",
+    "year": "2026"
+  },
+  "S.D._Atl%C3%A9tico_Nacional": {
+    "league": "Liga Panameña de Fútbol",
+    "country": "Panama",
+    "year": "2001"
+  },
+  "FC_Khimki": {
+    "league": "Russian Premier League",
+    "country": "Russia",
+    "year": "2025"
+  },
+  "Cafetaleros_de_Tapachula": {
+    "league": "Liga Premier",
+    "country": "Mexico",
+    "year": "2024"
+  },
+  "Atl%C3%A9tico_Venezuela_C.F.": {
+    "league": "Liga FUTVE",
+    "country": "Venezuela",
+    "year": "2022"
+  },
+  "Torrellano_Illice_CF": {
+    "league": "Tercera Federación",
+    "country": "Spain",
+    "year": "2011"
+  },
+  "Ontinyent_CF": {
+    "league": "Segunda División",
+    "country": "Spain",
+    "year": "2019"
+  }
+}

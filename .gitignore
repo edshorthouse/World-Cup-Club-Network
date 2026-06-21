@@ -1,0 +1,12 @@
+# Raw Wikipedia HTML cache — large and regenerable by the scrapers
+cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor / local tooling
+.claude/
+
+# Debug output
+everton_hits.csv

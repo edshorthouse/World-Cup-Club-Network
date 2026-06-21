@@ -1,0 +1,2340 @@
+{
+"Premier_League": {
+"level": 1,
+"raw": "[[English football league system|1]]",
+"via": "levels",
+"final_title": "Premier League",
+"status": "ok"
+},
+"Bundesliga": {
+"level": 1,
+"raw": "[[German football league system|1]]",
+"via": "level",
+"final_title": "Bundesliga",
+"status": "ok"
+},
+"Eredivisie": {
+"level": 1,
+"raw": "[[Dutch football league system#Men|1]]",
+"via": "levels",
+"final_title": "Eredivisie",
+"status": "ok"
+},
+"Primeira_Liga": {
+"level": 1,
+"raw": "[[Portuguese football league system|1]]",
+"via": "levels",
+"final_title": "Primeira Liga",
+"status": "ok"
+},
+"La_Liga": {
+"level": 1,
+"raw": "[[Spanish football league system|1st]]",
+"via": "levels",
+"final_title": "La Liga",
+"status": "ok"
+},
+"Serie_A": {
+"level": 1,
+"raw": "[[Italian football league system|1]]",
+"via": "levels",
+"final_title": "Serie A",
+"status": "ok"
+},
+"Ligue_1": {
+"level": 1,
+"raw": "[[French football league system|1]]",
+"via": "level",
+"final_title": "Ligue 1",
+"status": "ok"
+},
+"Belgian_Pro_League": {
+"level": 1,
+"raw": "[[Belgian football league system|1]]",
+"via": "level",
+"final_title": "Belgian Pro League",
+"status": "ok"
+},
+"EFL_Championship": {
+"level": 2,
+"raw": "[[English football league system|2]]",
+"via": "levels",
+"final_title": "EFL Championship",
+"status": "ok"
+},
+"Süper_Lig": {
+"level": 1,
+"raw": "[[Turkish football league system|1]]",
+"via": "levels",
+"final_title": "Süper Lig",
+"status": "ok"
+},
+"Austrian_Football_Bundesliga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Austrian Football Bundesliga",
+"status": "ok"
+},
+"2._Bundesliga": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "2. Bundesliga",
+"status": "ok"
+},
+"Saudi_Pro_League": {
+"level": 1,
+"raw": "[[Saudi football league system|1]]",
+"via": "levels",
+"final_title": "Saudi Pro League",
+"status": "ok"
+},
+"Scottish_Premiership": {
+"level": 1,
+"raw": "[[Scottish football league system|1]]",
+"via": "levels",
+"final_title": "Scottish Premiership",
+"status": "ok"
+},
+"Czech_First_League": {
+"level": 1,
+"raw": "1",
+"via": "level",
+"final_title": "Czech First League",
+"status": "ok"
+},
+"Eerste_Divisie": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Eerste Divisie",
+"status": "ok"
+},
+"Croatian_Football_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Croatian Football League",
+"status": "ok"
+},
+"2._Liga_(Austria)": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "2. Liga (Austria)",
+"status": "ok"
+},
+"Swiss_Super_League": {
+"level": 1,
+"raw": "[[Swiss football league system|1]]",
+"via": "levels",
+"final_title": "Swiss Super League",
+"status": "ok"
+},
+"Ligue_2": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Ligue 2",
+"status": "ok"
+},
+"EFL_League_One": {
+"level": 3,
+"raw": "[[English football league system|3]]",
+"via": "levels",
+"final_title": "EFL League One",
+"status": "ok"
+},
+"Liga_Portugal_2": {
+"level": 2,
+"raw": "[[Portuguese football league system|2]]",
+"via": "levels",
+"final_title": "Liga Portugal 2",
+"status": "ok"
+},
+"Persian_Gulf_Pro_League": {
+"level": 1,
+"raw": "[[Iranian football league system|1]]",
+"via": "levels",
+"final_title": "Persian Gulf Pro League",
+"status": "ok"
+},
+"Jordanian_Pro_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Jordanian Pro League",
+"status": "ok"
+},
+"Primera_Federación": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Primera Federación",
+"status": "ok"
+},
+"Regionalliga_Bayern": {
+"level": 4,
+"raw": "[[German football league system|4]]",
+"via": "level",
+"final_title": "Regionalliga Bayern",
+"status": "ok"
+},
+"Egyptian_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Egyptian Premier League",
+"status": "ok"
+},
+"A-League_Men": {
+"level": 1,
+"raw": "[[Australian soccer league system|1]]",
+"via": "levels",
+"final_title": "A-League Men",
+"status": "ok"
+},
+"Segunda_División": {
+"level": 2,
+"raw": "[[Spanish football league system|2]]",
+"via": "levels",
+"final_title": "Segunda División",
+"status": "ok"
+},
+"Super_League_Greece": {
+"level": 1,
+"raw": "[[Greek football league system|1]]",
+"via": "levels",
+"final_title": "Super League Greece",
+"status": "ok"
+},
+"Qatar_Stars_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Qatar Stars League",
+"status": "ok"
+},
+"Danish_Superliga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Danish Superliga",
+"status": "ok"
+},
+"Liga_MX": {
+"level": 1,
+"raw": "[[Mexican football league system|1]]",
+"via": "levels",
+"final_title": "Liga MX",
+"status": "ok"
+},
+"Major_League_Soccer": {
+"level": 1,
+"raw": "[[United States soccer league system|1]]",
+"via": "levels",
+"final_title": "Major League Soccer",
+"status": "ok"
+},
+"Campeonato_Brasileiro_Série_A": {
+"level": 1,
+"raw": "[[Brazilian football league system|1]]",
+"via": "levels",
+"final_title": "Campeonato Brasileiro Série A",
+"status": "ok"
+},
+"Central_League_(New_Zealand)": {
+"level": 2,
+"raw": "[[New Zealand football league system|2]]",
+"via": "levels",
+"final_title": "Central League (New Zealand)",
+"status": "ok"
+},
+"AFA_Liga_Profesional_de_Fútbol": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "AFA Liga Profesional de Fútbol",
+"status": "ok"
+},
+"Iraq_Stars_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Iraq Stars League",
+"status": "ok"
+},
+"South_African_Premiership": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "South African Premiership",
+"status": "ok"
+},
+"Ecuadorian_Serie_A": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "LigaPro Serie A",
+"status": "ok"
+},
+"K_League_1": {
+"level": 1,
+"raw": "[[South Korean football league system|1]]",
+"via": "levels",
+"final_title": "K League 1",
+"status": "ok"
+},
+"Regionalliga_West": {
+"level": 4,
+"raw": "[[German football league system|Level 4]]",
+"via": "level",
+"final_title": "Regionalliga West",
+"status": "ok"
+},
+"Championnat_National_3": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Championnat National 2",
+"status": "ok"
+},
+"Uzbekistan_Super_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Uzbekistan Super League",
+"status": "ok"
+},
+"Segunda_Federación": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Segunda Federación",
+"status": "ok"
+},
+"3._Liga": {
+"level": 3,
+"raw": "3",
+"via": "level",
+"final_title": "3. Liga",
+"status": "ok"
+},
+"Argentine_Primera_División": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "AFA Liga Profesional de Fútbol",
+"status": "ok"
+},
+"Liga_AUF_Uruguaya": {
+"level": 1,
+"raw": "[[Officials championships of football of Uruguay|1]]",
+"via": "levels",
+"final_title": "Liga AUF Uruguaya",
+"status": "ok"
+},
+"Serbian_SuperLiga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Serbian SuperLiga",
+"status": "ok"
+},
+"APF_División_de_Honor": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "APF División de Honor",
+"status": "ok"
+},
+"Allsvenskan": {
+"level": 1,
+"raw": "[[Swedish football league system|1]]",
+"via": "levels",
+"final_title": "Allsvenskan",
+"status": "ok"
+},
+"Categoría_Primera_A": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga DIMAYOR",
+"status": "ok"
+},
+"Russian_Premier_League": {
+"level": 1,
+"raw": "[[Football in Russia#League system|1]]",
+"via": "levels",
+"final_title": "Russian Premier League",
+"status": "ok"
+},
+"Eliteserien": {
+"level": 1,
+"raw": "1",
+"via": "level",
+"final_title": "Eliteserien",
+"status": "ok"
+},
+"MLS_Next_Pro": {
+"level": 3,
+"raw": "[[United States soccer league system|3]]",
+"via": "levels",
+"final_title": "MLS Next Pro",
+"status": "ok"
+},
+"Challenger_Pro_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Challenger Pro League",
+"status": "ok"
+},
+"TFF_2._Lig": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "TFF 2. Lig",
+"status": "ok"
+},
+"Northern_League_(New_Zealand)": {
+"level": 2,
+"raw": "[[New Zealand football league system|2]]",
+"via": "levels",
+"final_title": "Northern League (New Zealand)",
+"status": "ok"
+},
+"Uruguayan_Segunda_División": {
+"level": 2,
+"raw": "[[Uruguayan football league system|2]]",
+"via": "levels",
+"final_title": "Uruguayan Segunda División",
+"status": "ok"
+},
+"Liga_Panameña_de_Fútbol": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga LPF",
+"status": "ok"
+},
+"Serie_B": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Serie B",
+"status": "ok"
+},
+"Serie_C": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Serie C",
+"status": "ok"
+},
+"TFF_1._Lig": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "TFF 1. Lig",
+"status": "ok"
+},
+"J1_League": {
+"level": 1,
+"raw": "[[Japanese association football league system#Overview|1]]",
+"via": "levels",
+"final_title": "J1 League",
+"status": "ok"
+},
+"Porto_Football_Association": {
+"level": 4,
+"raw": "[[Portuguese football league system|4, 5, 6, 7]]",
+"via": "levels",
+"final_title": "Porto Football Association",
+"status": "ok"
+},
+"Israeli_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Israeli Premier League",
+"status": "ok"
+},
+"Championnat_National_1": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Championnat National 1",
+"status": "ok"
+},
+"Ligue_3": {
+"level": 3,
+"raw": "3",
+"via": "level",
+"final_title": "Ligue 3",
+"status": "ok"
+},
+"Tunisian_Ligue_Professionnelle_1": {
+"level": 1,
+"raw": "[[Football in Tunisia#Men's structure|1]]",
+"via": "levels",
+"final_title": "Tunisian Ligue Professionnelle 1",
+"status": "ok"
+},
+"Algerian_League_2": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Algerian League 2",
+"status": "ok"
+},
+"Malaysia_Super_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Malaysia Super League",
+"status": "ok"
+},
+"Liga_3_(Portugal)": {
+"level": 3,
+"raw": "[[Portuguese football league system|3]]",
+"via": "levels",
+"final_title": "Liga 3 (Portugal)",
+"status": "ok"
+},
+"Liga_de_Expansión_MX": {
+"level": 2,
+"raw": "[[Mexican football league system|2]]",
+"via": "levels",
+"final_title": "Liga de Expansión MX",
+"status": "ok"
+},
+"Cypriot_First_Division": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Cypriot First Division",
+"status": "ok"
+},
+"Premier_League_of_Bosnia_and_Herzegovina": {
+"level": 1,
+"raw": "[[Bosnia and Herzegovina football league system|1]]",
+"via": "levels",
+"final_title": "Premier League of Bosnia and Herzegovina",
+"status": "ok"
+},
+"Croatian_Second_Football_League": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Second Football League (Croatia)",
+"status": "ok"
+},
+"Regionalliga_Südwest": {
+"level": 4,
+"raw": "[[German football league system|Level 4]]",
+"via": "level",
+"final_title": "Regionalliga Südwest",
+"status": "ok"
+},
+"EFL_League_Two": {
+"level": 4,
+"raw": "[[English football league system|4]]",
+"via": "levels",
+"final_title": "EFL League Two",
+"status": "ok"
+},
+"Botola_Pro": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Botola Pro",
+"status": "ok"
+},
+"Scottish_Championship": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "Scottish Championship",
+"status": "ok"
+},
+"Scottish_League_One": {
+"level": 3,
+"raw": "3",
+"via": "level",
+"final_title": "Scottish League One",
+"status": "ok"
+},
+"UAE_Pro_League": {
+"level": 1,
+"raw": "1|domest_cup=[[UAE President's Cup]]<br />[[UAE Super Cup]]<br/> [[UAE FA Cup]]|league_cup=[[UAE League Cup]]|confed_cup=[[AFC Champions League Elite]]<br/>[[AFC Champions League Two]]|champions=[[Al Ain FC|Al Ain]] (15th title)|season=[[2025–26 UAE Pro League|2025–26]]|most successful club=[[Al Ain FC|Al Ain]] (15 titles)|tv=[[Abu Dhabi Sports]]<br />[[Dubai Sports]]<br />Sharjah Sports<br />",
+"via": "levels",
+"final_title": "UAE Pro League",
+"status": "ok"
+},
+"Ligue_1_(Ivory_Coast)": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Ligue 1 (Ivory Coast)",
+"status": "ok"
+},
+"Championnat_National_2": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Championnat National 2",
+"status": "ok"
+},
+"Superettan": {
+"level": 2,
+"raw": "[[Swedish football league system|2]]",
+"via": "levels",
+"final_title": "Superettan",
+"status": "ok"
+},
+"Bahraini_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Bahraini Premier League",
+"status": "ok"
+},
+"Senegal_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Ligue 1 (Senegal)",
+"status": "ok"
+},
+"Czech_National_Football_League": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "Czech National Football League",
+"status": "ok"
+},
+"Bohemian_Football_League": {
+"level": 3,
+"raw": "3",
+"via": "level",
+"final_title": "Bohemian Football League",
+"status": "ok"
+},
+"Régional_1": {
+"level": 2,
+"raw": "<!--1 (1919–1927, 1929–1932)<br>2 (1927–1929)<br>-->3 (1933–1948)<br>4 (1948–1978)<br>5 (1978–1993)<br>6 (1993–present)",
+"via": "levels",
+"final_title": "Régional 1",
+"status": "ok"
+},
+"Tercera_Federación": {
+"level": 5,
+"raw": "[[Spanish football league system|5]]",
+"via": "levels",
+"final_title": "Tercera Federación",
+"status": "ok"
+},
+"J2_League": {
+"level": 2,
+"raw": "[[Japanese association football league system#Overview|2]]",
+"via": "levels",
+"final_title": "J2 League",
+"status": "ok"
+},
+"K_League_2": {
+"level": 2,
+"raw": "[[South Korean football league system|2]]",
+"via": "levels",
+"final_title": "K League 2",
+"status": "ok"
+},
+"Ontario_Premier_League": {
+"level": 3,
+"raw": "[[Canadian soccer league system|3]]",
+"via": "levels",
+"final_title": "Ontario Premier League",
+"status": "ok"
+},
+"USL_Championship": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "USL Championship",
+"status": "ok"
+},
+"Victoria_Premier_League_1": {
+"level": 4,
+"raw": "[[Australian soccer league system|4 and 5]] (notionally)",
+"via": "levels",
+"final_title": "Victorian Premier League",
+"status": "ok"
+},
+"Regionalliga_Nordost": {
+"level": 4,
+"raw": "[[German football league system|Level 4]]",
+"via": "level",
+"final_title": "Regionalliga Nordost",
+"status": "ok"
+},
+"Turkish_Regional_Amateur_League": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Turkish Regional Amateur League",
+"status": "ok"
+},
+"Primera_Nacional": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Primera Nacional",
+"status": "ok"
+},
+"Ecuadorian_Serie_B": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Ecuadorian Serie B",
+"status": "ok"
+},
+"Regionalliga_Nord": {
+"level": 4,
+"raw": "[[German football league system|Level 4]]",
+"via": "level",
+"final_title": "Regionalliga Nord",
+"status": "ok"
+},
+"1._divisjon": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "Norwegian First Division",
+"status": "ok"
+},
+"Proximus_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Belgian Second Division",
+"status": "ok"
+},
+"Campeonato_de_Portugal_(league)": {
+"level": 3,
+"raw": "[[Portuguese football league system|3]] (2013–2021)<br />[[Portuguese football league system|4]] (2021–present)",
+"via": "levels",
+"final_title": "Campeonato de Portugal (league)",
+"status": "ok"
+},
+"Azadegan_League": {
+"level": 2,
+"raw": "[[Iranian football league system|2]]",
+"via": "levels",
+"final_title": "Azadegan League",
+"status": "ok"
+},
+"New_Zealand_Football_Championship": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "New Zealand Football Championship",
+"status": "ok"
+},
+"Danish_2nd_Division": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Danish 2nd Division",
+"status": "ok"
+},
+"Central_League_2_(New_Zealand)": {
+"level": 3,
+"raw": "[[New Zealand football league system|3]]",
+"via": "levels",
+"final_title": "Central League 2 (New Zealand)",
+"status": "ok"
+},
+"Slovak_First_Football_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Slovak First Football League",
+"status": "ok"
+},
+"Saudi_First_Division_League": {
+"level": 2,
+"raw": "[[Saudi football league system|2]]",
+"via": "levels",
+"final_title": "Saudi First Division League",
+"status": "ok"
+},
+"Iraqi_Premier_Division_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Iraqi Premier Division League",
+"status": "ok"
+},
+"Algerian_Ligue_Professionnelle_1": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Algerian Ligue Professionnelle 1",
+"status": "ok"
+},
+"Jordanian_First_Division_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Jordanian First Division League",
+"status": "ok"
+},
+"Liga_FUTVE": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga FUTVE",
+"status": "ok"
+},
+"Czech_Fourth_Division": {
+"level": 4,
+"raw": "4",
+"via": "level",
+"final_title": "Czech Fourth Division",
+"status": "ok"
+},
+"Northern_Premier_League": {
+"level": 7,
+"raw": "[[English football league system|Levels 7–8]]",
+"via": "levels",
+"final_title": "Northern Premier League",
+"status": "ok"
+},
+"Liga_Premier_de_México": {
+"level": 3,
+"raw": "[[Mexican football league system|3]]",
+"via": "levels",
+"final_title": "Liga Premier de México",
+"status": "ok"
+},
+"National_First_Division": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "National First Division",
+"status": "ok"
+},
+"Chinese_Super_League": {
+"level": 1,
+"raw": "[[Chinese football league system|1]]",
+"via": "levels",
+"final_title": "Chinese Super League",
+"status": "ok"
+},
+"Ettan_(football)": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Ettan Fotboll",
+"status": "ok"
+},
+"Ettan_Fotboll": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Ettan Fotboll",
+"status": "ok"
+},
+"Moldovan_Liga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Moldovan Liga",
+"status": "ok"
+},
+"Swiss_Challenge_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Swiss Challenge League",
+"status": "ok"
+},
+"USL_League_One": {
+"level": 3,
+"raw": "[[United States soccer league system#Men's league structure|3]]",
+"via": "levels",
+"final_title": "USL League One",
+"status": "ok"
+},
+"MLS_Next": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "MLS Next",
+"status": "no-level"
+},
+"Ligue1_Québec": {
+"level": 3,
+"raw": "[[Canadian soccer league system|3]]",
+"via": "levels",
+"final_title": "LS Pro",
+"status": "ok"
+},
+"Austrian_Regionalliga_Central": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Austrian Regionalliga Central",
+"status": "ok"
+},
+"Qatari_Second_Division": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Qatar Stars League 2",
+"status": "ok"
+},
+"Campeonato_Paulista_Série_A3": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Campeonato Paulista Série A3",
+"status": "ok"
+},
+"Campeonato_Brasileiro_Série_B": {
+"level": 2,
+"raw": "[[Brazilian football league system|2]]",
+"via": "levels",
+"final_title": "Campeonato Brasileiro Série B",
+"status": "ok"
+},
+"First_Professional_Football_League_(Bulgaria)": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "First Professional Football League (Bulgaria)",
+"status": "ok"
+},
+"Ligue_Haïtienne": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Ligue Haïtienne",
+"status": "ok"
+},
+"Régional_3": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "French football league system",
+"status": "no-level"
+},
+"Danish_1st_Division": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Danish 1st Division",
+"status": "ok"
+},
+"Serbian_First_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Serbian First League",
+"status": "ok"
+},
+"National_Youth_League_(Australia)": {
+"level": 2,
+"raw": "| conferences = 2",
+"via": "level",
+"final_title": "A-League Youth",
+"status": "ok"
+},
+"National_Premier_Leagues_South_Australia": {
+"level": 3,
+"raw": "[[Australian football league system|3]]",
+"via": "levels",
+"final_title": "National Premier Leagues South Australia",
+"status": "ok"
+},
+"Gamma_Ethniki": {
+"level": 3,
+"raw": "{{Unbulleted list|[[Greek football league system|3]] (1965–1967, 1977–2019 & 2021–present)|[[Greek football league system|4]] (2019–2021)}}",
+"via": "levels",
+"final_title": "Gamma Ethniki",
+"status": "ok"
+},
+"National_Premier_Leagues_NSW_2": {
+"level": 4,
+"raw": "[[Australian soccer league system|4 and 5]] (notionally)",
+"via": "levels",
+"final_title": "Football NSW League",
+"status": "ok"
+},
+"National_League_(division)": {
+"level": 5,
+"raw": "5<br />Step 1 ([[National League System]])",
+"via": "levels",
+"final_title": "National League (division)",
+"status": "ok"
+},
+"Paraguayan_División_Intermedia": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "APF División Intermedia",
+"status": "ok"
+},
+"Paraguayan_Primera_División": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "APF División de Honor",
+"status": "ok"
+},
+"Super_League_(Indonesia)": {
+"level": 1,
+"raw": "[[Indonesian football league system|1]]",
+"via": "levels",
+"final_title": "Super League (Indonesia)",
+"status": "ok"
+},
+"Slovenian_PrvaLiga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Slovenian PrvaLiga",
+"status": "ok"
+},
+"J3_League": {
+"level": 3,
+"raw": "[[Japanese association football league system#Overview|3]]",
+"via": "levels",
+"final_title": "J3 League",
+"status": "ok"
+},
+"Division_2_(Swedish_football)": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Division 2 (Swedish football)",
+"status": "ok"
+},
+"Division_3_(Swedish_football)": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Division 3 (Swedish football)",
+"status": "ok"
+},
+"Tehran_Province_league": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Tehran Province League",
+"status": "ok"
+},
+"League_2_(Iran)": {
+"level": 3,
+"raw": "3 (2001–)<br />2 (1972–2001)",
+"via": "levels",
+"final_title": "League 2 (Iran)",
+"status": "ok"
+},
+"National_League_North": {
+"level": 6,
+"raw": "6<br>Step 2 ([[National League System]])",
+"via": "levels",
+"final_title": "National League North",
+"status": "ok"
+},
+"São_Vicente_Island_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "São Vicente Premier Division",
+"status": "no-level"
+},
+"Santiago_Island_League_(South)": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Santiago South Premier Division",
+"status": "no-level"
+},
+"Madeira_Football_Association": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Madeira Football Association",
+"status": "no-level"
+},
+"Belgian_First_Division_B": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Challenger Pro League",
+"status": "ok"
+},
+"Saudi_Second_Division": {
+"level": 3,
+"raw": "[[Saudi football league system|3]]",
+"via": "levels",
+"final_title": "Saudi Second Division League",
+"status": "ok"
+},
+"Promotion_League": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Promotion League",
+"status": "ok"
+},
+"Thai_League_1": {
+"level": 1,
+"raw": "[[Thai football league system|1]]",
+"via": "levels",
+"final_title": "Thai League 1",
+"status": "ok"
+},
+"Norwegian_First_Division": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "Norwegian First Division",
+"status": "ok"
+},
+"Belgian_Division_1": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Belgian Division 1",
+"status": "ok"
+},
+"Algerian_Ligue_2": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Algerian League 2",
+"status": "ok"
+},
+"Jordanian_Third_Division_League": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Jordanian Third Division League",
+"status": "ok"
+},
+"Categoría_Primera_B": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Categoría Primera B",
+"status": "ok"
+},
+"Super_League_Greece_2": {
+"level": 2,
+"raw": "[[Greek football league system|2]]",
+"via": "levels",
+"final_title": "Super League Greece 2",
+"status": "ok"
+},
+"UAE_Division_One": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "UAE First Division League",
+"status": "ok"
+},
+"Uzbekistan_Pro_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Uzbekistan Pro League",
+"status": "ok"
+},
+"Croatian_football_league_system": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Croatian football league system",
+"status": "no-level"
+},
+"First_County_Football_League_(Croatia)": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "First County Football League (Croatia)",
+"status": "ok"
+},
+"Ghana_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Ghana Premier League",
+"status": "ok"
+},
+"Liga_FPD": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga FPD",
+"status": "ok"
+},
+"Peruvian_Primera_División": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga 1 (Peru)",
+"status": "ok"
+},
+"Liga_de_Primera": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga de Primera",
+"status": "ok"
+},
+"2._Liga_(Slovakia)": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "2. Liga (Slovakia)",
+"status": "ok"
+},
+"Moravian-Silesian_Football_League": {
+"level": 3,
+"raw": "3",
+"via": "level",
+"final_title": "Moravian-Silesian Football League",
+"status": "ok"
+},
+"SAFA_Second_Division": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "SAFA Second Division",
+"status": "ok"
+},
+"ABC_Motsepe_League": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "SAFA Second Division",
+"status": "ok"
+},
+"K3_League": {
+"level": 3,
+"raw": "[[South Korean football league system|3]]",
+"via": "levels",
+"final_title": "K3 League",
+"status": "ok"
+},
+"First_League_of_the_Federation_of_Bosnia_and_Herzegovina": {
+"level": 2,
+"raw": "[[Bosnia and Herzegovina football league system|2]]",
+"via": "levels",
+"final_title": "First League of the Federation of Bosnia and Herzegovina",
+"status": "ok"
+},
+"League_of_Hercegovina-Neretva_Canton": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "League of Hercegovina-Neretva Canton",
+"status": "no-level"
+},
+"Ukrainian_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Ukrainian Premier League",
+"status": "ok"
+},
+"Ekstraklasa": {
+"level": 1,
+"raw": "[[Polish football league system|1]]",
+"via": "levels",
+"final_title": "Ekstraklasa",
+"status": "ok"
+},
+"III_liga": {
+"level": 4,
+"raw": "[[Polish football league system|4]]",
+"via": "levels",
+"final_title": "III liga",
+"status": "ok"
+},
+"Kazakhstan_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Kazakhstan Premier League",
+"status": "ok"
+},
+"Third_Football_League_(Croatia)": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Third Football League (Croatia)",
+"status": "ok"
+},
+"Nemzeti_Bajnokság_I": {
+"level": 1,
+"raw": "[[Hungarian football league system|1]]",
+"via": "levels",
+"final_title": "Nemzeti Bajnokság I",
+"status": "ok"
+},
+"Second_League_of_the_Federation_of_Bosnia_and_Herzegovina": {
+"level": 3,
+"raw": "[[Bosnia and Herzegovina football league system|3]]",
+"via": "levels",
+"final_title": "Second League of the Federation of Bosnia and Herzegovina",
+"status": "ok"
+},
+"Liga_I": {
+"level": 1,
+"raw": "[[Romanian football league system|1]]",
+"via": "levels",
+"final_title": "Liga I",
+"status": "ok"
+},
+"Premier_Development_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "USL League Two",
+"status": "no-level"
+},
+"USL_League_Two": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "USL League Two",
+"status": "no-level"
+},
+"British_Columbia_Premier_League": {
+"level": 3,
+"raw": "[[Canadian soccer league system|3]]",
+"via": "levels",
+"final_title": "British Columbia Premier League",
+"status": "ok"
+},
+"Alberta_Premier_League": {
+"level": 3,
+"raw": "[[Canadian soccer league system|3]]",
+"via": "levels",
+"final_title": "Alberta Premier League",
+"status": "ok"
+},
+"Canadian_Premier_League": {
+"level": 1,
+"raw": "[[Canadian soccer league system|1]]",
+"via": "levels",
+"final_title": "Canadian Premier League",
+"status": "ok"
+},
+"Eastern_Premier_Soccer_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "American Premier Soccer League",
+"status": "no-level"
+},
+"Oberliga_Schleswig-Holstein": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Oberliga Schleswig-Holstein",
+"status": "ok"
+},
+"North_American_Soccer_League_(2011–2017)": {
+"level": 2,
+"raw": "[[United States soccer league system|2]]",
+"via": "levels",
+"final_title": "North American Soccer League (2011–2017)",
+"status": "ok"
+},
+"Canadian_Soccer_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Canadian Soccer League",
+"status": "no-level"
+},
+"Second_Football_League_(Croatia)": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Second Football League (Croatia)",
+"status": "ok"
+},
+"Maltese_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Maltese Premier League",
+"status": "ok"
+},
+"Maltese_Challenge_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Maltese Challenge League",
+"status": "ok"
+},
+"Esiliiga": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Esiliiga",
+"status": "ok"
+},
+"Meistriliiga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Meistriliiga",
+"status": "ok"
+},
+"Beja_Football_Association": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Beja Football Association",
+"status": "no-level"
+},
+"Qatari_Stars_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Qatar Stars League",
+"status": "ok"
+},
+"Regional_Preferente_de_La_Rioja": {
+"level": 6,
+"raw": "6",
+"via": "levels",
+"final_title": "Divisiones Regionales de Fútbol in La Rioja",
+"status": "ok"
+},
+"1._Liga_Classic": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "1. Liga Classic",
+"status": "ok"
+},
+"Campeonato_Paulista_Segunda_Divisão": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Campeonato Paulista Segunda Divisão",
+"status": "ok"
+},
+"Campeonato_Paulista_Série_A2": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Campeonato Paulista Série A2",
+"status": "ok"
+},
+"Campeonato_Brasileiro_Série_D": {
+"level": 4,
+"raw": "[[Brazilian football league system|4]]",
+"via": "levels",
+"final_title": "Campeonato Brasileiro Série D",
+"status": "ok"
+},
+"Campeonato_Brasileiro_Série_C": {
+"level": 3,
+"raw": "[[Brazilian football league system|3]]",
+"via": "levels",
+"final_title": "Campeonato Brasileiro Série C",
+"status": "ok"
+},
+"Portuguese_Second_Division": {
+"level": 2,
+"raw": "[[Portuguese football league system|2]] (1934–1990)<br />[[Portuguese football league system|3]] (1990–2013)",
+"via": "levels",
+"final_title": "Segunda Divisão",
+"status": "ok"
+},
+"Second_Professional_Football_League_(Bulgaria)": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Second Professional Football League (Bulgaria)",
+"status": "ok"
+},
+"United_Premier_Soccer_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "United Premier Soccer League",
+"status": "no-level"
+},
+"Segunda_División_Profesional_de_Chile": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Segunda División Profesional de Chile",
+"status": "ok"
+},
+"Primera_B_de_Chile": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Campeonato Nacional Primera B",
+"status": "ok"
+},
+"Indian_Super_League": {
+"level": 1,
+"raw": "[[Indian football league system#Men's|1]]",
+"via": "levels",
+"final_title": "Indian Super League",
+"status": "ok"
+},
+"Oberliga_Rheinland-Pfalz/Saar": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Oberliga Rheinland-Pfalz/Saar",
+"status": "ok"
+},
+"Cypriot_Second_Division": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Cypriot Second Division",
+"status": "ok"
+},
+"Latvian_Higher_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Latvian Higher League",
+"status": "ok"
+},
+"II_liiga": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "II liiga",
+"status": "ok"
+},
+"Erovnuli_Liga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Erovnuli Liga",
+"status": "ok"
+},
+"Amateur_National": {
+"level": 3,
+"raw": "3–5",
+"via": "levels",
+"final_title": "Amateur National",
+"status": "ok"
+},
+"French_football_league_system#Regional_leagues": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "French football league system",
+"status": "no-level"
+},
+"Botola_Pro_2": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Botola Pro D2",
+"status": "ok"
+},
+"Oberliga_Westfalen": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Oberliga Westfalen",
+"status": "ok"
+},
+"Football_Queensland_Premier_League": {
+"level": 4,
+"raw": "[[Australian football league system|4 and 5]] (notionally)",
+"via": "levels",
+"final_title": "Football Queensland Premier League",
+"status": "ok"
+},
+"Football_Queensland_Premier_League_3_−_South_Coast": {
+"level": 5,
+"raw": "[[Australian football league system|5]]|promotion=[[Football Queensland Premier League 2]] <small>(via play-offs)</small>|image=",
+"via": "levels",
+"final_title": "Football Queensland Premier League 3 – South Coast",
+"status": "ok"
+},
+"Midland_Football_League": {
+"level": 9,
+"raw": "[[English football league system|Levels 9–11]] (Premier Division; Division One; Division Two)",
+"via": "levels",
+"final_title": "Midland Football League",
+"status": "ok"
+},
+"West_of_Scotland_Football_League#Second_Division": {
+"level": 6,
+"raw": "6–10",
+"via": "levels",
+"final_title": "West of Scotland Football League",
+"status": "ok"
+},
+"Lowland_Football_League#Lowland_League_West": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Lowland Football League",
+"status": "ok"
+},
+"National_League_South": {
+"level": 6,
+"raw": "6<br> Step 2 ([[National League System]])",
+"via": "levels",
+"final_title": "National League South",
+"status": "ok"
+},
+"Southern_Football_League": {
+"level": 7,
+"raw": "[[English football league system|Levels 7–8]]",
+"via": "level",
+"final_title": "Southern Football League",
+"status": "ok"
+},
+"Lowland_Football_League#Lowland_League_East": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Lowland Football League",
+"status": "ok"
+},
+"National_Premier_Leagues_NSW": {
+"level": 3,
+"raw": "[[Australian football league system|3]]",
+"via": "levels",
+"final_title": "National Premier Leagues NSW",
+"status": "ok"
+},
+"National_Premier_Leagues_Western_Australia": {
+"level": 3,
+"raw": "[[Australian football league system|3]]",
+"via": "levels",
+"final_title": "National Premier Leagues Western Australia",
+"status": "ok"
+},
+"National_Premier_Leagues_Queensland": {
+"level": 3,
+"raw": "[[Australian soccer league system|3]]",
+"via": "levels",
+"final_title": "National Premier Leagues Queensland",
+"status": "ok"
+},
+"National_Premier_Leagues_Victoria": {
+"level": 3,
+"raw": "[[Australian soccer league system|3]]",
+"via": "levels",
+"final_title": "National Premier Leagues Victoria",
+"status": "ok"
+},
+"Victorian_State_League_Division_4": {
+"level": 6,
+"raw": "[[Australian soccer league system|6–12]] (notionally)",
+"via": "levels",
+"final_title": "Victorian State League",
+"status": "ok"
+},
+"Veikkausliiga": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Veikkausliiga",
+"status": "ok"
+},
+"Paraguayan_Tercera_División": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Paraguayan Tercera División",
+"status": "no-level"
+},
+"Primera_División_B_Metropolitana": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Primera División B Metropolitana",
+"status": "ok"
+},
+"Primera_C": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Primera C Metropolitana",
+"status": "ok"
+},
+"Torneo_Federal_A": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Torneo Federal A",
+"status": "ok"
+},
+"Portuguese_District_Championships": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Portuguese District Championships",
+"status": "no-level"
+},
+"TFF_Third_League": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "TFF 3. Lig",
+"status": "ok"
+},
+"Super_Amateur_Leagues": {
+"level": 6,
+"raw": "6",
+"via": "levels",
+"final_title": "Super Amateur Leagues",
+"status": "ok"
+},
+"TFF_3._Lig": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "TFF 3. Lig",
+"status": "ok"
+},
+"Amateur_First_Division": {
+"level": 7,
+"raw": "7",
+"via": "levels",
+"final_title": "Amateur First Division",
+"status": "ok"
+},
+"National_Premier_Soccer_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "National Premier Soccer League",
+"status": "no-level"
+},
+"Vierde_Divisie": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Vierde Divisie",
+"status": "ok"
+},
+"Tweede_Divisie": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Tweede Divisie",
+"status": "ok"
+},
+"Derde_Divisie": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Derde Divisie",
+"status": "ok"
+},
+"Azerbaijan_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Azerbaijan Premier League",
+"status": "ok"
+},
+"Championship_(Indonesia)": {
+"level": 2,
+"raw": "[[Indonesian football league system|2]]",
+"via": "levels",
+"final_title": "Championship (Indonesia)",
+"status": "ok"
+},
+"LigaPro_Serie_A": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "LigaPro Serie A",
+"status": "ok"
+},
+"Oberliga_Baden-Württemberg": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Oberliga Baden-Württemberg",
+"status": "ok"
+},
+"Bayernliga_Nord": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Bayernliga",
+"status": "ok"
+},
+"Landesliga_Braunschweig": {
+"level": 6,
+"raw": "[[German football league system|Level 6]]",
+"via": "level",
+"final_title": "Landesliga Braunschweig",
+"status": "ok"
+},
+"Ligue_2_(Ivory_Coast)": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Ligue 2 (Ivory Coast)",
+"status": "ok"
+},
+"Swedish_Football_Division_2": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Division 2 (Swedish football)",
+"status": "ok"
+},
+"Swedish_football_Division_3": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Division 3 (Swedish football)",
+"status": "ok"
+},
+"Landesliga_Hamburg-Hammonia": {
+"level": 6,
+"raw": "[[German football league system|Level 6]]",
+"via": "level",
+"final_title": "Landesliga Hamburg-Hammonia",
+"status": "ok"
+},
+"Tunisian_Ligue_Professionnelle_2": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Tunisian Ligue Professionnelle 2",
+"status": "ok"
+},
+"Besta_deild_karla": {
+"level": 1,
+"raw": "1",
+"via": "level",
+"final_title": "Besta deild karla",
+"status": "ok"
+},
+"Norwegian_Second_Division": {
+"level": 3,
+"raw": "3",
+"via": "level",
+"final_title": "Norwegian Second Division",
+"status": "ok"
+},
+"Egyptian_Second_Division_B": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Egyptian Second Division B",
+"status": "ok"
+},
+"Egyptian_Second_Division": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Egyptian Second Division",
+"status": "ok"
+},
+"Egyptian_Third_Division": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Egyptian Third Division",
+"status": "ok"
+},
+"Egyptian_Second_Division_A": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Egyptian Second Division A",
+"status": "ok"
+},
+"League_3_(Iran)": {
+"level": 4,
+"raw": "[[Iranian football league system#Current system|4]]",
+"via": "levels",
+"final_title": "League 3 (Iran)",
+"status": "ok"
+},
+"Russian_Second_League": {
+"level": 3,
+"raw": "3–4",
+"via": "levels",
+"final_title": "Russian Second League",
+"status": "ok"
+},
+"Tehran_Province_League": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Tehran Province League",
+"status": "ok"
+},
+"Swedish_Division_2": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Division 2 (Swedish football)",
+"status": "ok"
+},
+"NRFL_Championship": {
+"level": 3,
+"raw": "[[New Zealand football league system|3]]",
+"via": "levels",
+"final_title": "NRFL Championship",
+"status": "ok"
+},
+"NRFL_Conference": {
+"level": 4,
+"raw": "[[New Zealand football league system|4]]",
+"via": "levels",
+"final_title": "NRFL Conference",
+"status": "ok"
+},
+"ASB_Premiership": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "New Zealand Football Championship",
+"status": "ok"
+},
+"I_liga": {
+"level": 2,
+"raw": "[[Polish football league system|2]]",
+"via": "levels",
+"final_title": "I liga",
+"status": "ok"
+},
+"League_of_Ireland_Premier_Division": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "League of Ireland Premier Division",
+"status": "ok"
+},
+"Canterbury_Premiership_League": {
+"level": 3,
+"raw": "[[New Zealand football league system|3]]",
+"via": "levels",
+"final_title": "Canterbury Premiership League",
+"status": "ok"
+},
+"Cape_Verdean_football_Championships": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Cape Verdean Football Championship",
+"status": "ok"
+},
+"Segundona": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Segundona",
+"status": "ok"
+},
+"Nemzeti_Bajnokság_II": {
+"level": 2,
+"raw": "[[Hungarian football league system|2]]",
+"via": "levels",
+"final_title": "Nemzeti Bajnokság II",
+"status": "ok"
+},
+"Terceira_Divisão": {
+"level": 3,
+"raw": "[[Portuguese football league system|3]] (1948–1990)<br>[[Portuguese football league system|4]] (1990–2013)",
+"via": "levels",
+"final_title": "Terceira Divisão",
+"status": "ok"
+},
+"Liga_II": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Liga II",
+"status": "ok"
+},
+"III_liga,_group_IV": {
+"level": 4,
+"raw": "[[Polish football league system|4]]",
+"via": "levels",
+"final_title": "III liga, group IV",
+"status": "ok"
+},
+"Swedish_Football_Division_4": {
+"level": 6,
+"raw": "6",
+"via": "levels",
+"final_title": "Division 4 (Swedish football)",
+"status": "ok"
+},
+"3._divisjon": {
+"level": 4,
+"raw": "4",
+"via": "level",
+"final_title": "Norwegian Third Division",
+"status": "ok"
+},
+"Iraqi_Third_Division_League": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "Iraqi Third Division League",
+"status": "ok"
+},
+"Iraqi_First_Division_League": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Iraqi First Division League",
+"status": "ok"
+},
+"Division_1_(Swedish_football)": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Ettan Fotboll",
+"status": "ok"
+},
+"Oberliga_Niedersachsen": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Oberliga Niedersachsen",
+"status": "ok"
+},
+"Austrian_Regionalliga_West": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Austrian Regionalliga West",
+"status": "ok"
+},
+"Norwegian_Third_Division": {
+"level": 4,
+"raw": "4",
+"via": "level",
+"final_title": "Norwegian Third Division",
+"status": "ok"
+},
+"2._Liga_Interregional": {
+"level": 5,
+"raw": "5",
+"via": "levels",
+"final_title": "2. Liga Interregional",
+"status": "ok"
+},
+"Challenge_League_(Switzerland)": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Swiss Challenge League",
+"status": "ok"
+},
+"Interregional_League": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Interregional League",
+"status": "ok"
+},
+"Inter-Régions_Division": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Interregional League",
+"status": "ok"
+},
+"Tercera_División_Groups_1-9": {
+"level": 3,
+"raw": "3 (1929–1977)<br>4 (1977–2021)",
+"via": "levels",
+"final_title": "Tercera División",
+"status": "ok"
+},
+"Regionalliga_Salzburg": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Regionalliga Salzburg",
+"status": "ok"
+},
+"Austrian_Regionalliga_East": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Austrian Regionalliga East",
+"status": "ok"
+},
+"Landesliga_Steiermark": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Landesliga Steiermark",
+"status": "ok"
+},
+"1._Niederösterreichische_Landesliga": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "1. Niederösterreichische Landesliga",
+"status": "ok"
+},
+"Wiener_Stadtliga": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Wiener Stadtliga",
+"status": "ok"
+},
+"Lebanese_Premier_League": {
+"level": 1,
+"raw": "[[Lebanese football league system|1]]",
+"via": "levels",
+"final_title": "Lebanese Premier League",
+"status": "ok"
+},
+"Yemeni_Premier_League": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Yemeni Premier League",
+"status": "missing"
+},
+"Libyan_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Libyan Premier League",
+"status": "ok"
+},
+"Kuwait_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Kuwait Premier League",
+"status": "ok"
+},
+"Oman_Professional_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Oman Professional League",
+"status": "ok"
+},
+"Malaysia_A2_Amateur_League": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Malaysia A2 Amateur League",
+"status": "ok"
+},
+"UAE_First_Division_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "UAE First Division League",
+"status": "ok"
+},
+"Saudi_Second_Division_League": {
+"level": 3,
+"raw": "[[Saudi football league system|3]]",
+"via": "levels",
+"final_title": "Saudi Second Division League",
+"status": "ok"
+},
+"Bahraini_Second_Division": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Bahraini Second Division",
+"status": "ok"
+},
+"Campeonato_Paulista_Série_A4": {
+"level": 4,
+"raw": "4",
+"via": "levels",
+"final_title": "Campeonato Paulista Série A4",
+"status": "ok"
+},
+"II_liga": {
+"level": 3,
+"raw": "[[Polish football league system|3]]",
+"via": "levels",
+"final_title": "II liga",
+"status": "ok"
+},
+"Linafoot": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Linafoot",
+"status": "ok"
+},
+"Armenian_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Armenian Premier League",
+"status": "ok"
+},
+"Tanzanian_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Tanzanian Premier League",
+"status": "ok"
+},
+"Luxembourg_National_Division": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Luxembourg National Division",
+"status": "ok"
+},
+"Lisbon_Football_Association": {
+"level": null,
+"raw": null,
+"via": null,
+"final_title": "Lisbon Football Association",
+"status": "no-level"
+},
+"Belarusian_First_League": {
+"level": 2,
+"raw": "[[Football in Belarus#League system|2]]",
+"via": "levels",
+"final_title": "Belarusian First League",
+"status": "ok"
+},
+"Russian_First_League": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Russian First League",
+"status": "ok"
+},
+"Belarusian_Premier_League": {
+"level": 1,
+"raw": "[[Football in Belarus#League system|1]]",
+"via": "levels",
+"final_title": "Belarusian Premier League",
+"status": "ok"
+},
+"Bayernliga_Süd": {
+"level": 5,
+"raw": "[[German football league system|Level 5]]",
+"via": "level",
+"final_title": "Bayernliga",
+"status": "ok"
+},
+"First_Football_League_(Croatia)": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "First Football League (Croatia)",
+"status": "ok"
+},
+"Division_One_League,_Ghana": {
+"level": 2,
+"raw": "2",
+"via": "level",
+"final_title": "Division One League",
+"status": "ok"
+},
+"Kategoria_Superiore": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Kategoria Superiore",
+"status": "ok"
+},
+"Hellenic_Football_League": {
+"level": 9,
+"raw": "[[English football league system|Levels 9–10]] (Premier Division; Division One)",
+"via": "levels",
+"final_title": "Hellenic Football League",
+"status": "ok"
+},
+"Ghana_Football_Leagues#Division_One_League_.28Poly_Tank_Division_One_League.29": {
+"level": 2,
+"raw": "2{{endash}}4",
+"via": "levels",
+"final_title": "Ghana Football Leagues",
+"status": "ok"
+},
+"Ghana_Football_Leagues#Division_Two_League": {
+"level": 2,
+"raw": "2{{endash}}4",
+"via": "levels",
+"final_title": "Ghana Football Leagues",
+"status": "ok"
+},
+"Ghanaian_Premier_League": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Ghana Premier League",
+"status": "ok"
+},
+"Liga_Bantrab": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga Bantrab",
+"status": "ok"
+},
+"Liga_Nacional_de_Fútbol_Profesional_de_Honduras": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga Nacional de Fútbol de Honduras",
+"status": "ok"
+},
+"FBF_División_Profesional": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "FBF División Profesional",
+"status": "ok"
+},
+"Liga_Dominicana_de_Fútbol": {
+"level": 1,
+"raw": "1",
+"via": "levels",
+"final_title": "Liga Dominicana de Fútbol",
+"status": "ok"
+},
+"Liga_3_(Peru)": {
+"level": 3,
+"raw": "3",
+"via": "levels",
+"final_title": "Liga 3 (Peru)",
+"status": "ok"
+},
+"Ykkösliiga": {
+"level": 2,
+"raw": "2",
+"via": "levels",
+"final_title": "Ykkösliiga",
+"status": "ok"
+}
+}
