@@ -1220,8 +1220,8 @@ def main():
   #player-detail .pd-hint {{ font-size: 11px; color: #778; margin-top: 14px; }}
   /* ── Player list (alphabetical by surname) ───────────────────────────── */
   #player-list {{
-    position: fixed; top: 58px; left: 50%; transform: translateX(-50%);
-    width: min(440px, 92vw); max-height: calc(100vh - 86px); overflow-y: auto;
+    position: fixed; top: 96px; left: 50%; transform: translateX(-50%);
+    width: min(440px, 92vw); max-height: calc(100vh - 116px); overflow-y: auto;
     background: #16213a; color: #eee;
     border: 1px solid rgba(255,255,255,0.12); border-radius: 12px;
     z-index: 25; display: none; box-shadow: 0 12px 40px rgba(0,0,0,0.5);
@@ -1229,9 +1229,15 @@ def main():
   #player-list .pl-head {{
     position: sticky; top: 0; background: #16213a; z-index: 1;
     display: flex; align-items: baseline; gap: 8px;
-    font-size: 15px; font-weight: bold; padding: 14px 18px 10px;
+    font-size: 15px; font-weight: bold; padding: 14px 44px 10px 18px;
     border-bottom: 1px solid rgba(255,255,255,0.12); border-radius: 12px 12px 0 0;
   }}
+  #player-list .pl-close {{
+    position: absolute; top: 9px; right: 12px; cursor: pointer;
+    font-size: 22px; color: #889; line-height: 1; border: none; background: none;
+    padding: 0;
+  }}
+  #player-list .pl-close:hover {{ color: #fff; }}
   #player-list .pl-count {{ margin-left: auto; color: #9cf; font-weight: normal; font-size: 13px; }}
   #player-list .pl-sortbar {{
     padding: 7px 18px; font-size: 11px; color: #9aa;
@@ -1277,6 +1283,7 @@ def main():
   /* ── Mobile chrome (hidden on desktop) ──────────────────────────────────── */
   #mobile-actions {{ display: none; }}
   #m-scrim {{ display: none; }}
+  #pan-hint {{ display: none; }}
 
   /* ── Mobile layout: full-screen map, panels become slide-in drawers ─────── */
   @media (max-width: 700px) {{
@@ -1315,7 +1322,8 @@ def main():
       top: 52px; left: 8px; right: 8px; width: auto; max-width: none;
       transform: none; opacity: 0; pointer-events: none; transition: opacity 0.15s;
     }}
-    body.m-search #search {{ opacity: 1; pointer-events: auto; }}
+    /* Sit above the tap-away scrim so taps land in the input, not on the scrim. */
+    body.m-search #search {{ opacity: 1; pointer-events: auto; z-index: 30; }}
     body.m-search #breadcrumb {{ display: none; }}
 
     /* Top-lists sidebar -> left drawer */
@@ -1338,6 +1346,17 @@ def main():
     #m-scrim {{ position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 27; }}
     body.m-lists #m-scrim, body.m-filter #m-scrim {{ display: block; }}
     body.m-search #m-scrim {{ display: block; background: transparent; }}
+
+    /* One-time "you can pan" hint on the world map */
+    #pan-hint {{
+      display: block; position: fixed; left: 50%; bottom: 70px;
+      transform: translateX(-50%); z-index: 12;
+      background: rgba(0,0,0,0.72); color: #eef; padding: 7px 15px;
+      border-radius: 16px; font-size: 12.5px; white-space: nowrap;
+      pointer-events: none; opacity: 0; transition: opacity 0.45s;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    }}
+    #pan-hint.show {{ opacity: 1; }}
 
     /* Larger touch targets for zoom, slimmer footer */
     #zoom-ctrl {{ bottom: 10px; right: 10px; gap: 7px; }}
@@ -1365,6 +1384,7 @@ def main():
   <button id="mb-filter" onclick="toggleMobile('filter')" aria-label="Count filter" title="Count players by">&#9881;</button>
 </div>
 <div id="m-scrim" onclick="closeMobilePanels()"></div>
+<div id="pan-hint">↔ Drag to explore · pinch to zoom</div>
 <div id="sidebar">
   <div id="sb-clubs-box"><h3>Top 10 Clubs</h3><div id="sb-list"></div></div>
   <div id="sb-leagues-box"><h3>Top Leagues</h3><div id="sb-leagues"></div></div>
@@ -1465,6 +1485,21 @@ function toggleMobile(which) {{
   }}
 }}
 
+// One-time hint that the (now zoomed-in) world map can be dragged/pinched.
+let panHintDone = false;
+function maybeShowPanHint() {{
+  if (panHintDone || window.innerWidth > 700) return;
+  panHintDone = true;
+  const h = document.getElementById("pan-hint");
+  if (!h) return;
+  h.classList.add("show");
+  setTimeout(() => h.classList.remove("show"), 4500);
+}}
+function hidePanHint() {{
+  const h = document.getElementById("pan-hint");
+  if (h) h.classList.remove("show");
+}}
+
 const PLAYER_DETAILS = {players_json};
 
 // ── Canvas ────────────────────────────────────────────────────────────────
@@ -1474,16 +1509,20 @@ const svg = d3.select("#canvas").attr("viewBox", `0 0 ${{W}} ${{H}}`);
 // Ocean fill sits behind everything and never moves
 svg.append("rect").attr("class","ocean-bg").attr("width", W).attr("height", H).attr("fill", "#0d1c35");
 
+// gGeo:    wraps every geo layer so a pan/zoom gesture can move them with one
+//          cheap CSS transform; the costly reprojection runs only when the
+//          gesture settles (see the zoom handler).
 // gBg:     graticule (choropleth mode only)
 // gMap:    individual country fill paths — choropleth colours, interactive
 // gBorder: country border lines on top of fills
 // gLabels: confederation centroid labels (choropleth mode only)
 // g:       force-simulation nodes (league / club levels only)
-const gBg      = svg.append("g");
-const gMap     = svg.append("g");
-const gBorder  = svg.append("g");
-const gLabels  = svg.append("g");
-const gClabels = svg.append("g");   // country name + flag labels (collision-filtered)
+const gGeo     = svg.append("g");
+const gBg      = gGeo.append("g");
+const gMap     = gGeo.append("g");
+const gBorder  = gGeo.append("g");
+const gLabels  = gGeo.append("g");
+const gClabels = gGeo.append("g");   // country name + flag labels (collision-filtered)
 const g        = svg.append("g");
 const countryPathMap = new Map();  // ISO numeric code → SVGPathElement
 
@@ -1751,32 +1790,56 @@ d3.json("countries-50m.json")
 
 // ── Zoom ─────────────────────────────────────────────────────────────────
 // geoMode=true  → choropleth map view (confederation / country levels)
-//                 update projection directly on every zoom event
 // geoMode=false → free-simulation view (league / club levels)
 //                 apply CSS transform to the node group
+//
+// The 50m world geometry is ~1.5M path chars, so reprojecting it on every zoom
+// frame is far too slow on phones (~85ms/frame). Instead, during a gesture we
+// move the whole geo group with one cheap CSS transform (matched to what the
+// reprojected map would look like) and only reproject — crisply — on "end".
 let geoMode = false;
 let _clabTimer = null;
 
+// committedT = the zoom transform the geo paths were last reprojected at.
+let committedT = d3.zoomIdentity;
+// Equirectangular is linear, so a transform T maps a base-projected point p to
+// T.k*p + geoConst(T). geoCssTransform returns the affine that takes the paths
+// drawn at `from` to how they should look at `to` (identity when from === to).
+function geoConst(T) {{ return [T.x + baseTx * (1 - T.k), T.y + baseTy * (1 - T.k)]; }}
+function geoCssTransform(from, to) {{
+  const s = to.k / from.k;
+  const cF = geoConst(from), cT = geoConst(to);
+  return `translate(${{cT[0] - s * cF[0]}},${{cT[1] - s * cF[1]}}) scale(${{s}})`;
+}}
+function applyGeoProjection(T) {{
+  projection
+    .scale(baseScale * T.k)
+    .translate([baseTx + T.x, baseTy + T.y]);
+  redrawMapPaths();
+  // Reposition confederation labels bound with [lon,lat] datum
+  gLabels.selectAll("text").attr("transform", function() {{
+    const c = d3.select(this).datum();
+    const p = c ? projection(c) : null;
+    return p ? `translate(${{p[0]}},${{p[1]}})` : "translate(-9999,-9999)";
+  }});
+  renderCountryLabels(currentNodes);
+  gGeo.attr("transform", null);   // paths now hold the transform -> clear the CSS one
+  committedT = T;
+}}
+
 const zoomBehaviour = d3.zoom().scaleExtent([0.3, 60])
+  .on("start", e => {{ if (e.sourceEvent) hidePanHint(); }})   // dismiss the hint on first drag
   .on("zoom", e => {{
     if (geoMode) {{
-      projection
-        .scale(baseScale * e.transform.k)
-        .translate([baseTx + e.transform.x, baseTy + e.transform.y]);
-      redrawMapPaths();
-      // Reposition confederation labels bound with [lon,lat] datum
-      gLabels.selectAll("text").attr("transform", function() {{
-        const c = d3.select(this).datum();
-        const p = c ? projection(c) : null;
-        return p ? `translate(${{p[0]}},${{p[1]}})` : "translate(-9999,-9999)";
-      }});
-      // Country labels: follow live, then recompute which fit once the gesture settles.
-      repositionCountryLabels();
-      clearTimeout(_clabTimer);
-      _clabTimer = setTimeout(() => renderCountryLabels(currentNodes), 90);
+      // Cheap per-frame move; no reprojection.
+      gGeo.attr("transform", geoCssTransform(committedT, e.transform));
     }} else {{
       g.attr("transform", e.transform);
     }}
+  }})
+  .on("end", e => {{
+    // Gesture settled — reproject once for crisp lines and correct label layout.
+    if (geoMode) applyGeoProjection(e.transform);
   }});
 svg.call(zoomBehaviour);
 
@@ -1911,7 +1974,7 @@ function fitToCoords(coordsList, withTransition) {{
   // On phones the side panels are hidden behind buttons, so the map can use the
   // full width; reserve only a little top room for the title + breadcrumb.
   const isMobile = W <= 700;
-  const pad = isMobile ? 58 : 80;   // extra room so edge labels (CONCACAF) don't clip
+  const pad = isMobile ? 44 : 80;
   const x0 = d3.min(pts, p=>p[0]) - pad, x1 = d3.max(pts, p=>p[0]) + pad;
   const y0 = d3.min(pts, p=>p[1]) - pad, y1 = d3.max(pts, p=>p[1]) + pad;
   // Reserve screen space for the title / Top-10 panels on the left (and a little
@@ -1919,8 +1982,11 @@ function fitToCoords(coordsList, withTransition) {{
   // shift right so North America isn't hidden behind the panels.
   const marginL = isMobile ? 8 : Math.min(340, W * 0.36);   // no left panels on mobile
   const marginT = isMobile ? 96 : 40;                        // clear title + breadcrumb
-  const ZOOM_OUT = isMobile ? 1.0 : 0.94;                    // use the full width on mobile
-  const k  = Math.min((W - marginL) / (x1-x0), (H - marginT) / (y1-y0), 20) * ZOOM_OUT;
+  // Phones: zoom IN past the plain width-fit so labels are legible and the map
+  // fills the screen; the off-screen edges are reachable by dragging (smooth now)
+  // and a one-time hint points this out. Desktop pulls back a touch for the panels.
+  const ZOOM = isMobile ? 1.5 : 0.94;
+  const k  = Math.min((W - marginL) / (x1-x0), (H - marginT) / (y1-y0), 20) * ZOOM;
   const cx = (x0+x1)/2, cy = (y0+y1)/2;
   const tx = (W + marginL) / 2 - baseTx + k * (baseTx - cx);
   const ty = (H + marginT) / 2 - baseTy + k * (baseTy - cy);
@@ -1950,11 +2016,22 @@ function ctrlFit() {{
     const x1 = d3.max(ns, d => (d.x||0) + hw(d)) + pad;
     const y0 = d3.min(ns, d => (d.y||0) - d.r) - pad;
     const y1 = d3.max(ns, d => (d.y||0) + d.r) + pad;
-    const k  = Math.min(W / (x1-x0), H / (y1-y0), 5);
+    let k  = Math.min(W / (x1-x0), H / (y1-y0), 5);
+    // Phones: don't let "fit everything" shrink labels to an unreadable size —
+    // hold a minimum zoom and let the user pan (panning is a cheap transform).
+    if (W <= 700) k = Math.max(k, 1.0);
     const cx = (x0+x1)/2, cy = (y0+y1)/2;
+    const tx = W/2 - k*cx;
+    // If the content is now taller than the screen, pin its top under the header
+    // bar (so e.g. a deep league pyramid opens on its TOP tiers) instead of
+    // centring it; otherwise centre vertically as before.
+    const topRoom = (W <= 700) ? 100 : 20;
+    const ty = ((y1-y0)*k > H - topRoom - 16)
+      ? topRoom - k*y0
+      : H/2 - k*cy;
     svg.transition().duration(450).call(
       zoomBehaviour.transform,
-      d3.zoomIdentity.translate(W/2, H/2).scale(k).translate(-cx, -cy)
+      d3.zoomIdentity.translate(tx, ty).scale(k)
     );
   }}
 }}
@@ -2458,7 +2535,7 @@ function renderPlayerList(nodes) {{
 
   const opt = (v, t) => `<option value="${{v}}"${{plSort === v ? " selected" : ""}}>${{t}}</option>`;
   panel.innerHTML =
-    `<div class="pl-head">${{esc(parent)}}`
+    `<div class="pl-head"><button class="pl-close" onclick="drillUp()" title="Back">&times;</button>${{esc(parent)}}`
     + `<span class="pl-count">${{nodes.length}} player${{nodes.length === 1 ? "" : "s"}} · ${{basisWord()}}</span></div>`
     + `<div class="pl-sortbar">Sort by <select id="pl-sort">`
     +   opt("name", "Name") + opt("pos", "Position") + opt("nation", "Nation")
@@ -2611,6 +2688,7 @@ function gotoPath(labels) {{
 function render(nodes) {{
   sim.stop();
   g.selectAll("*").remove();
+  tip.style.display = "none";   // a tap/drill doesn't fire mouseleave — clear any stuck tooltip
 
   const isDetail = nodes.length > 0 && nodes[0].type === "playerDetail";
   const isPlayerList = nodes.length > 0 && nodes[0].type === "player";
@@ -2653,6 +2731,7 @@ function render(nodes) {{
     gLabels.selectAll("*").remove();
     gLabels.attr("visibility", mapVis);
     if (nodes[0].type === "confederation") {{
+      maybeShowPanHint();   // first time we land on the world map (mobile only)
       nodes.forEach(confNode => {{
         const coords = confNode._data.coords;
         if (!coords || (coords[0] === 0 && coords[1] === 0)) return;
@@ -2662,7 +2741,7 @@ function render(nodes) {{
           .datum(coords)  // stored so zoom handler can reproject
           .attr("transform", `translate(${{pos[0]}},${{pos[1]}})`)
           .attr("text-anchor", "middle").attr("dy", "0.35em")
-          .style("font-size", W <= 700 ? "12px" : "18px").style("font-weight", "800")
+          .style("font-size", W <= 700 ? "15px" : "18px").style("font-weight", "800")
           .style("letter-spacing", W <= 700 ? "0.2px" : "0.5px")
           .style("fill", "#0a1626")
           // crisp white outline around the glyphs (reads on any colour)
@@ -2849,6 +2928,9 @@ function render(nodes) {{
       .attr("dy", d => d.r + 14)
       .attr("text-anchor", "middle")
       .style("font-size", d => {{
+        // Kept at the data-coordinate base size; on phones legibility comes from
+        // the zoom floor in ctrlFit (which scales labels AND spacing together,
+        // so nothing overlaps), not from inflating the font here.
         if (d.type === "player") return "13px";
         if (d.type === "league") return "12px";
         if (d.type === "club") return "14px";
