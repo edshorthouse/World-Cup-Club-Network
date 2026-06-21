@@ -776,10 +776,12 @@ def build_hierarchy(club_players, player_nation, details, league_levels=None,
             "name":    name,
             "count":   count,
             "players": players,
-            # sorted by surname (last word); l/lf=loan(+owner), c=current here
+            # sorted by surname (last word), then full name so players who share
+            # a surname keep a stable order (players is a set, so without the
+            # tiebreak the emitted order — and thus the HTML — is nondeterministic)
             "playersList": sorted(
                 [_entry(p) for p in players],
-                key=lambda x: x["n"].split()[-1],
+                key=lambda x: (x["n"].split()[-1], x["n"]),
             ),
         }
         if league == DISSOLVED_LEAGUE and (country, name) in dissolved_year:
@@ -810,7 +812,7 @@ def build_hierarchy(club_players, player_nation, details, league_levels=None,
                           "players": c["playersList"],
                           **({"dissolved": c["dissolved"]} if "dissolved" in c else {})}
                          for c in clubs],
-                        key=lambda x: -x["count"],
+                        key=lambda x: (-x["count"], x["name"]),   # name breaks count ties deterministically
                     ),
                 })
             conf_players |= country_players
