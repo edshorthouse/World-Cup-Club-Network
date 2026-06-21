@@ -23,6 +23,8 @@ from league_dedup import build_canonical_map, canonical_league
 
 MIN_PLAYERS = 1
 OUTPUT      = "drill_down.html"
+# Also written as index.html so GitHub Pages serves it at the site root (no copy step).
+OUTPUTS     = ("drill_down.html", "index.html")
 ATLAS_URL   = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json"
 
 # Tableau-10 palette. AFC (Asia) and OFC (Oceania) are swapped per request:
@@ -2973,8 +2975,10 @@ render(currentNodes);
 </body>
 </html>"""
 
-    Path(OUTPUT).write_text(html, encoding="utf-8")
-    print(f"Done. Open {OUTPUT} in your browser.")
+    for out in OUTPUTS:
+        Path(out).write_text(html, encoding="utf-8")
+    print(f"Done. Wrote {', '.join(OUTPUTS)} — open drill_down.html locally; "
+          f"index.html is the GitHub Pages copy.")
 
     all_countries = [c for d in data for c in d["countries"]]
     all_leagues   = [l for c in all_countries for l in c["leagues"]]
