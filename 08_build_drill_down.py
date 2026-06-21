@@ -2020,20 +2020,25 @@ function ctrlFit() {{
     const x1 = d3.max(ns, d => (d.x||0) + hw(d)) + pad;
     const y0 = d3.min(ns, d => (d.y||0) - d.r) - pad;
     const y1 = d3.max(ns, d => (d.y||0) + d.r) + pad;
-    // Phones: fit to WIDTH only and let the content scroll vertically, so nodes
-    // and labels stay a legible size instead of shrinking to cram a tall block
-    // onto the screen. The grid is laid out narrow on mobile (see the club view)
-    // so width-fit gives a comfortable zoom; you drag up/down to see the rest.
-    const k = isMobile ? Math.min(W / (x1-x0), 5)
-                       : Math.min(W / (x1-x0), H / (y1-y0), 5);
     const cx = (x0+x1)/2, cy = (y0+y1)/2;
+    // Mobile league pyramids are too tall to show legibly, so they fit to WIDTH
+    // and scroll vertically (anchored at the top). The club grid is laid out
+    // portrait (see the club view) and fits BOTH dimensions into the band below
+    // the header, so nearly every club is visible at once.
+    const topChrome = 96, botChrome = 56, bandH = H - topChrome - botChrome;
+    let k, ty;
+    if (isMobile && isLeagueFit) {{
+      k = Math.min(W / (x1-x0), 5);
+      const topRoom = 92;
+      ty = ((y1-y0)*k > H - topRoom - 16) ? topRoom - k*y0 : H/2 - k*cy;
+    }} else if (isMobile) {{
+      k = Math.min(W / (x1-x0), bandH / (y1-y0), 5);
+      ty = topChrome + bandH/2 - k*cy;
+    }} else {{
+      k = Math.min(W / (x1-x0), H / (y1-y0), 5);
+      ty = H/2 - k*cy;
+    }}
     const tx = W/2 - k*cx;
-    // If the content is taller than the screen, pin its top under the header bar
-    // (so a deep pyramid / long grid opens at the TOP) instead of centring it.
-    const topRoom = isMobile ? 92 : 20;
-    const ty = ((y1-y0)*k > H - topRoom - 16)
-      ? topRoom - k*y0
-      : H/2 - k*cy;
     svg.transition().duration(450).call(
       zoomBehaviour.transform,
       d3.zoomIdentity.translate(tx, ty).scale(k)
@@ -2849,11 +2854,12 @@ function render(nodes) {{
       const ROW_H = 2 * maxR + 56;                 // node + label + breathing room
       const totalW = d3.sum(sorted, n => 2 * n._half + GAP);
       const widest = d3.max(sorted, n => 2 * n._half);
-      // Desktop aims for a roughly square block. Phones use a deliberately narrow
-      // block (~a couple of columns) so fitting it to the screen width leaves the
-      // nodes/labels at a legible size; the extra rows scroll vertically.
+      // Desktop aims for a roughly square block. Phones shape the block to match
+      // the (portrait) screen so fitting BOTH dimensions shows nearly every club
+      // at once at the largest size that still fits — no horizontal panning.
+      const bandH = Math.max(360, H - 152);     // usable height below the header
       const wTarget = (W <= 700)
-        ? Math.max(widest, W * 1.12)
+        ? Math.max(widest, Math.sqrt(totalW * ROW_H * (W / bandH)))
         : Math.max(widest, Math.sqrt(totalW * ROW_H));
 
       const rows = [[]];
