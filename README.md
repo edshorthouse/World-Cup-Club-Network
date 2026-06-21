@@ -7,7 +7,38 @@ what each file does.
 
 ---
 
-## Quick refresh — run the numbered scripts in order
+## Quick refresh — one command
+
+```bash
+python refresh.py                # full refresh: scrape Wikipedia + rebuild the HTML
+```
+
+`refresh.py` runs the whole pipeline (`01 → 08`) in order, stops at the first
+real failure, and prints per‑step timings. Handy flags:
+
+```bash
+python refresh.py --build-only   # only step 08 — rebuild the HTML from existing CSVs
+                                 # (use this to publish code/template changes, no re-scrape)
+python refresh.py --from 4       # resume from step 04 (e.g. after a network drop)
+```
+
+It uses the same interpreter you launch it with (so it respects your venv), and
+the optional player‑bio step is treated as a warning, not a failure.
+
+To publish a refresh:
+
+```bash
+git add -A && git commit -m "Refresh data" && git push
+```
+
+GitHub Pages then redeploys `index.html` automatically — live at
+https://edshorthouse.github.io/World-Cup-Club-Network/ . To preview locally
+first, open **`drill_down.html`** in any browser (no server needed).
+
+### …or run the numbered scripts by hand
+
+`refresh.py` is just a wrapper. The underlying steps, in their fixed run order
+(each step's output feeds the next, so don't skip or reorder):
 
 ```bash
 python 01_extract_players.py       # squads        -> players.csv
@@ -21,15 +52,8 @@ python extract_player_bio.py       # position + DOB  -> player_bio.csv  (optiona
 python 08_build_drill_down.py      # the viz         -> drill_down.html + index.html
 ```
 
-`08` writes **both** `drill_down.html` (open locally) and `index.html` (served at the
-GitHub Pages root). To publish a refresh: re‑run the pipeline, then
-`git add -A && git commit -m "Refresh data" && git push` — live at
-https://edshorthouse.github.io/World-Cup-Club-Network/
-
-Then open **`drill_down.html`** in any browser (no server needed).
-
-The numbers are the run order. Just go `01 → 08`. Each step's output feeds the
-next, so don't skip or reorder them.
+`08` writes **both** `drill_down.html` (open locally) and `index.html` (served at
+the GitHub Pages root).
 
 > **Timing / network:** steps 01, 02, 04, 05, 06 scrape Wikipedia (polite 1s
 > delay between requests). Pages are cached under `./cache/`, so re‑runs are fast.
@@ -70,6 +94,11 @@ next, so don't skip or reorder them.
 ---
 
 ## Supporting files (not part of the linear run)
+
+**Pipeline runner:**
+- `refresh.py` – runs steps `01 → 08` in order (the easy path above). Wraps the
+  numbered scripts; supports `--build-only` and `--from N`. Not imported by
+  anything — purely a convenience entry point.
 
 **Shared library — do not rename or number:**
 - `league_dedup.py` – canonical league‑name de‑duplication, **imported** by
