@@ -997,6 +997,7 @@ def main():
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>FIFA World Cup 2026 Club Network</title>
 <style>
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
@@ -1272,6 +1273,77 @@ def main():
     border-radius: 3px; padding: 1px 5px; margin-right: 6px; vertical-align: 1px;
   }}
   #player-list .pl-cur  {{ color: #06281a; background: #5fd39a; }}   /* current = green */
+
+  /* ── Mobile chrome (hidden on desktop) ──────────────────────────────────── */
+  #mobile-actions {{ display: none; }}
+  #m-scrim {{ display: none; }}
+
+  /* ── Mobile layout: full-screen map, panels become slide-in drawers ─────── */
+  @media (max-width: 700px) {{
+    /* Compact title: trophy + "Club Network" only (the long prefix is hidden) */
+    #title {{ top: 8px; left: 8px; padding: 7px 11px; gap: 7px; max-width: calc(100vw - 150px); }}
+    #title .t-mark {{ width: 20px; height: 20px; }}
+    #title .t-main {{ font-size: 14px; }}
+    #title .t-pre {{ display: none; }}
+
+    /* Floating action buttons, top-right */
+    #mobile-actions {{
+      display: flex; gap: 7px;
+      position: fixed; top: 8px; right: 8px; z-index: 29;
+    }}
+    #mobile-actions button {{
+      width: 38px; height: 38px; border-radius: 9px; padding: 0;
+      background: linear-gradient(135deg, rgba(26,44,78,0.95), rgba(9,16,32,0.92));
+      border: 1px solid rgba(255,255,255,0.14); color: #eee;
+      font-size: 16px; cursor: pointer; display: flex;
+      align-items: center; justify-content: center;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.45); -webkit-tap-highlight-color: transparent;
+    }}
+    #mobile-actions button.on {{ background: #2d6cff; border-color: #6f9bff; color: #fff; }}
+    body.lists-empty #mb-lists {{ display: none; }}
+
+    /* Breadcrumb: own row under the title, horizontally scrollable */
+    #breadcrumb {{
+      top: 52px; left: 8px; right: 8px; transform: none;
+      max-width: none; text-align: left; overflow-x: auto;
+      -webkit-overflow-scrolling: touch; scrollbar-width: none;
+    }}
+    #breadcrumb::-webkit-scrollbar {{ display: none; }}
+
+    /* Search collapses to an icon — full-width bar only when toggled open */
+    #search {{
+      top: 52px; left: 8px; right: 8px; width: auto; max-width: none;
+      transform: none; opacity: 0; pointer-events: none; transition: opacity 0.15s;
+    }}
+    body.m-search #search {{ opacity: 1; pointer-events: auto; }}
+    body.m-search #breadcrumb {{ display: none; }}
+
+    /* Top-lists sidebar -> left drawer */
+    #sidebar {{
+      top: 0; left: 0; bottom: 0; height: 100%; max-height: none;
+      width: min(84vw, 330px); border-radius: 0; padding-top: 54px;
+      transform: translateX(-104%); transition: transform 0.22s ease; z-index: 28;
+    }}
+    body.m-lists #sidebar {{ transform: none; }}
+
+    /* Count filter -> right drawer */
+    #right-col {{
+      top: 0; right: 0; bottom: 0; width: min(84vw, 330px);
+      transform: translateX(104%); transition: transform 0.22s ease; z-index: 28;
+    }}
+    #filter {{ width: 100%; height: 100%; border-radius: 0; padding-top: 54px; overflow-y: auto; font-size: 13px; }}
+    body.m-filter #right-col {{ transform: none; }}
+
+    /* Tap-away scrim behind the open drawer / search */
+    #m-scrim {{ position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 27; }}
+    body.m-lists #m-scrim, body.m-filter #m-scrim {{ display: block; }}
+    body.m-search #m-scrim {{ display: block; background: transparent; }}
+
+    /* Larger touch targets for zoom, slimmer footer */
+    #zoom-ctrl {{ bottom: 10px; right: 10px; gap: 7px; }}
+    #zoom-ctrl button {{ width: 40px; height: 40px; }}
+    #datasource {{ font-size: 9px; bottom: 4px; }}
+  }}
 </style>
 </head>
 <body>
@@ -1285,8 +1357,14 @@ def main():
 <div id="tooltip"></div>
 <div id="title">
   <img class="t-mark" src="https://img.icons8.com/color/96/world-cup.png" alt="" width="24" height="24">
-  <span class="t-main">FIFA World Cup 2026 <span class="t-accent">Club Network</span></span>
+  <span class="t-main"><span class="t-pre">FIFA World Cup 2026 </span><span class="t-accent">Club Network</span></span>
 </div>
+<div id="mobile-actions">
+  <button id="mb-search" onclick="toggleMobile('search')" aria-label="Search" title="Search">&#128269;</button>
+  <button id="mb-lists" onclick="toggleMobile('lists')" aria-label="Top clubs and leagues" title="Top lists">&#9776;</button>
+  <button id="mb-filter" onclick="toggleMobile('filter')" aria-label="Count filter" title="Count players by">&#9881;</button>
+</div>
+<div id="m-scrim" onclick="closeMobilePanels()"></div>
 <div id="sidebar">
   <div id="sb-clubs-box"><h3>Top 10 Clubs</h3><div id="sb-list"></div></div>
   <div id="sb-leagues-box"><h3>Top Leagues</h3><div id="sb-leagues"></div></div>
@@ -1359,6 +1437,34 @@ function basisShort() {{
        : FILTER === "first"         ? "first senior"
        : "career";
 }}
+
+// ── Mobile drawers ──────────────────────────────────────────────────────────
+// On phones the top-lists sidebar, the count filter and search are hidden behind
+// floating buttons; only one panel is open at a time (body gets m-lists/m-filter/
+// m-search). On desktop these classes are inert (the media query never applies).
+function syncMobileButtons() {{
+  const b = document.body;
+  const set = (id, on) => {{ const el = document.getElementById(id); if (el) el.classList.toggle("on", on); }};
+  set("mb-search", b.classList.contains("m-search"));
+  set("mb-lists",  b.classList.contains("m-lists"));
+  set("mb-filter", b.classList.contains("m-filter"));
+}}
+function closeMobilePanels() {{
+  document.body.classList.remove("m-search", "m-lists", "m-filter");
+  syncMobileButtons();
+}}
+function toggleMobile(which) {{
+  const cls = "m-" + which;
+  const wasOpen = document.body.classList.contains(cls);
+  document.body.classList.remove("m-search", "m-lists", "m-filter");
+  if (!wasOpen) document.body.classList.add(cls);
+  syncMobileButtons();
+  if (which === "search" && !wasOpen) {{
+    const inp = document.getElementById("search-input");
+    if (inp) setTimeout(() => inp.focus(), 60);
+  }}
+}}
+
 const PLAYER_DETAILS = {players_json};
 
 // ── Canvas ────────────────────────────────────────────────────────────────
@@ -1802,15 +1908,18 @@ function fitToCoords(coordsList, withTransition) {{
     .map(c => projection(c)).filter(Boolean);
   projection.scale(savedSc).translate(savedTr);
   if (!pts.length) return;
-  const pad = 80;
+  // On phones the side panels are hidden behind buttons, so the map can use the
+  // full width; reserve only a little top room for the title + breadcrumb.
+  const isMobile = W <= 700;
+  const pad = isMobile ? 58 : 80;   // extra room so edge labels (CONCACAF) don't clip
   const x0 = d3.min(pts, p=>p[0]) - pad, x1 = d3.max(pts, p=>p[0]) + pad;
   const y0 = d3.min(pts, p=>p[1]) - pad, y1 = d3.max(pts, p=>p[1]) + pad;
   // Reserve screen space for the title / Top-10 panels on the left (and a little
   // on top) so the map fits to the RIGHT of them — i.e. zoom out a touch and
   // shift right so North America isn't hidden behind the panels.
-  const marginL = Math.min(340, W * 0.36);   // reserve left room -> shifts the map right
-  const marginT = 40;
-  const ZOOM_OUT = 0.94;                      // pull back so North America clears the panels
+  const marginL = isMobile ? 8 : Math.min(340, W * 0.36);   // no left panels on mobile
+  const marginT = isMobile ? 96 : 40;                        // clear title + breadcrumb
+  const ZOOM_OUT = isMobile ? 1.0 : 0.94;                    // use the full width on mobile
   const k  = Math.min((W - marginL) / (x1-x0), (H - marginT) / (y1-y0), 20) * ZOOM_OUT;
   const cx = (x0+x1)/2, cy = (y0+y1)/2;
   const tx = (W + marginL) / 2 - baseTx + k * (baseTx - cx);
@@ -2220,7 +2329,14 @@ function updateSidebar(nodes) {{
   const showLeagues = ["confederation", "country"].includes(level);  // hides once a country is selected
   document.getElementById("sb-clubs-box").style.display   = showClubs   ? "block" : "none";
   document.getElementById("sb-leagues-box").style.display = showLeagues ? "block" : "none";
-  if (!showClubs && !showLeagues) {{ sb.style.display = "none"; return; }}
+  if (!showClubs && !showLeagues) {{
+    sb.style.display = "none";
+    document.body.classList.add("lists-empty");
+    document.body.classList.remove("m-lists");   // nothing to show -> close drawer
+    syncMobileButtons();
+    return;
+  }}
+  document.body.classList.remove("lists-empty");
   sb.style.display = "block";
   document.querySelector("#sb-clubs-box h3").innerHTML   =
     `<span>Top Clubs · ${{basisShort()}}</span><span class="sb-h-count">Players</span>`;
@@ -2246,7 +2362,7 @@ function updateSidebar(nodes) {{
       ).join("");
     elc.querySelectorAll(".sb-link").forEach(row => {{
       const r = clubRows[+row.dataset.i];
-      row.onclick = () => gotoClubInView(r.item.country, r.item.name);
+      row.onclick = () => {{ closeMobilePanels(); gotoClubInView(r.item.country, r.item.name); }};
     }});
   }}
   if (showLeagues) {{
@@ -2268,7 +2384,7 @@ function updateSidebar(nodes) {{
       ).join("");
     ellg.querySelectorAll(".sb-link").forEach(row => {{
       const r = lgRows[+row.dataset.i];
-      row.onclick = () => gotoLeague(r.item.country, r.item.name);
+      row.onclick = () => {{ closeMobilePanels(); gotoLeague(r.item.country, r.item.name); }};
     }});
   }}
 }}
@@ -2546,12 +2662,12 @@ function render(nodes) {{
           .datum(coords)  // stored so zoom handler can reproject
           .attr("transform", `translate(${{pos[0]}},${{pos[1]}})`)
           .attr("text-anchor", "middle").attr("dy", "0.35em")
-          .style("font-size", "18px").style("font-weight", "800")
-          .style("letter-spacing", "0.5px")
+          .style("font-size", W <= 700 ? "12px" : "18px").style("font-weight", "800")
+          .style("letter-spacing", W <= 700 ? "0.2px" : "0.5px")
           .style("fill", "#0a1626")
           // crisp white outline around the glyphs (reads on any colour)
           .style("stroke", "rgba(255,255,255,0.92)")
-          .style("stroke-width", "4px")
+          .style("stroke-width", W <= 700 ? "3px" : "4px")
           .style("stroke-linejoin", "round")
           .style("paint-order", "stroke")
           .style("pointer-events", "none")
@@ -2916,6 +3032,8 @@ function selectResult(e) {{
 function closeSearch(clear) {{
   const box = document.getElementById("search-results");
   box.classList.remove("open");
+  document.body.classList.remove("m-search");   // also collapse the mobile search bar
+  syncMobileButtons();
   if (clear) {{
     document.getElementById("search-input").value = "";
     box.innerHTML = ""; srResults = []; srActive = -1;
