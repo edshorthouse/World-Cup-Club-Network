@@ -1028,7 +1028,10 @@ function ctrlFit() {
     // and scroll vertically (anchored at the top). The club grid is laid out
     // portrait (see the club view) and fits BOTH dimensions into the band below
     // the header, so nearly every club is visible at once.
-    const topChrome = 96, botChrome = 56, bandH = H - topChrome - botChrome;
+    // topChrome + botChrome stays 152 (matches the grid's aspect target) so the
+    // fitted size is unchanged; the split sits the grid just under the breadcrumb
+    // with comfortable room above the footer/zoom buttons rather than centred low.
+    const topChrome = 78, botChrome = 74, bandH = H - topChrome - botChrome;
     let k, ty;
     if (isMobile && isLeagueFit) {
       k = Math.min(W / (x1-x0), 5);
