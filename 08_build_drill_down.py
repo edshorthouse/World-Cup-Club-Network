@@ -1004,7 +1004,7 @@ def main():
 <style>
   * {{ box-sizing: border-box; margin: 0; padding: 0; }}
   body {{ background: #0d1c35; color: #eee; font-family: sans-serif; overflow: hidden; }}
-  #canvas {{ width: 100vw; height: 100vh; cursor: default; }}
+  #canvas {{ width: 100vw; height: 100vh; height: 100dvh; cursor: default; }}  /* JS then pins exact px */
   .node circle {{ cursor: pointer; transition: opacity 0.15s; }}
   .node circle:hover {{ opacity: 0.75; }}
   .node text {{ pointer-events: none; fill: #fff;
@@ -1505,8 +1505,21 @@ function hidePanHint() {{
 const PLAYER_DETAILS = {players_json};
 
 // ── Canvas ────────────────────────────────────────────────────────────────
-const W = window.innerWidth, H = window.innerHeight;
-const svg = d3.select("#canvas").attr("viewBox", `0 0 ${{W}} ${{H}}`);
+// iOS Safari reports 100vh as the *large* viewport (the area behind the bottom
+// toolbar) while window.innerHeight is the visible area. A CSS-sized (100vh)
+// canvas would therefore be taller than its viewBox, so the whole scene gets
+// scaled and centred vertically — pushing content down (big gap under the
+// breadcrumb, bottom row cut off). Pin the SVG to innerHeight px so screen and
+// viewBox coordinates stay 1:1; remeasure on rotation (see relayout, below).
+let W, H, baseScale, baseTx, baseTy;
+function measureViewport() {{
+  W = window.innerWidth; H = window.innerHeight;
+  baseScale = W / (2 * Math.PI); baseTx = W / 2; baseTy = H / 2 + 20;
+}}
+measureViewport();
+const svg = d3.select("#canvas")
+  .attr("viewBox", `0 0 ${{W}} ${{H}}`)
+  .style("width", W + "px").style("height", H + "px");
 
 // Ocean fill sits behind everything and never moves
 svg.append("rect").attr("class","ocean-bg").attr("width", W).attr("height", H).attr("fill", "#0d1c35");
@@ -1531,10 +1544,7 @@ const countryPathMap = new Map();  // ISO numeric code → SVGPathElement
 const tip = document.getElementById("tooltip");
 
 // ── Geo projection — equirectangular (flat rectangular grid) ──────────────
-const baseScale = W / (2 * Math.PI);
-const baseTx    = W / 2;
-const baseTy    = H / 2 + 20;
-
+// (baseScale / baseTx / baseTy are set by measureViewport above.)
 const projection = d3.geoEquirectangular()
   .scale(baseScale)
   .translate([baseTx, baseTy]);
@@ -3183,6 +3193,27 @@ function showPlayerDetail(key) {{
     if (!document.getElementById("search").contains(ev.target)) box.classList.remove("open");
   }});
 }})();
+
+// Re-fit when the viewport actually changes shape (rotation). Guarded on WIDTH
+// so the iOS soft keyboard / toolbar (height-only changes) don't trigger a
+// re-render — those would otherwise reflow the view while you're typing.
+let _vpW = window.innerWidth, _vpTimer = null;
+function relayout() {{
+  measureViewport();
+  svg.attr("viewBox", `0 0 ${{W}} ${{H}}`).style("width", W + "px").style("height", H + "px");
+  svg.select("rect.ocean-bg").attr("width", W).attr("height", H);
+  projection.scale(baseScale).translate([baseTx, baseTy]);
+  committedT = d3.zoomIdentity;
+  render(currentNodes);
+}}
+function onViewportChange() {{
+  if (window.innerWidth === _vpW) return;     // height-only change -> ignore
+  _vpW = window.innerWidth;
+  clearTimeout(_vpTimer);
+  _vpTimer = setTimeout(relayout, 200);
+}}
+window.addEventListener("resize", onViewportChange);
+window.addEventListener("orientationchange", () => setTimeout(onViewportChange, 60));
 
 // Kick off
 buildSearchIndex();
