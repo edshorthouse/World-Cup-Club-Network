@@ -7,6 +7,8 @@ __pycache__/
 
 # Editor / local tooling
 .claude/
+.idea/
+.Rhistory
 
 # Debug output
 everton_hits.csv
