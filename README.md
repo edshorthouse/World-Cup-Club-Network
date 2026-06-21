@@ -18,8 +18,13 @@ python 05_enrich_club_details.py   # league+country  -> club_details.csv (in pla
 python 06_league_levels.py         # pyramid tiers   -> league_levels.csv
 python 07_detect_dissolved.py      # defunct clubs   -> dissolved_clubs.json
 python extract_player_bio.py       # position + DOB  -> player_bio.csv  (optional enrichment)
-python 08_build_drill_down.py      # the viz         -> drill_down.html
+python 08_build_drill_down.py      # the viz         -> drill_down.html + index.html
 ```
+
+`08` writes **both** `drill_down.html` (open locally) and `index.html` (served at the
+GitHub Pages root). To publish a refresh: re‑run the pipeline, then
+`git add -A && git commit -m "Refresh data" && git push` — live at
+https://edshorthouse.github.io/World-Cup-Club-Network/
 
 Then open **`drill_down.html`** in any browser (no server needed).
 
