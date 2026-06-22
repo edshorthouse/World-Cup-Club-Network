@@ -1006,7 +1006,10 @@ function fitToCoords(coordsList, withTransition) {
   const tx = (W + marginL) / 2 - baseTx + k * (baseTx - cx);
   const ty = (H + marginT) / 2 - baseTy + k * (baseTy - cy);
   const target = d3.zoomIdentity.translate(tx, ty).scale(k);
-  if (withTransition === false) svg.call(zoomBehaviour.transform, target);
+  svg.interrupt();   // cancel any in-flight fit so two transitions can't overlap
+  // Instant on phones: iOS Safari leaves ghost copies of animated SVG transforms
+  // (looks like duplicated/doubled labels), so snap straight to the fitted view.
+  if (withTransition === false || isMobile) svg.call(zoomBehaviour.transform, target);
   else svg.transition().duration(450).call(zoomBehaviour.transform, target);
 }
 
@@ -1055,10 +1058,11 @@ function ctrlFit() {
       ty = H/2 - k*cy;
     }
     const tx = W/2 - k*cx;
-    svg.transition().duration(450).call(
-      zoomBehaviour.transform,
-      d3.zoomIdentity.translate(tx, ty).scale(k)
-    );
+    const target = d3.zoomIdentity.translate(tx, ty).scale(k);
+    svg.interrupt();   // cancel any in-flight fit so two transitions can't overlap
+    // Instant on phones — iOS Safari ghosts animated SVG transforms (doubled labels).
+    if (isMobile) svg.call(zoomBehaviour.transform, target);
+    else svg.transition().duration(450).call(zoomBehaviour.transform, target);
   }
 }
 
@@ -2210,7 +2214,9 @@ function relayout() {
   render(currentNodes);
 }
 function onViewportChange() {
-  if (window.innerWidth === _vpW) return;     // height-only change -> ignore
+  // Only a real width change (rotation) re-fits. Ignore height-only changes
+  // (soft keyboard, toolbar) and tiny iOS width jitter so we never double-render.
+  if (Math.abs(window.innerWidth - _vpW) < 40) return;
   _vpW = window.innerWidth;
   clearTimeout(_vpTimer);
   _vpTimer = setTimeout(relayout, 200);
