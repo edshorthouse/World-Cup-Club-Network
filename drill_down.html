@@ -1044,7 +1044,7 @@ function ctrlFit() {
     // topChrome + botChrome stays 152 (matches the grid's aspect target) so the
     // fitted size is unchanged; the split sits the grid just under the breadcrumb
     // with comfortable room above the footer/zoom buttons rather than centred low.
-    const topChrome = 78, botChrome = 74, bandH = H - topChrome - botChrome;
+    const topChrome = 86, botChrome = 100, bandH = H - topChrome - botChrome;
     let k, ty;
     if (isMobile && isLeagueFit) {
       k = Math.min(W / (x1-x0), 5);
@@ -1877,7 +1877,7 @@ function render(nodes) {
       // Desktop aims for a roughly square block. Phones shape the block to match
       // the (portrait) screen so fitting BOTH dimensions shows nearly every club
       // at once at the largest size that still fits — no horizontal panning.
-      const bandH = Math.max(360, H - 152);     // usable height below the header
+      const bandH = Math.max(360, H - 186);     // usable height below the header (matches ctrlFit)
       const wTarget = (W <= 700)
         ? Math.max(widest, Math.sqrt(totalW * ROW_H * (W / bandH)))
         : Math.max(widest, Math.sqrt(totalW * ROW_H));
