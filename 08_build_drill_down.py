@@ -1007,8 +1007,13 @@ def main():
   #canvas {{ width: 100vw; height: 100vh; height: 100dvh; cursor: default; }}  /* JS then pins exact px */
   .node circle {{ cursor: pointer; transition: opacity 0.15s; }}
   .node circle:hover {{ opacity: 0.75; }}
-  .node text {{ pointer-events: none; fill: #fff;
-                text-shadow: 0 0 4px #000, 0 0 4px #000; }}
+  .node text {{ pointer-events: none; fill: #fff; }}
+  /* Outline labels with an SVG stroke (paint-order) instead of text-shadow.
+     text-shadow renders as a *separate* layer that iOS Safari can paint offset
+     from the glyphs under compositing — the "two layers / doubled labels" bug.
+     A paint-order stroke is part of the same glyph paint, so it can't desync. */
+  .node-label {{ stroke: #0b1424; stroke-width: 3px; stroke-linejoin: round;
+                 paint-order: stroke; vector-effect: non-scaling-stroke; }}
   #breadcrumb {{
     position: fixed; top: 12px; left: 50%;
     transform: translateX(-50%);
